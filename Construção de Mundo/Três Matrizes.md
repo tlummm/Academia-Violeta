@@ -4,12 +4,12 @@ Cada **Matriz** representa um característica divina, sendo a onipresença, onip
 
 O poder de uma **Matriz** pode ser tanto o seu máximo quanto o seu mínimo, **Ápice** e **Ocaso**, totalizando **Seis Aspectos**, sendo eles:
 
-**Agilidade**: 
+**Agilidade**:
 
 * **Presença**: estar em tudo — **Ápice**;
 * **Ausência**: estar em nada — **Ocaso**;
 
-**Força**: 
+**Força**:
 
 * **Agência**: poder algo — **Ápice**;
 * **Essência**: ser algo — **Ocaso**;
@@ -19,4 +19,6 @@ O poder de uma **Matriz** pode ser tanto o seu máximo quanto o seu mínimo, **�
 * Ciência: compreensão — **Ápice**;
 * Inocência: sentido — **Ocaso**;
 
-> E as [[Três Matrizes]] podem possuir as **Artes** dos [[@Cinco poderes_]] formando-se as [[@Classes_]].
+> E as [[Três Matrizes]] podem possuir as **Artes** dos [[Cinco Poderes]] formando-se as [[@Classes_]], assim como outros seres, objetos ou até lugares.
+
+---
