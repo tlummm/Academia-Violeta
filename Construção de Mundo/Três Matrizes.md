@@ -1,3 +1,10 @@
+
+---
+
+![[Imagem — Hexágono dos Aspectos.svg|700]]
+
+---
+
 As [[Três Matrizes]], também conhecido como os **Três Universais**, são as características que constituem todos os seres, como uma assinatura de sua individualidade, definindo suas capacidades.
 
 Cada **Matriz** representa um característica divina, sendo a onipresença, onipotência e onisciência, representados respectivamente por: **Agilidade**, **Força** e **Inteligência**.
