@@ -1,0 +1,3 @@
+É uma regra simples que há em praticamente todos os **RPGs**, a prioridade da diversão dos **Jogadores** é maior do que o próprio **Jogo**, então qualquer **Regra** ou **Sistema** pode ser completamente ignorado ou manipulado se isso for favorecer a dinâmica do grupo. No entanto é extremamente recomendável seguir com os fundamentos do jogo, além de realizar críticas sobre os aspectos que mais desagradam o grupo, ao mesmo tempo que os **Jogadores** devem ser incentivados recompensados por jogar sem a **Regra de Ouro**.
+
+---
