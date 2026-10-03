@@ -1,6 +1,6 @@
 # Plano de Combate
 
-Diferente de [[@Interpretação]], o **Plano de Combate** possui mais **Regras** além de mais importância nos [[@Aspectos_]].
+Diferente de [[@Interpretação]], o **Plano de Combate** possui mais **Regras** além de mais importância nos [[@Atributos_]].
 
 A **Primeira Regra** é que: existem uma ordem de turnos, baseado no **Atributo** de **Velocidade** dos **Jogadores**, do mais rápido para o mais lento, depois o turno dos **Oponentes**, também seguindo a mesma ordem.
 

@@ -1,4 +1,4 @@
-As [[@Classes_]] definem as **Habilidades** e **Talentos** da [[@Ficha]] de um **Personagem**, definindo quem ele é, o que pode fazer e suas funções, sendo recomendável alguns [[@Itens]],  [[@Aspectos_]] para o melhor rendimento de suas funcionalidades.
+As [[@Classes_]] definem as **Habilidades** e **Talentos** da [[@Ficha]] de um **Personagem**, definindo quem ele é, o que pode fazer e suas funções, sendo recomendável alguns [[@Itens]],  [[@Atributos_]] para o melhor rendimento de suas funcionalidades.
 
 As [[@Classes_]] são divididas nos três grandes **Aspectos** sendo a **Agilidade**, **Força** e **Inteligência**, além de também possuírem **Funções**:  
 

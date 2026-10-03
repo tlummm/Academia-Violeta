@@ -4,7 +4,7 @@ Possuem **Talentos** e **Habilidades** que modificam **Regras**, feitos para tra
 
 * **Dano**: de todas as formas possíveis contra todos os tipos de oponentes.
 
-Por ser do **Aspecto** da **Agilidade** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[@Interpretação]], além de 1 ponto adicional em cada [[@Aspectos_]] de **Alcance**, **Sorte** e **Velocidade**, mas também recebe em um **Atributo Secundário** de **Esquiva**.
+Por ser do **Aspecto** da **Agilidade** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[@Interpretação]], além de 1 ponto adicional em cada [[@Atributos_]] de **Alcance**, **Sorte** e **Velocidade**, mas também recebe em um **Atributo Secundário** de **Esquiva**.
 
 ---
 

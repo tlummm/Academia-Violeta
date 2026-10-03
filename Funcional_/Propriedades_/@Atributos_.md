@@ -1,4 +1,7 @@
-Aspectos são conjuntos universais que englobam propriedades como poderes, capacidades e até personalidades de seres que fazem parte deles. Eles são divididos em três grandes categorias: **Agilidade**, **Força** e **Inteligência**. Um aspecto pode melhorar significativamente ações em determinados nichos, porém ao custo de ter fraquezas claras em outros cenários.
+
+---
+
+![[Imagem — Hexágono dos Atributos.svg|700]]
 
 ---
 

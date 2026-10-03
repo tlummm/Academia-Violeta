@@ -1,4 +1,4 @@
-Existem cinco fontes de poderes diferentes no universo de a [[Naufrágio]], sendo quatros deles não naturais e apenas um baseado no esforço próprio ou em coisas reais. Os poderes também são conhecidos como **Artes**, sendo divido entre:
+Existem cinco fontes de poderes diferentes no universo de a [[Naufrágio_]], sendo quatros deles não naturais e apenas um baseado no esforço próprio ou em coisas reais. Os poderes também são conhecidos como **Artes**, sendo divido entre:
 
 * **Artes Sagradas**: orações, milagres e bençãos;
 * **Artes Sombrias**: rituais, sacrifícios e maldições;
