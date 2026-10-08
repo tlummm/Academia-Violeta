@@ -37,7 +37,7 @@ As demais **Classes** ficam em [[@Classes_]]. A **Classe** é a decisão central
 
 ### Aspectos e Atributos
 
-Detalhados em [[@Atributos_]]. Recursos base: **Vida** e **Mana**.
+Detalhados em [[Atributos]]. Recursos base: **Vida** e **Mana**.
 
 - **Atributos Primários**: Alcance, Ataque, Defesa, Domínio, Espírito, Maestria, Sorte, Velocidade, Vigor.
 - **Atributos Secundários**: Crítico, Precisão, Letalidade, Esquiva, entre outros.

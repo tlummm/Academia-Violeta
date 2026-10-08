@@ -19,7 +19,7 @@ Qualquer **Ação** realizada que seja do **Plano de Combate** ou caso algum eve
 
 Qualquer ação que não seja de **Combate** pode ser enquadrada como **Interpretação**, sendo qualquer ato a partir da **Imaginação** do **Jogador**. Essa ações são sempre englobadas em algum tipo e em muitos casos há um teste no **d20**, onde a dificuldade é baseada em vários fatores, como **Nível** de dificuldade, dos **NPCs** e **Monstros** presentes, porém o veredito final de dificuldade do teste é sempre do **Mestre**.
 
-Os [[@Atributos_]] tem muita influência nos testes, dando vantagens e também sendo formas de catalogar as **Ações Interpretativas**. São tanto agrupadas por **Aspectos** e dentro deles pelos seus **Atributos** correspondentes:
+Os [[Atributos]] tem muita influência nos testes, dando vantagens e também sendo formas de catalogar as **Ações Interpretativas**. São tanto agrupadas por **Aspectos** e dentro deles pelos seus **Atributos** correspondentes:
 #### Agilidade
 Personagens baseados em **Agilidade** possuem vantagem nas seguintes categorias:
 
@@ -45,7 +45,7 @@ Personagens baseados em **Inteligência** possuem vantagem nas seguintes categor
 
 Modificadores impactam diretamente na **Precisão** das **Ações Interpretativa** (mais detalhes em [[@Habilidades e Talentos]]), quanto maior for o modificador, também será maior o valor adicional somado no arremesso de **Dados**.  
 
-Os **Modificadores** são determinados exatamente igual aos **Adicionais de acumulo** de [[@Atributos_]], a cada 10 pontos de um **Atributo** é aumentado um **Modificador** naquelas categorias. Por exemplo, um **Personagem** com 10 pontos de **Ataque** teria um 1 valor adicional em seus **Testes Interpretativos** de intimidar, ser confiante, quebrar coisas e entre outros. 99 pontos garantem os **Testes** daquela categoria, mas pode ser vetado pelo **Mestre** ou exigirem **Crítico** em alguns cenários.
+Os **Modificadores** são determinados exatamente igual aos **Adicionais de acumulo** de [[Atributos]], a cada 10 pontos de um **Atributo** é aumentado um **Modificador** naquelas categorias. Por exemplo, um **Personagem** com 10 pontos de **Ataque** teria um 1 valor adicional em seus **Testes Interpretativos** de intimidar, ser confiante, quebrar coisas e entre outros. 99 pontos garantem os **Testes** daquela categoria, mas pode ser vetado pelo **Mestre** ou exigirem **Crítico** em alguns cenários.
 
 É importante que ressaltar que por adversidades o **Personagem** pode ter esse **Efeito Negativado**, atrapalhando suas jogadas. Também existe **Modificadores Críticos**, que facilitam o valor máximo o reduzindo para menos de 20 no **d20**, como 19 em apenas um **Modificador Crítico** por exemplo.
 

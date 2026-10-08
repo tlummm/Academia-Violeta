@@ -5,7 +5,7 @@ Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para r
 - **Dano**: de todas as formas possíveis contra todos os tipos de oponentes.
 - **Tanque**: Resistir a **Ataques**, tendo proteção contra qualquer tipo de ameaça.
 
-Por ser do **Aspecto** da **Força** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[@Interpretação]], além de 1 ponto adicional em cada [[@Atributos_]] de **Ataque**, **Defesa** e **Vigor**, mas também recebe em um **Atributo Secundário** de **Crítico**.
+Por ser do **Aspecto** da **Força** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[@Interpretação]], além de 1 ponto adicional em cada [[Atributos]] de **Ataque**, **Defesa** e **Vigor**, mas também recebe em um **Atributo Secundário** de **Crítico**.
 
 ---
 

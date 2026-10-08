@@ -5,7 +5,7 @@ Eles podem usar **Habilidades** para destruir vários alvos simultâneos, contro
 * **Dano**: acompanhado de controle com diversos **Efeitos**.
 * **Suporte**: recuperar recursos para você e seus aliados.
 
-Por ser do **Aspecto** da **Inteligência** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[@Interpretação]], além de 1 ponto adicional em cada [[@Atributos_]] de **Domínio**, **Espírito** e **Maestria**, mas também recebe em um **Atributo Secundário** de **Precisão**.
+Por ser do **Aspecto** da **Inteligência** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[@Interpretação]], além de 1 ponto adicional em cada [[Atributos]] de **Domínio**, **Espírito** e **Maestria**, mas também recebe em um **Atributo Secundário** de **Precisão**.
 
 ---
 

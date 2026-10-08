@@ -6,7 +6,7 @@ O novo personagem pode ser criado utilizando a [[@Ficha]] para colocar as inform
 
 **Personagem**: onde há informações básicas como **Nome**, **Apelido** e **História**, é um espaço totalmente livre para criatividade do jogador. Nenhuma dessas informações é muito relevante, sendo apenas formas do jogador, o grupo e o mestre visualizarem melhor seu **Personagem**. Entretanto a **Classe** é a decisão central da [[@Ficha]]. Essa escolha pode ser feita em [[@Classes_]].
 
-[[@Atributos_]]: onde há informações relevantes tanto para **Interpretação** quanto para **Combate**. Todos os personagens começam no **Nível** 1. O primeiro passo é distribuir pontos de **Atributo Primário**, assim ganhando os seus valores como **Vida** e **Mana**. São 12 pontos iniciais para distribuir, mas cada **Atributo** já possui 2 ponto base, além de não poderem passar de um máximo de 9 base na criação de [[@Ficha]] (colocar mais de 7 pontos no mesmo).
+[[Atributos]]: onde há informações relevantes tanto para **Interpretação** quanto para **Combate**. Todos os personagens começam no **Nível** 1. O primeiro passo é distribuir pontos de **Atributo Primário**, assim ganhando os seus valores como **Vida** e **Mana**. São 12 pontos iniciais para distribuir, mas cada **Atributo** já possui 2 ponto base, além de não poderem passar de um máximo de 9 base na criação de [[@Ficha]] (colocar mais de 7 pontos no mesmo).
 
 [[@Efeitos]]: uma aba apenas para anotar os [[@Efeitos]] positivos e negativos que seu personagem sofrer em **Planos**.
 

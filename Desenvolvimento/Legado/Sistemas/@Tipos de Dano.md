@@ -1,4 +1,4 @@
-Em [[@Atributos_]] é mencionado como **Defesa** e **Espírito** mitigam parte do **Dano**, sendo ele **Mágico** ou **Físico**. No entanto há um tipo de **Dano** que ignora qualquer proteção, que é o **Dano Puro**.
+Em [[Atributos]] é mencionado como **Defesa** e **Espírito** mitigam parte do **Dano**, sendo ele **Mágico** ou **Físico**. No entanto há um tipo de **Dano** que ignora qualquer proteção, que é o **Dano Puro**.
 
 Sobre os **Danos** normais, **Físico** e **Mágico**, mesmo que a mitigação seja total a quantia de **Dano**, sempre há o mínimo de sofre pelo menos de 1 de **Dano** da fonte. Portanto não existe mitigação perfeita, a não ser que seja explicitamente mencionado, como em alguma **Habilidade**, **Item** ou **Talento** por exemplo.
 

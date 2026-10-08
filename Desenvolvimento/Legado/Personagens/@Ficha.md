@@ -13,7 +13,7 @@
 
 ---
 
-# [[@Atributos_]]
+# [[Atributos]]
 
 **Nível**: 0;
 
