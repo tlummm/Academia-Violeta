@@ -5,7 +5,7 @@
 
 ---
 
-As **Três [[Matrizes]]**, também conhecidas como os **Três Universais**, são as formas que todo poder pode tomar. Elas existem em todos os mundos do [[Naufrágio_]], independente de suas regras, e marcam tudo o que existe neles como uma assinatura: seres, objetos e até lugares carregam uma ou mais **Matrizes**, que moldam o que são capazes de fazer e até a sua personalidade.
+As **Três [[Matrizes]]**, também conhecidas como os **Três Universais**, são as formas que todo poder pode tomar. Elas existem em todos os mundos do [[Naufrágio]], independente de suas regras, e marcam tudo o que existe neles como uma assinatura: seres, objetos e até lugares carregam uma ou mais **Matrizes**, que moldam o que são capazes de fazer e até a sua personalidade.
 
 Cada **Matriz** é um reflexo de uma característica divina:
 
@@ -59,6 +59,6 @@ A **Matriz** da **onisciência**. Seres de **Inteligência** entendem antes de a
 
 # Matrizes e Artes
 
-As **Matrizes** não são a fonte do poder. A fonte são as **Artes** dos [[Cinco Poderes_]]. Uma **Arte** diz de onde o poder vem, e uma **Matriz** diz a forma que ele toma. Um mesmo poder **Sagrado** pode ser a bênção que protege (**Essência**), o milagre que cura e entende (**Ciência**) ou a presença divina que se faz sentir em todo lugar (**Presença**).
+As **Matrizes** não são a fonte do poder. A fonte são as **Artes** dos [[Cinco Poderes]]. Uma **Arte** diz de onde o poder vem, e uma **Matriz** diz a forma que ele toma. Um mesmo poder **Sagrado** pode ser a bênção que protege (**Essência**), o milagre que cura e entende (**Ciência**) ou a presença divina que se faz sentir em todo lugar (**Presença**).
 
 ---

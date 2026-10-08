@@ -26,7 +26,7 @@ Nos últimos três **Níveis** as **Feras** começam a apresentar característic
 
 ### Natureza
 
-As criaturas, se não forem **Animais**, sempre possuem um **Celeste** dos [[Cinco Poderes_]] como sua origem que justifica sua existência fora da lógica. Os seres podem ter uma:
+As criaturas, se não forem **Animais**, sempre possuem um **Celeste** dos [[Cinco Poderes]] como sua origem que justifica sua existência fora da lógica. Os seres podem ter uma:
 
 * **Natureza Comum (Própria)**;
 * **Natureza Sagrada (Teurgia)**;

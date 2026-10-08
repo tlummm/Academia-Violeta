@@ -1,3 +1,6 @@
+
+---
+
 As [[@Classes_]] definem as **Habilidades** e **Talentos** da [[@Ficha]] de um **Personagem**, definindo quem ele é, o que pode fazer e suas funções, sendo recomendável alguns [[@Itens]],  [[Atributos]] para o melhor rendimento de suas funcionalidades.
 
 As [[@Classes_]] são divididas nas três [[Matrizes]], sendo a **Agilidade**, **Força** e **Inteligência**, além de também possuírem **Funções**:  
