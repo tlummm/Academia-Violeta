@@ -1,21 +1,21 @@
 
 ---
 
-Existem cinco fontes de poder em todo o [[Naufrágio]], conhecidas como as **Cinco Artes**. Uma delas é o que de fato existe: o mundo como ele é e tudo o que um ser consegue fazer com as próprias capacidades. As outras quatro vêm de além disso, de algo que a natureza sozinha não produz.
+Existem cinco fontes de poder em todo o [[Naufrágio]], conhecidas como os **Cinco Poderes**. Um deles é o que de fato existe: o mundo como ele é e tudo o que um ser consegue fazer com as próprias capacidades. Os outros quatro vêm de além disso, de algo que a natureza sozinha não produz.
 
-* **Artes Sagradas**: orações, milagres e bênçãos;
-* **Artes Sombrias**: rituais, sacrifícios e maldições;
-* **Artes Selvagens**: tradições, ancestrais e os espíritos da natureza;
-* **Artes Mágicas**: abstração, invocação e manipulação;
-* **Artes Reais**: o conhecimento e a capacidade humana.
+* **Sagrado**: orações, milagres e bênçãos;
+* **Sombrio**: rituais, sacrifícios e maldições;
+* **Selvagem**: tradições, ancestrais e os espíritos da natureza;
+* **Mágico**: abstração, invocação e manipulação;
+* **Real**: o conhecimento e a capacidade humana.
 
-Uma **Arte** diz de onde o poder vem; a forma que ele toma é dada pelas [[Matrizes]].
+Um **Poder** diz de onde a força vem; a forma que ela toma é dada pelas [[Matrizes]]. O que cada **Poder** ensina são as suas [[Artes]]: as **Artes Sagradas**, **Sombrias**, **Selvagens**, **Mágicas** e **Reais**.
 
 ---
 
 # A ordem do ser
 
-As **Artes** se organizam pela distância que têm do que simplesmente existe.
+Os **Poderes** se organizam pela distância que têm do que simplesmente existe.
 
 * **Real**: o **natural**. Tudo o que é por si mesmo, sem nada de fora: a pedra, o rio, o mosquito, o elefante, o corpo e a mente de uma pessoa. Um animal comum é **Real**, por mais selvagem que seja.
 * **Selvagem**: o que está **por trás** da natureza. Os espíritos, os ancestrais e as criaturas do folclore, que vivem no limite entre o que existe e o que se conta. Para o **Selvagem**, tudo o que vive tem alma, e quem fala com essa alma comanda até os animais comuns.
@@ -25,20 +25,20 @@ As **Artes** se organizam pela distância que têm do que simplesmente existe.
 
 ---
 
-# Relação entre as Artes
+# Relação entre os Poderes
 
-Quando duas **Artes** se enfrentam, uma pode levar a melhor sobre a outra:
+Quando dois **Poderes** se enfrentam, um pode levar a melhor sobre o outro:
 
-* **Subjugar**: uma **Arte** domina a outra por natureza. Diante dela, o poder subjugado se desfaz ou se curva.
-* **Ter vantagem**: uma **Arte** costuma vencer a outra, mas o resultado ainda depende de quem a pratica.
+* **Subjugar**: um **Poder** domina o outro por natureza. Diante dela, o poder subjugado se desfaz ou se curva.
+* **Ter vantagem**: um **Poder** costuma vencer o outro, mas o resultado ainda depende de quem a pratica.
 
-| **Arte**     | **Subjuga**     | **Tem vantagem sobre** |
+| **Poder**    | **Subjuga**     | **Tem vantagem sobre** |
 | :----------- | :-------------- | :--------------------- |
-| **Sagrada**  | Sombria         | Mágica                 |
-| **Sombria**  | Selvagem e Real | Mágica                 |
-| **Selvagem** | Real            | Nenhuma                |
-| **Mágica**   | Nenhuma         | Real e Selvagem        |
-| **Real**     | Nenhuma         | Sagrada                |
+| **Sagrado**  | Sombrio         | Mágico                 |
+| **Sombrio**  | Selvagem e Real | Mágico                 |
+| **Selvagem** | Real            | Nenhum                 |
+| **Mágico**   | Nenhum          | Real e Selvagem        |
+| **Real**     | Nenhum          | Sagrado                |
 
 ![[Imagem — Relação dos Cinco Poderes.svg|700]]
 
@@ -74,14 +74,16 @@ O **Sagrado** não destrói o que existe: aperfeiçoa. Ele não força a naturez
 
 # A capacidade humana
 
-A **Arte Real** é a mais frágil diante das outras, mas é a única que pode aprender com todas. A mente humana é capaz de entender qualquer coisa, e o que ela entende passa a fazer parte dela. Por isso quem domina o conhecimento humano consegue usar os meios das outras quatro **Artes**.
+O **Real** é o mais frágil diante dos outros, mas é o chão de todos eles. Tudo o que existe, existe naturalmente antes de qualquer outra coisa, então seres de qualquer **Poder** podem aprender as [[Artes Reais_]]. O caminho inverso não existe: quem é só **Real** não aprende as [[Artes]] dos outros **Poderes**.
+
+Mas a mente humana entende o que vê, e o que ela entende passa a fazer parte dela. Por isso só quem é **Real** consegue usar os objetos e recursos dos outros quatro **Poderes**: uma relíquia sagrada, um amuleto selvagem, uma máquina de outro mundo.
 
 ---
 
 # Magia e Tecnologia
 
-Nos mundos onde a **Tecnologia** ocupa o lugar da magia, ela é uma **Arte Mágica**: também entende a ideia por trás das coisas e a reescreve, só que por máquinas. Por isso compartilha as mesmas relações da **Magia**.
+Nos mundos onde a **Tecnologia** ocupa o lugar da magia, ela é do **Poder Mágico**: também entende a ideia por trás das coisas e a reescreve, só que por máquinas. Por isso compartilha as mesmas relações da **Magia**.
 
-> Quando **Magia** e **Tecnologia** se enfrentam, a **Magia** leva a melhor, mesmo sendo da mesma **Arte**.
+> Quando **Magia** e **Tecnologia** se enfrentam, a **Magia** leva a melhor, mesmo sendo do mesmo **Poder**.
 
 ---
