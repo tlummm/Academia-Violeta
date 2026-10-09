@@ -68,7 +68,7 @@ Poder das suas **Habilidades**, resistência a **Dano Mágico** e **Foco** para 
 ### Foco — a linha da Inteligência
 
 * **Regra**: seu **Foco** máximo é a sua **Base** (20, se nada disser o contrário) + **Maestria** + **Espírito**.
-* **Na prática**: **Foco** é a barra que todas as [[@Ações]] gastam, as **Ações Principais** mais que as outras. Sem **Foco** você fica limitado (ver [[@Ações]]).
+* **Na prática**: **Foco** é a barra que todas as [[Ações]] gastam, as **Ações Principais** mais que as outras. Sem **Foco** você fica limitado (ver [[Ações]]).
 * **Em Interpretação**: concentração, memória, estudo longo.
 
 ---
@@ -112,13 +112,13 @@ Se a **Fera** tivesse **Esquiva** 3, o mesmo 6 viraria 6 e Fulano erraria.
 
 Além dos nove, existem **Atributos** mais raros que só vêm de fontes externas (**Itens**, **Talentos**, **Feitos**). Eles não aparecem no **Hexágono** e começam em zero.
 
-1. **Alcance**: 1 metro a mais de alcance em [[@Ações]] (exceto **Corpo a Corpo** e **Movimento**).
+1. **Alcance**: 1 metro a mais de alcance em [[Ações]] (exceto **Corpo a Corpo** e **Movimento**).
 2. **Concentração**: recupera 1 de **Foco** no começo dos seus **Turnos**.
 3. **Crítico**: reduz em 1 o número necessário para **Acerto Crítico** no **d20** (apenas em **Combate**).
 4. **Ímpeto**: um **Ataque** extra por **Turno**, com metade das **Eficiências**.
 5. **Letalidade**: ignora 1 ponto de **Defesa** e **Espírito** do **Oponente**.
 6. **Liderança**: 1 ponto a mais em todos os **Atributos** das **Unidades** que você controla.
-7. **Manejo**: reduz em 1 o custo de **Foco** das suas [[@Ações]].
+7. **Manejo**: reduz em 1 o custo de **Foco** das suas [[Ações]].
 8. **Sorte**: 1 **Moeda** a mais em [[@Feitos]].
 9. **Regeneração**: recupera 1 de **Vida** no começo dos seus **Turnos**.
 
@@ -136,8 +136,8 @@ Os desafios do **Jogo** pedem personagens equilibrados, porém investir pesado n
 | **Defesa**    | **Falha Crítica** nos **Ataques** contra você aumenta em 1                        | **Críticos** recebidos por **Ataques** são reduzidos a **Dano** normal |
 | **Maestria**  | **Acerto Crítico** das suas **Ações** de [[@Interpretação]] aumenta em 1          | Seus acertos normais em **Ações Principais** são **Críticos**          |
 | **Espírito**  | **Falha Crítica** nas **Ações Principais** contra você aumenta em 1               | Recebe metade do **Dano** e [[@Efeitos]] de **Ações Principais**       |
-| **Precisão_** | [[@Ações]] de alvo único, ganham um alvo adicional                                | Suas [[@Ações]] só erram em **Erro Crítico**                           |
-| **Esquiva_**  | Quando uma **Ação** erra você, pode andar 5 metros fora do turno (imediatamente). | [[@Ações]] contra você só acertam com **Crítico**                      |
+| **Precisão_** | [[Ações]] de alvo único, ganham um alvo adicional                                | Suas [[Ações]] só erram em **Erro Crítico**                           |
+| **Esquiva_**  | Quando uma **Ação** erra você, pode andar 5 metros fora do turno (imediatamente). | [[Ações]] contra você só acertam com **Crítico**                      |
 |               |                                                                                   |                                                                        |
 
 ---

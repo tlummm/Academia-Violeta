@@ -61,7 +61,7 @@ Significa o que é **Habilidade** ou a que grupo ela pertence. Elas podem ser di
 * **Improvável**: maior ou igual a 16 no **d20**.
 * **Crítica**: 20 no **d20**.
 
-**O que é um Crítico**: é o acerto de 20 no **d20**, ocasionando em combate o dobro do **Dano** e **Efeitos** de uma **Ação**. O mesmo pode ocorrer com [[@Ações]] de [[@Interpretação]] para ganhar imediatamente de testes com o melhor resultado possível. Existem propriedades que podem facilitar o **Crítico** aumentando a sua chance, como o reduzindo para 19 através de [[Atributos]] secundários. Além disso existe o **Crítico Verdadeiro** onde é o 20 no **Dado** sem modificações. 
+**O que é um Crítico**: é o acerto de 20 no **d20**, ocasionando em combate o dobro do **Dano** e **Efeitos** de uma **Ação**. O mesmo pode ocorrer com [[Ações]] de [[@Interpretação]] para ganhar imediatamente de testes com o melhor resultado possível. Existem propriedades que podem facilitar o **Crítico** aumentando a sua chance, como o reduzindo para 19 através de [[Atributos]] secundários. Além disso existe o **Crítico Verdadeiro** onde é o 20 no **Dado** sem modificações. 
 
 ---
 

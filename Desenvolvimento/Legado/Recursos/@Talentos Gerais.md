@@ -40,7 +40,7 @@ São **Talentos** que só **Objetos** e **Estruturas** podem possuir, como [[@It
 
 ### Objeto:
 * **Empilhável**: vários de nome semelhante ocupam o mesmo espaço do **Inventário**;
-* **Lealdade**: a qualquer momento esse **Objeto** pode voltar a mão de seu **Dono**, sem consumir [[@Ações]];
+* **Lealdade**: a qualquer momento esse **Objeto** pode voltar a mão de seu **Dono**, sem consumir [[Ações]];
 * **Leve**: ocupa metade de um espaço do **Inventário**;
 * **Pesado**: ocupa o dobro de um espaço do **Inventário**;
 
