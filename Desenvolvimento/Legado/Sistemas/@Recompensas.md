@@ -4,7 +4,7 @@ São méritos extras concedidos aos **Jogadores** ao realizarem [[@Feitos]], com
 
 # Ganho de Dinheiro
 
-**Oponentes** concedem **Moedas** se forem **Racionais**, no entanto esse ganho é situacional contra [[@Feras_]], mas pode depender do veredito do **Mestre**. Ele pode pedir **Testes**, além de determinar a **Categoria** e **Precisão**, também podendo reduzir ou aumentar essa quantia, baseado na [[@Regra de Ouro]].
+**Oponentes** concedem **Moedas** se forem **Racionais**, no entanto esse ganho é situacional contra [[@Feras_]], mas pode depender do veredito do **Mestre**. Ele pode pedir **Testes**, além de determinar a **Categoria** e **Precisão**, também podendo reduzir ou aumentar essa quantia, baseado na [[Regra de Ouro]].
 
 > Mais detalhes sobre **Moedas** e suas quantias em [[@Economia]].
 
