@@ -16,9 +16,9 @@ Existem dois tipos:
 
 ---
 
-# Os Cuidados
+# Os [[Cuidados]]
 
-Um **Descanso** só conta se o grupo cumprir os **Cuidados** pedidos. Cada **Cuidado** é cumprido por **Personagem**: quem não cumpre o suficiente não recupera, mesmo que o resto do grupo recupere.
+Um **Descanso** só conta se o grupo cumprir os [[Cuidados]] pedidos. Cada **Cuidado** é cumprido por **Personagem**: quem não cumpre o suficiente não recupera, mesmo que o resto do grupo recupere.
 
 1. **Medicina**: alguém trata as suas feridas. Vale um aliado com [[Medicina_]] ou um [[@Itens|Item]] de cura usado durante o **Descanso**, de forma apropriada. É a única forma natural de se recuperar **Vida**.
 2. **Alimentação**: uma refeição de verdade, o suficiente e equilibrada (**Ração** ou outros do tipo só resultam em **Breve**).
@@ -48,6 +48,6 @@ O grupo de **Fulano** saiu de uma luta com quase nada de **Foco** e decide acamp
 * **Lazer**: **Ciclana** sabe trocar um instrumento, logo com uma música **Fulano** e os outros são entretidos. ✓
 * **Medicina**: alguém tem [[Medicina_]], faz os diagnósticos e trata os ferimentos. ✓
 
-Com 5 dos 5 **Cuidados** e 8 horas de sono, todos fazem um **Descanso Apropriado** e voltam com **Foco** e **Vida** cheios. Se tivessem só uma hora, com 3 **Cuidados** fariam um **Descanso Breve** e voltariam com metade.
+Com 5 dos 5 [[Cuidados]] e 8 horas de sono, todos fazem um **Descanso Apropriado** e voltam com **Foco** e **Vida** cheios. Se tivessem só uma hora, com 3 [[Cuidados]] fariam um **Descanso Breve** e voltariam com metade.
 
 ---

@@ -3,7 +3,7 @@
 
 # O que são [[Artes]]
 
-Uma **Arte** é um conjunto de [[@Habilidades e Talentos]] que qualquer **Personagem** pode aprender, se a sua [[@Classes_|Classe]] permitir. [[Esgrima_]], [[Arquearia_]], [[Medicina_]] e [[Táticas_]] são exemplos. O que é uma **Arte** no mundo está em [[Artes|Artes (mundo)]].
+Uma **Arte** é um conjunto de [[@Habilidades e Talentos]] que qualquer **Personagem** pode aprender, se a sua [[@Classes_|Classe]] permitir. [[Esgrima_]], [[Arquearia_]], [[Medicina_]] e [[Táticas_]] são exemplos. O que é uma **Arte** no mundo está em [[Artes]].
 
 A diferença para o que vem da **Classe** é simples:
 
