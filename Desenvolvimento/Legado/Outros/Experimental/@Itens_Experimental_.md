@@ -20,9 +20,9 @@ Texto.
 
 # Armas
 
-Várias **Ferramentas** podem ser **Armas**, fazendo com que além de somarem seus **Atributos** e **Características** como um **Equipamento**, também possuem [[@Tipos de Dano]], **Dano da Arma** e o mais importante, o escalonamento com **Nível**.
+Várias **Ferramentas** podem ser **Armas**, fazendo com que além de somarem seus **Atributos** e **Características** como um **Equipamento**, também possuem [[Tipos de Dano]], **Dano da Arma** e o mais importante, o escalonamento com **Nível**.
 
-**Armas** podem ser de **Contusão**, **Corte** ou **Perfuração**, assim como os [[@Tipos de Dano]] físico, além de também poderem serem um dos dois ou ambos (exemplo [[@Alabardas_]], que algumas possuem os 3 **Tipos**). Os escalonamentos por **Tipos** de **Dano Físico** são:
+**Armas** podem ser de **Contusão**, **Corte** ou **Perfuração**, assim como os [[Tipos de Dano]] físico, além de também poderem serem um dos dois ou ambos (exemplo [[@Alabardas_]], que algumas possuem os 3 **Tipos**). Os escalonamentos por **Tipos** de **Dano Físico** são:
 
 1. **Contusão**: **Armas** desse **Tipo** causam **Efeitos** de **Redução** de **Defesa** igual ao **Nível** da **Arma**;
 2. **Corte**: **Armas** desse **Tipo** causam **Efeitos** de **Sangramento** igual ao **Nível** da **Arma**;

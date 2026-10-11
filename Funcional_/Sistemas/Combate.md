@@ -50,7 +50,7 @@ Toda [[Ações|Ação]] contra um **Oponente** pede um **d20**:
 * **Longo Alcance**: arcos, bestas e armas de arremesso alcançam o que a arma disser, mas causam **metade** do **Dano**, **Eficiências** e dos [[@Efeitos]] (arredondado para baixo).
 * **Alcance** (o **Atributo Secundário**) soma 1 metro por ponto, exceto em **Corpo a Corpo** e **Movimento**.
 
-Os tipos de **Dano** e as suas fraquezas estão em [[@Tipos de Dano]].
+Os tipos de **Dano** e as suas fraquezas estão em [[Tipos de Dano]].
 
 ---
 
