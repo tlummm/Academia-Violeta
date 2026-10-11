@@ -18,7 +18,7 @@ Modelo base de [[@Feras_]].
 **Ataque**: 00  —  **Defesa**: 00  —  **Vigor**: 00
 **Domínio**: 00  —  **Espírito**: 00  —  **Maestria**: 00
 
-[[@Habilidades e Talentos]]:
+[[Habilidades e Talentos]]:
 * **Texto**: texto;
 
 ---

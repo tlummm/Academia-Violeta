@@ -43,7 +43,7 @@ Personagens baseados em **Inteligência** possuem vantagem nas seguintes categor
 
 # Modificadores
 
-Modificadores impactam diretamente na **Precisão** das **Ações Interpretativa** (mais detalhes em [[@Habilidades e Talentos]]), quanto maior for o modificador, também será maior o valor adicional somado no arremesso de **Dados**.  
+Modificadores impactam diretamente na **Precisão** das **Ações Interpretativa** (mais detalhes em [[Habilidades e Talentos]]), quanto maior for o modificador, também será maior o valor adicional somado no arremesso de **Dados**.  
 
 Os **Modificadores** são determinados exatamente igual aos **Adicionais de acumulo** de [[Atributos]], a cada 10 pontos de um **Atributo** é aumentado um **Modificador** naquelas categorias. Por exemplo, um **Personagem** com 10 pontos de **Ataque** teria um 1 valor adicional em seus **Testes Interpretativos** de intimidar, ser confiante, quebrar coisas e entre outros. 99 pontos garantem os **Testes** daquela categoria, mas pode ser vetado pelo **Mestre** ou exigirem **Crítico** em alguns cenários.
 

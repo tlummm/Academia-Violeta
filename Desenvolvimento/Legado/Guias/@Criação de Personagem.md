@@ -12,6 +12,6 @@ O novo personagem pode ser criado utilizando a [[@Ficha]] para colocar as inform
 
 [[@Itens]]: um novo personagem tem direito a alguns [[@Itens]] de **Nível** 0, sendo a sua escolha 2 [[@Ferramentas]], 3 [[@Equipamentos]] e 4 [[@Uso Único]]. Além disso **Jogadores** tem um inventário de apenas de 5 espaços de [[@Itens]], onde ficam suas [[@Ferramentas]] e [[@Equipamentos]] desequipados, e também onde seus [[@Itens]] de [[@Uso Único]] vão automaticamente. O inventário pode ser expandido com **Mochilas**.
 
-[[@Habilidades e Talentos]]: ao escolher uma das [[@Classes_]] todas as suas **Habilidades** e **Talentos** ficam nessa aba. todas as **Habilidades** e **Talentos** da sua **Classe** ficam nessa sessão. Novos personagens sempre começam com tudo de **Nível** 0 do sua **Classe**, porém podem escolher apenas 1 **Habilidade** ou **Talento** de **Nível** 1 para ter além dessas.
+[[Habilidades e Talentos]]: ao escolher uma das [[@Classes_]] todas as suas **Habilidades** e **Talentos** ficam nessa aba. todas as **Habilidades** e **Talentos** da sua **Classe** ficam nessa sessão. Novos personagens sempre começam com tudo de **Nível** 0 do sua **Classe**, porém podem escolher apenas 1 **Habilidade** ou **Talento** de **Nível** 1 para ter além dessas.
 
 ---

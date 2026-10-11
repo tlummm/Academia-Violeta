@@ -54,7 +54,7 @@ Texto.
 
 # Tipos de Materiais
 
-[[@Itens]] do tipo **Material** são usados para criação de outros [[@Itens]] como **Equipamentos**, **Armas**, **Uso Único** e **Munições**. Também podem ser usadas em **Rituais**, **Encantamentos** e **Estruturas**, assim como também em [[@Habilidades e Talentos]]. Normalmente eles concedem propriedades especiais ao **Item** que é fabricado os utilizando. **Materiais** são acumuláveis, ou seja, dois ou mais [[@Itens]] do mesmo **Material** ocupam apenas um espaço no inventário. Atualmente existem 6 tipos de **Materiais**.
+[[@Itens]] do tipo **Material** são usados para criação de outros [[@Itens]] como **Equipamentos**, **Armas**, **Uso Único** e **Munições**. Também podem ser usadas em **Rituais**, **Encantamentos** e **Estruturas**, assim como também em [[Habilidades e Talentos]]. Normalmente eles concedem propriedades especiais ao **Item** que é fabricado os utilizando. **Materiais** são acumuláveis, ou seja, dois ou mais [[@Itens]] do mesmo **Material** ocupam apenas um espaço no inventário. Atualmente existem 6 tipos de **Materiais**.
 
 Três são de origem biológica (**Orgânicos**):
 

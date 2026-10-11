@@ -34,8 +34,8 @@ Nos últimos três **Níveis** os [[@Itens]] começam a apresentar as caracterí
 
 1. **Normal**: há em todos os **Níveis**, sendo a base de todos, fazendo com que eles possuem 1 **Talento**;
 2. **Raro**: podendo existir a partir do **Nível** de **Refinado**, faz com que eles também possuam 1 **Habilidade**;
-3. **Lendário**: podendo existir a partir do **Nível** de **Magistral**, faz com que eles, diferente dos anteriores, possam possuir qualquer quantidade de [[@Habilidades e Talentos]];
-4. **Onírico**: existem apenas no **Nível** de **Heroico**, possuem [[@Habilidades e Talentos]] em qualquer quantia, porém também possuem uma **Invocação** auxiliar ao **Dono**, chamada de **Ego**;
+3. **Lendário**: podendo existir a partir do **Nível** de **Magistral**, faz com que eles, diferente dos anteriores, possam possuir qualquer quantidade de [[Habilidades e Talentos]];
+4. **Onírico**: existem apenas no **Nível** de **Heroico**, possuem [[Habilidades e Talentos]] em qualquer quantia, porém também possuem uma **Invocação** auxiliar ao **Dono**, chamada de **Ego**;
 
 > Raridade também aumenta levemente as características dos [[@Itens]] como por exemplo os **Atributos**, **Aspectos**, **Secundários** e entre outros.
 

@@ -44,7 +44,7 @@ Detalhados em [[Atributos]]. Recursos base: **Vida** e **Mana**.
 
 ### Habilidades e Talentos
 
-Organizados em [[@Habilidades e Talentos]], progridem por **Nível** de 0 a 9:
+Organizados em [[Habilidades e Talentos]], progridem por **Nível** de 0 a 9:
 
 0. Novato (Nível Inicial)
 1. Regular

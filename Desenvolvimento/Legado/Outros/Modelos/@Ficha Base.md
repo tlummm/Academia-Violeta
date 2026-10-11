@@ -44,7 +44,7 @@
 
 ---
 
-# [[@Habilidades e Talentos]]: [[@Classes_]]
+# [[Habilidades e Talentos]]: [[@Classes_]]
 
 **Texto**: Texto;
 
