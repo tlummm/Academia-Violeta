@@ -6,14 +6,14 @@ As **Habilidades** são como o coração de **Personagens**, graças ao fator de
 
 # Dissipação
 
-É muito comum uma **Habilidade** aplicar [[@Efeitos]], tanto **Positivos** quanto **Negativos**. No entanto, esses mesmos [[@Efeitos]] também podem ser anulados por outras **Habilidades**. No processo de **Dissipação** a fonte causadora decide o que e quanto vai ser removido, mas com certos limites:
+É muito comum uma **Habilidade** aplicar [[Efeitos]], tanto **Positivos** quanto **Negativos**. No entanto, esses mesmos [[Efeitos]] também podem ser anulados por outras **Habilidades**. No processo de **Dissipação** a fonte causadora decide o que e quanto vai ser removido, mas com certos limites:
 
 * **Dissipação Fraca**: Remove **Efeitos** de **Interpretação** ou **Não-Debilitante**.
 * **Dissipação Normal**: Remove **Efeitos** de **Combate** ou **Debilitantes**, além de inferiores.
 * **Dissipação Forte**: Remove **Efeitos** de **Tolerância** ou **Inutilizantes**, além de inferiores.
 * **Dissipação Verdadeira**: Remove qualquer **Efeito** de qualquer **Nível**.
 
-Caso um **Efeito** seja **Único** e não se enquadre na documentação de [[@Efeitos]], a **Dissipação** segue essas regras:
+Caso um **Efeito** seja **Único** e não se enquadre na documentação de [[Efeitos]], a **Dissipação** segue essas regras:
 
 * **Dissipação Fraca**: Remove **Efeitos** de **Nível 3** ou inferior.
 * **Dissipação Normal**: Remove **Efeitos** de **Nível 6** ou inferior.

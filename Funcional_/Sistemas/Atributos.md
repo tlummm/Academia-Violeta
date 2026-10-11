@@ -31,13 +31,13 @@ Dano causado, dano aguentado e quanto tempo você fica de pé. Sobre a **Força*
 
 ### Ataque — Agência
 
-* **Regra**: cada ponto dá 1 de **Dano Base** (exceto em [[@Efeitos]]).
+* **Regra**: cada ponto dá 1 de **Dano Base** (exceto em [[Efeitos]]).
 * **Na prática**: uma **Ação de Ataque** causa **Dano Físico** igual ao seu **Ataque**.
 * **Em Interpretação**: intimidar, quebrar, forçar, impor-se.
 
 ### Defesa — Essência
 
-* **Regra**: cada ponto reduz em 1 o **Dano Físico** que você sofre (exceto em [[@Efeitos]]).
+* **Regra**: cada ponto reduz em 1 o **Dano Físico** que você sofre (exceto em [[Efeitos]]).
 * **Na prática**: responde ao **Ataque**. Um golpe de 5 contra **Defesa** 2 causa 3.
 * **Em Interpretação**: aguentar dor, manter posição, não ceder ao cansaço.
 
@@ -55,13 +55,13 @@ Poder das suas **Habilidades**, resistência a **Dano Mágico** e **Foco** para 
 
 ### Maestria — Ciência
 
-* **Regra**: cada ponto dá 1 de **Eficiência** em [[@Itens]], **Habilidades** e **Talentos** (exceto em [[@Efeitos]]).
+* **Regra**: cada ponto dá 1 de **Eficiência** em [[@Itens]], **Habilidades** e **Talentos** (exceto em [[Efeitos]]).
 * **Na prática**: deixa mais forte tudo o que você usa numa **Ação Principal**.
 * **Em Interpretação**: ofício, técnica, conhecimento aplicado, consertar e criar.
 
 ### Espírito — Inocência
 
-* **Regra**: cada ponto reduz em 1 o **Dano Mágico** que você sofre (exceto em [[@Efeitos]]).
+* **Regra**: cada ponto reduz em 1 o **Dano Mágico** que você sofre (exceto em [[Efeitos]]).
 * **Na prática**: responde à **Maestria** do mesmo jeito que a **Defesa** responde ao **Ataque**.
 * **Em Interpretação**: força de vontade, resistir a medo, ilusão e persuasão, intuição.
 
@@ -135,7 +135,7 @@ Os desafios do **Jogo** pedem personagens equilibrados, porém investir pesado n
 | **Ataque**    | **Acertos Críticos** em **Ataques** causam 5 de **Dano** adicional                | Os acertos de seus **Ataques** são  **Críticos**                       |
 | **Defesa**    | **Falha Crítica** nos **Ataques** contra você aumenta em 1                        | **Críticos** recebidos por **Ataques** são reduzidos a **Dano** normal |
 | **Maestria**  | **Acerto Crítico** das suas **Ações** de [[@Interpretação]] aumenta em 1          | Seus acertos normais em **Ações Principais** são **Críticos**          |
-| **Espírito**  | **Falha Crítica** nas **Ações Principais** contra você aumenta em 1               | Recebe metade do **Dano** e [[@Efeitos]] de **Ações Principais**       |
+| **Espírito**  | **Falha Crítica** nas **Ações Principais** contra você aumenta em 1               | Recebe metade do **Dano** e [[Efeitos]] de **Ações Principais**       |
 | **Precisão_** | [[Ações]] de alvo único, ganham um alvo adicional                                | Suas [[Ações]] só erram em **Erro Crítico**                           |
 | **Esquiva_**  | Quando uma **Ação** erra você, pode andar 5 metros fora do turno (imediatamente). | [[Ações]] contra você só acertam com **Crítico**                      |
 |               |                                                                                   |                                                                        |

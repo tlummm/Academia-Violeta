@@ -32,7 +32,7 @@
 
 ---
 
-# [[@Efeitos]]
+# [[Efeitos]]
 
 **X Efeitos** de **Texto**;
 

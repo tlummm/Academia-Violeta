@@ -75,7 +75,7 @@ Níveis de **Precisão** de uma **Ação**: **Garantida**, **Normal**, **Difíci
 
 ### Efeitos
 
-Anotados em [[@Efeitos]]. Funcionam com **pilhas** e **duração**, reduzidos em 1 no **Fim de turno**. Podem ser removidos por **Dissipação** (Fraca, Média, etc.).
+Anotados em [[Efeitos]]. Funcionam com **pilhas** e **duração**, reduzidos em 1 no **Fim de turno**. Podem ser removidos por **Dissipação** (Fraca, Média, etc.).
 
 ### Itens
 

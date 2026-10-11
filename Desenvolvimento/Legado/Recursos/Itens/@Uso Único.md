@@ -1,4 +1,4 @@
-**Uso Único** são [[@Itens]], usados por **Jogadores** ou **NPCs**, que somem ao serem utilizados. Podem conceder vários [[@Efeitos]] ou até ter [[@Habilidades e Talentos]], além de também poderem ser empilhados no mesmo espaço de inventário se forem idênticos.
+**Uso Único** são [[@Itens]], usados por **Jogadores** ou **NPCs**, que somem ao serem utilizados. Podem conceder vários [[Efeitos]] ou até ter [[@Habilidades e Talentos]], além de também poderem ser empilhados no mesmo espaço de inventário se forem idênticos.
 
 ---
 

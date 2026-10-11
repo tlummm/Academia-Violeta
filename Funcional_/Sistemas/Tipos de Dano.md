@@ -9,7 +9,7 @@ Todo **Dano** tem um tipo. O tipo diz **o que reduz** aquele **Dano** e **quem �
 | :---------- | :-------------------------------------------------- | :-------------------------------- |
 | **Físico**  | **Ataque**: golpes, armas, quedas, garras           | **Defesa**                        |
 | **Mágico**  | **Maestria**: **Habilidades** e [[@Itens]] dos **Poderes** anormais | **Espírito**          |
-| **Puro**    | Fontes raras, e todo **Dano** de [[@Efeitos]]       | Nada                              |
+| **Puro**    | Fontes raras, e todo **Dano** de [[Efeitos]]       | Nada                              |
 
 > **Defesa** e **Espírito** estão em [[Atributos]]. Um golpe de 5 contra **Defesa** 2 causa 3; uma **Habilidade** de 5 contra **Espírito** 2 também causa 3.
 
@@ -48,7 +48,7 @@ O **Dano** que vem dos quatro **Poderes** anormais (veja [[Cinco Poderes]]). O t
 
 Ignora **Defesa** e **Espírito**: o alvo sofre exatamente o que está escrito. Vem de:
 
-* **[[@Efeitos]]**: o **Dano** de um **Sangramento** ou de qualquer outro **Efeito** é sempre **Puro**.
+* **[[Efeitos]]**: o **Dano** de um **Sangramento** ou de qualquer outro **Efeito** é sempre **Puro**.
 * **Fontes raras**: quedas muito altas, **Habilidades** que digam "**Dano Puro**", armadilhas e catástrofes.
 
 ---
@@ -80,14 +80,14 @@ Algumas **Unidades** têm **Fraqueza** ou **Resistência** a um tipo (**Corte**,
 * **Resistência**: o **Dano** daquele tipo cai pela metade (×0,5).
 * **Imunidade**: o **Dano** daquele tipo é 0.
 
-> O mesmo se repete para **Eficiências** e [[@Efeitos]].
+> O mesmo se repete para **Eficiências** e [[Efeitos]].
 
 ---
 
 # A conta, na ordem
 
 1. **Dano Base**: o **Ataque** (**Físico**) ou a **Eficiência** da **Habilidade** ou do **Item** (**Mágico**).
-2. **Multiplicadores**: **Acerto Crítico** (que dobra também **Eficiências** e [[@Efeitos]], veja [[Combate]]), **Poder contra Poder**, **Fraqueza** e **Resistência**. Multiplique todos e arredonde para baixo.
+2. **Multiplicadores**: **Acerto Crítico** (que dobra também **Eficiências** e [[Efeitos]], veja [[Combate]]), **Poder contra Poder**, **Fraqueza** e **Resistência**. Multiplique todos e arredonde para baixo.
 3. **Redução**: tire a **Defesa** (**Físico**) ou o **Espírito** (**Mágico**). **Puro** pula esta etapa. Se ficar abaixo de 0, o **Dano** é 0.
 
 ---

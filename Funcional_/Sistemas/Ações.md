@@ -40,7 +40,7 @@ Com **Foco** em 0 você fica **Exausto** até recuperar pelo menos 1 ponto:
 
 * **Sem Ação Principal**: não pode usar **Habilidades** nem [[@Itens]].
 * **Movimento pela metade**: anda metade da sua **Velocidade** (arredondado para baixo), mas sem custo.
-* **Ataque pela metade**: causa metade do **Dano** (arredondado para baixo), mas sem custo, assim como metade de suas **Eficiências** e [[@Efeitos]].
+* **Ataque pela metade**: causa metade do **Dano** (arredondado para baixo), mas sem custo, assim como metade de suas **Eficiências** e [[Efeitos]].
 
 ---
 

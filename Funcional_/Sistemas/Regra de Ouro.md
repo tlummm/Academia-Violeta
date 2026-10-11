@@ -19,7 +19,7 @@ Use a [[Regra de Ouro]] quando seguir a regra à risca deixaria a mesa pior:
 
 Não use a [[Regra de Ouro]]:
 
-* **Para desfazer um dado já rolado** só porque o resultado foi ruim. Para isso existe a **Audácia** (veja [[@Efeitos]]).
+* **Para desfazer um dado já rolado** só porque o resultado foi ruim. Para isso existe a **Audácia** (veja [[Efeitos]]).
 * **Para beneficiar um jogador** à custa dos outros.
 * **Para apagar uma escolha** que um jogador fez sabendo do risco.
 
@@ -40,7 +40,7 @@ Não use a [[Regra de Ouro]]:
 
 As regras só melhoram se o grupo jogar com elas e disser o que não funciona. Por isso:
 
-* **Recompensa.** Se uma **Sessão** termina sem que ninguém tenha pedido a [[Regra de Ouro]], cada **Jogador** começa a próxima **Sessão** com **1d4** [[@Efeitos]] de **Audácia** (pode rolar de novo um **d20** à sua escolha) permanentes, mas consumidos em seus usos.
+* **Recompensa.** Se uma **Sessão** termina sem que ninguém tenha pedido a [[Regra de Ouro]], cada **Jogador** começa a próxima **Sessão** com **1d4** [[Efeitos]] de **Audácia** (pode rolar de novo um **d20** à sua escolha) permanentes, mas consumidos em seus usos.
 * **Crítica.** No fim de cada **Sessão** em que a [[Regra de Ouro]] foi usada, o grupo anota em uma linha o que foi mudado e por quê. Essas notas mostram quais regras precisam ser revistas no **Jogo**.
 
 ---

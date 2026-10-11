@@ -23,11 +23,11 @@ O **Combate** acontece num **Tabuleiro** de casas, e cada casa vale 1 metro. Tod
 
 Cada **Turno** tem três partes, sempre nesta ordem:
 
-1. **Início do Turno**: os [[@Efeitos]] que estão em você agem. Um **Sangramento** tira **Vida**, uma **Regeneração** devolve. Os **Atributos Secundários** de **Concentração** e **Regeneração** também agem aqui.
+1. **Início do Turno**: os [[Efeitos]] que estão em você agem. Um **Sangramento** tira **Vida**, uma **Regeneração** devolve. Os **Atributos Secundários** de **Concentração** e **Regeneração** também agem aqui.
 2. **Ações**: você faz até três [[Ações]] (**Movimento**, **Ataque** e **Principal**), uma de cada, na ordem que quiser, pagando o **Foco** de cada uma. Pode pular as que não quiser.
-3. **Fim do Turno**: nada some. Os [[@Efeitos]] **não** diminuem com o tempo: um **Efeito** negativo só sai com tratamento (veja [[Cuidados]]), e um positivo só sai quando é consumido ou quando o **Combate** acaba.
+3. **Fim do Turno**: nada some. Os [[Efeitos]] **não** diminuem com o tempo: um **Efeito** negativo só sai com tratamento (veja [[Cuidados]]), e um positivo só sai quando é consumido ou quando o **Combate** acaba.
 
-> Passar o **Turno** inteiro também é uma escolha. Você não gasta **Foco**, mas os [[@Efeitos]] do **Início do Turno** acontecem do mesmo jeito.
+> Passar o **Turno** inteiro também é uma escolha. Você não gasta **Foco**, mas os [[Efeitos]] do **Início do Turno** acontecem do mesmo jeito.
 
 ---
 
@@ -37,7 +37,7 @@ Toda [[Ações|Ação]] contra um **Oponente** pede um **d20**:
 
 * **Rolagem**: **d20** + sua **Precisão** − **Esquiva** do alvo.
 * **Precisão pedida**: o resultado precisa chegar a um número. **Normal** 8, **Difícil** 12, **Improvável** 16. A **Ação de Ataque** e os [[@Itens]] são **Normal**, se nada disser o contrário.
-* **Acerto Crítico**: 20 no dado (antes de somar) acerta sempre e **dobra o Dano**, **Eficiências** e inclusive [[@Efeitos]]. O **Atributo Secundário** **Crítico** reduz esse número em 1 por ponto.
+* **Acerto Crítico**: 20 no dado (antes de somar) acerta sempre e **dobra o Dano**, **Eficiências** e inclusive [[Efeitos]]. O **Atributo Secundário** **Crítico** reduz esse número em 1 por ponto.
 * **Erro Crítico**: 1 no dado erra sempre e **termina o seu Turno** na hora. As [[Ações]] que faltavam se perdem.
 
 ---
@@ -47,7 +47,7 @@ Toda [[Ações|Ação]] contra um **Oponente** pede um **d20**:
 * **Dano Físico**: vem do **Ataque** e é reduzido pela **Defesa** do alvo.
 * **Dano Mágico**: vem da **Maestria** e é reduzido pelo **Espírito** do alvo.
 * **Corpo a Corpo**: desarmado ou com arma de mão, o **Alcance** é 1 metro (casas vizinhas, inclusive na diagonal).
-* **Longo Alcance**: arcos, bestas e armas de arremesso alcançam o que a arma disser, mas causam **metade** do **Dano**, **Eficiências** e dos [[@Efeitos]] (arredondado para baixo).
+* **Longo Alcance**: arcos, bestas e armas de arremesso alcançam o que a arma disser, mas causam **metade** do **Dano**, **Eficiências** e dos [[Efeitos]] (arredondado para baixo).
 * **Alcance** (o **Atributo Secundário**) soma 1 metro por ponto, exceto em **Corpo a Corpo** e **Movimento**.
 
 Os tipos de **Dano** e as suas fraquezas estão em [[Tipos de Dano]].
@@ -58,7 +58,7 @@ Os tipos de **Dano** e as suas fraquezas estão em [[Tipos de Dano]].
 
 Quando a **Vida** chega a 0, a **Unidade** fica **Caída**:
 
-* **Não age**: perde os **Turnos** seguintes, mas continua na fila e os [[@Efeitos]] do **Início do Turno** continuam agindo.
+* **Não age**: perde os **Turnos** seguintes, mas continua na fila e os [[Efeitos]] do **Início do Turno** continuam agindo.
 * **Levantar**: um aliado ao lado usa a **Ação Principal** com [[Medicina_]] ou com um [[@Itens|Item]] de cura e a **Unidade** volta com 1 de **Vida**. Fora isso, ela só se levanta depois do **Combate**.
 * **Morrer**: qualquer **Dano** sofrido enquanto **Caída** mata.
 

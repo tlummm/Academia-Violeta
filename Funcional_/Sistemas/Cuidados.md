@@ -32,9 +32,9 @@ Cada **Cuidado** pode ser cumprido em três níveis:
 
 ---
 
-# [[Medicina_]] e [[@Efeitos]]
+# [[Medicina_]] e [[Efeitos]]
 
-Os [[@Efeitos]] negativos **não passam com o tempo**. Um **Sangramento**, uma **Redução** ou um **Silêncio** ficam no **Personagem** até alguém tratá-los. Por isso a **Medicina** é o **Cuidado** mais importante do grupo.
+Os [[Efeitos]] negativos **não passam com o tempo**. Um **Sangramento**, uma **Redução** ou um **Silêncio** ficam no **Personagem** até alguém tratá-los. Por isso a **Medicina** é o **Cuidado** mais importante do grupo.
 
 | **Nível**       | **Recupera Vida** | **Remove**                                      |
 | :-------------- | :---------------: | :---------------------------------------------- |

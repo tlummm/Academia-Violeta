@@ -8,7 +8,7 @@ O novo personagem pode ser criado utilizando a [[@Ficha]] para colocar as inform
 
 [[Atributos]]: onde há informações relevantes tanto para **Interpretação** quanto para **Combate**. Todos os personagens começam no **Nível** 1. O primeiro passo é distribuir pontos de **Atributo Primário**, assim ganhando os seus valores como **Vida** e **Mana**. São 12 pontos iniciais para distribuir, mas cada **Atributo** já possui 2 ponto base, além de não poderem passar de um máximo de 9 base na criação de [[@Ficha]] (colocar mais de 7 pontos no mesmo).
 
-[[@Efeitos]]: uma aba apenas para anotar os [[@Efeitos]] positivos e negativos que seu personagem sofrer em **Planos**.
+[[Efeitos]]: uma aba apenas para anotar os [[Efeitos]] positivos e negativos que seu personagem sofrer em **Planos**.
 
 [[@Itens]]: um novo personagem tem direito a alguns [[@Itens]] de **Nível** 0, sendo a sua escolha 2 [[@Ferramentas]], 3 [[@Equipamentos]] e 4 [[@Uso Único]]. Além disso **Jogadores** tem um inventário de apenas de 5 espaços de [[@Itens]], onde ficam suas [[@Ferramentas]] e [[@Equipamentos]] desequipados, e também onde seus [[@Itens]] de [[@Uso Único]] vão automaticamente. O inventário pode ser expandido com **Mochilas**.
 
