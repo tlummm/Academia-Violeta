@@ -4,7 +4,7 @@ Inicialmente na [[@Sessão]] os personagens começam no **Plano de Interpretaç�
 
 Nesse modo os jogadores tem liberdade para poder realizar qualquer **Ação**, sem restrições como turnos ou tempo (raramente tendo turnos para todos poderem jogar igualmente, ou tempo se nada estiver progredindo).
 
-Nesse plano os jogadores podem usar qualquer item ou habilidade, desde as **Interpretativas** até as de [[@Combate]].
+Nesse plano os jogadores podem usar qualquer item ou habilidade, desde as **Interpretativas** até as de [[Combate]].
 
 As **Ações Interpretativas** podem ser qualquer uma baseadas na **Imaginação** do **Jogador**, porém essas ações são sempre englobadas em alguns tipos, que podem ser consultados no próximo tópico, **Ações Interpretativas**, para mais detalhes. Essas ações podem ter variações criativas, dependendo de como um **Jogador** consegue convencer a **Mesa** e o **Mestre**. Por exemplo em um cenário onde alguém precisa pular um buraco:
 

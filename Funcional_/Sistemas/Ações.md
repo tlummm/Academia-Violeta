@@ -8,7 +8,7 @@ Uma **Ação** é qualquer coisa que um **Personagem** tenta fazer: pular um bur
 Como uma **Ação** funciona depende de onde ela acontece:
 
 * **Em [[@Interpretação]]**: as **Ações** são livres. Você descreve o que quer fazer e, se houver risco, o **Mestre** pede um **Teste** no **d20** baseado nos seus [[Atributos]]. Elas não custam nada.
-* **Em [[@Combate]]**: as **Ações** são contadas. Cada **Turno** você tem três, e cada uma gasta **Foco**.
+* **Em [[Combate]]**: as **Ações** são contadas. Cada **Turno** você tem três, e cada uma gasta **Foco**.
 
 ---
 
@@ -52,6 +52,6 @@ Com **Foco** em 0 você fica **Exausto** até recuperar pelo menos 1 ponto:
 2. **Ataque** (1): golpeia com a espada. **Foco** 24.
 3. **Principal** (5): usa uma técnica poderosa de [[Esgrima_]] que custa 5. **Foco** 19.
 
-Nesse ritmo, Fulano aguenta três **Turnos** completos antes de precisar economizar. No quarto, ele seguir atacando até ficar **Exausto**, ou fugir do [[@Combate]] para começar a se recuperar.
+Nesse ritmo, Fulano aguenta três **Turnos** completos antes de precisar economizar. No quarto, ele seguir atacando até ficar **Exausto**, ou fugir do [[Combate]] para começar a se recuperar.
 
 ---

@@ -400,7 +400,7 @@ Uma perfuração direta no coração. Realiza um **Ataque**, porém causando 1 d
 
 Talento Físico, Utilidade.
 
-O desaparecimento ocorre com o movimento do capuz. Aumenta a **Velocidade** em 5 e reduz o **Alcance** contra você em 5. Se na volta do seu **Turno** você não sofreu nenhum **Ataque** ou **Habilidade** você se torna **Invisível** (Não pode ser **Alvo**, **NPCs** e **Monstros** não sabem sua localização, além de poder executar [[Ações]] tanto de [[@Combate]] quanto de [[@Interpretação]]).
+O desaparecimento ocorre com o movimento do capuz. Aumenta a **Velocidade** em 5 e reduz o **Alcance** contra você em 5. Se na volta do seu **Turno** você não sofreu nenhum **Ataque** ou **Habilidade** você se torna **Invisível** (Não pode ser **Alvo**, **NPCs** e **Monstros** não sabem sua localização, além de poder executar [[Ações]] tanto de [[Combate]] quanto de [[@Interpretação]]).
 
 ### Melhorar Mira
 

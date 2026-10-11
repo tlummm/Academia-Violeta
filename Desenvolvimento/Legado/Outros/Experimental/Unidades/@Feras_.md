@@ -93,7 +93,7 @@ Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criat
 
 [[@Habilidades e Talentos]]:
 * **Bote**: [[@Talentos Gerais]];
-* **Picada Dupla**: **Atacar** um alvo que já esteja sobre o **Efeito** do seu **Veneno Próprio** aumenta até o fim do [[@Combate]] seu **Alcance** e **Ataque** em 1 e dobra a duração do veneno nele (após aplicar novamente).
+* **Picada Dupla**: **Atacar** um alvo que já esteja sobre o **Efeito** do seu **Veneno Próprio** aumenta até o fim do [[Combate]] seu **Alcance** e **Ataque** em 1 e dobra a duração do veneno nele (após aplicar novamente).
 * **Veneno Próprio**: seus **Ataques** aplicam **1d6** **Efeitos** de uma propriedade única. A vitima afetada começa a precisar do dobro de acerto em seus **Testes** de **Ataque** quanto de **Ação Principal**, agora também tendo que fazer **Testes** com **Precisão Difícil** para poder usar **Ações de Movimento**. A cada 3 **Turnos** com esse **Efeito Único** a vitima recebe **2d20** de **Dano Mágico** e 1 **Efeito** de **Atordoamento**.
 
 ### Camarão-pistola (Alpheidae)
@@ -133,7 +133,7 @@ Habilidades e Talentos:
 Habilidades e Talentos:
 * **Bater e Correr**: [[@Talentos Gerais]];
 * **Caçadora de Aranhas**: seus **Ataques** executam **Feras** que sejam **Aracnídeos**, contanto que seja até 1 **Nível** superior;
-* **Veneno Próprio**: seus Ataques aplicam 1 **Efeito** de **Atordoamento**, funcionando apenas uma vez contra cada **Oponente** nesse [[@Combate]];
+* **Veneno Próprio**: seus Ataques aplicam 1 **Efeito** de **Atordoamento**, funcionando apenas uma vez contra cada **Oponente** nesse [[Combate]];
 
 ### Escorpião-da-morte (Leiurus quinquestriatus)
 

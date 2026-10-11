@@ -34,8 +34,8 @@ Um **Descanso** só conta se o grupo cumprir os [[Cuidados]] pedidos. Cada **Cui
 
 * **Um Apropriado por dia**: só um **Descanso Apropriado** a cada 24 horas de jogo.
 * **Três Breves entre Apropriados**: depois de três **Descansos Breves**, só um **Apropriado** volta a recuperar.
-* **Interrupção**: se um [[@Combate]] começa durante o **Descanso**, ele não conta. O tempo gasto até ali se perde.
-* **Sem Descanso no Combate**: dentro de um [[@Combate]] não se descansa. Quem precisa recuperar tem que sair dele primeiro, além de estar em local seguro.
+* **Interrupção**: se um [[Combate]] começa durante o **Descanso**, ele não conta. O tempo gasto até ali se perde.
+* **Sem Descanso no Combate**: dentro de um [[Combate]] não se descansa. Quem precisa recuperar tem que sair dele primeiro, além de estar em local seguro.
 
 ---
 

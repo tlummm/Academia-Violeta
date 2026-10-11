@@ -14,9 +14,9 @@ Para alimentar uma **Fera** é necessária uma **Ação** de [[@Interpretação]
 
 Refeições de **Nível** superior a **Fera**, mesmo não sendo preferenciais, duplicam o seu valor na **Domesticação**. Refeições de dois **Níveis** superior triplicam o valor original, e assim por diante. Refeições favoritas diminuem o **Nível** de **Temperamento** imediatamente.
 
-Se em caso o grupo estiverem em confronto com a criatura que gostariam de domesticar há uma opção extra: uma vez por sequência de **Turnos**, um **Jogador** pode consumir sua **Ação Principal** para fazer um teste de [[@Interpretação]], usando **Espírito** com **Precisão Difícil** para poder tentar alimentar a **Fera** mesmo que em [[@Combate]]. Se o **Temperamento** da **Fera** diminuir a ponto de não justificar sua agressividade o [[@Combate]] é encerrado.
+Se em caso o grupo estiverem em confronto com a criatura que gostariam de domesticar há uma opção extra: uma vez por sequência de **Turnos**, um **Jogador** pode consumir sua **Ação Principal** para fazer um teste de [[@Interpretação]], usando **Espírito** com **Precisão Difícil** para poder tentar alimentar a **Fera** mesmo que em [[Combate]]. Se o **Temperamento** da **Fera** diminuir a ponto de não justificar sua agressividade o [[Combate]] é encerrado.
 
-> Refeições favoritas em [[@Combate]] precisam diminuem a dificuldade do teste de **Difícil** para **Improvável**.
+> Refeições favoritas em [[Combate]] precisam diminuem a dificuldade do teste de **Difícil** para **Improvável**.
 
 ---
 
