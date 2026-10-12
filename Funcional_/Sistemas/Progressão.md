@@ -7,7 +7,7 @@ A **Progressão** é como um **Personagem** fica mais forte ao longo da **Campan
 
 1. **Nível**: a medida geral do **Personagem**, do **Nível 1** ao **Nível 99**. Sobe ao juntar **Experiência**.
 2. **Atributos e Habilidades**: cada **Nível** novo traz um ponto para os [[Atributos]] ou para as [[Habilidades e Talentos]].
-3. **Feitos e Recompensas**: ganhos que vêm de conquistas e do que o grupo encontra (veja [[Feitos]] e [[@Recompensas]]).
+3. **Feitos e Recompensas**: ganhos que vêm de conquistas e do que o grupo encontra (veja [[Feitos]] e [[Recompensas]]).
 
 ---
 
