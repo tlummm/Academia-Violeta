@@ -34,7 +34,7 @@ Há uma penalidade por erro **Crítico**. Se múltiplos **Oponentes** forem derr
 
 **Oponentes** de **Elite** por sua vez precisam de apenas 15 no **1d20** para conceder [[@Itens]], esses [[@Itens]] são do mesmo **Nível** e podem ser **Raros** (se possível ou um adicional) com acerto **Crítico**. Falha **Crítica** não anula recompensas restantes mas o item atual da **Recompensa** se torna de 1 **Nível** a baixo.
 
-> Informações sobre **Elites**, **Chefes** e **Soberanos** em [[@Escala]].
+> Informações sobre **Elites**, **Chefes** e **Soberanos** em [[Escala]].
 
 ---
 

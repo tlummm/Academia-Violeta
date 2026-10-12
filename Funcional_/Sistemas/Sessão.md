@@ -27,7 +27,7 @@ Antes do primeiro **Teste**, na ordem:
 A **Sessão** acaba quando o grupo decide parar, na ordem:
 
 1. **Anotar o estado**: cada **Jogador** confere na ficha a **Vida**, o **Foco**, os [[Efeitos]],  [[@Itens]] e entre outros. É com isso que ele começa a próxima.
-2. **Feitos**: o **Mestre** diz quais [[@Feitos]] o grupo cumpriu (veja [[@Progressão]]).
+2. **Feitos**: o **Mestre** diz quais [[@Feitos]] o grupo cumpriu (veja [[Progressão]]).
 3. **Crítica**: se a [[Regra de Ouro]] foi usada, o grupo anota o que foi mudado e por quê.
 
 ### O que se renova

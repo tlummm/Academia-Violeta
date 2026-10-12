@@ -20,7 +20,7 @@
 * **Nível 8** — **1d12** **Moedas** de **Ouro**;
 * **Nível 9** — **1d20** **Moedas** de **Ouro**;
 
-> Baseado em **Dificuldade**, assim como em [[@Escala]], o valor de ameaça de um **Oponente** é sempre dez vezes maior que o de ameaça anterior, e isso se reflete também em seu **Saque**.
+> Baseado em **Dificuldade**, assim como em [[Escala]], o valor de ameaça de um **Oponente** é sempre dez vezes maior que o de ameaça anterior, e isso se reflete também em seu **Saque**.
 > Por exemplo um **Oponente** de **Elite** de **Nível** 5 teria um **Saque** de **10d12** **Moedas** de **Prata**.
 > O maior **Saque** possível é de um **Oponente Soberano** de **Nível** 9 valendo **1000d20** **Moedas** de **Ouro**.
 
@@ -31,7 +31,7 @@ Por mais que as **Moedas** tenham valores entre si e, podendo ser convertidas em
 
 **Moedas** não ocupam espaço no **Inventário**, possuindo um compartimento próprio. Porém há uma exceção: acima de cinquenta **Moedas** do mesmo tipo as seguintes não se empilham mais nesse compartimento, agora ocupando um espaço adicional no **Inventário**. O mesmo é verdade para cem **Moedas** onde ocuparia todo o primeiro compartimento, um espaço de **Inventário** e as próximas ocupariam o segundo espaço de **Inventário**.
 
-O ganho de **Moedas** é sempre feito a partir da mais valiosa para menos valiosa (após os cálculos e modificadores como **Sorte** e [[@Escala]]), mas esse fenômeno é sucetível a [[Regra de Ouro]] (por exemplo um baú repleto de **Moedas** de **Ouro** ainda se manteria assim, por mais que pudesse ser convertido para **Oricalco**).
+O ganho de **Moedas** é sempre feito a partir da mais valiosa para menos valiosa (após os cálculos e modificadores como **Sorte** e [[Escala]]), mas esse fenômeno é sucetível a [[Regra de Ouro]] (por exemplo um baú repleto de **Moedas** de **Ouro** ainda se manteria assim, por mais que pudesse ser convertido para **Oricalco**).
 
 > É importante lembrar que por mais que seja vantajoso andar com as **Moedas** mais valiosas é mais fácil ser furtado, além de pequenos e médios comerciantes não poderem fazer negócios por não terem troco ou algo de valor equivalente.
 

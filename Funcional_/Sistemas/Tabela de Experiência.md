@@ -3,7 +3,7 @@
 
 # [[Tabela de Experiência]]
 
-O **XP total** que cada **Nível** exige. Para ir do **Nível** N ao N + 1 são precisos **100 × N** de **XP** (veja [[@Progressão]]).
+O **XP total** que cada **Nível** exige. Para ir do **Nível** N ao N + 1 são precisos **100 × N** de **XP** (veja [[Progressão]]).
 
 | **Nível** | **Grau** | **XP para o próximo** | **XP total** |
 | :-------: | :------: | --------------------: | -----------: |

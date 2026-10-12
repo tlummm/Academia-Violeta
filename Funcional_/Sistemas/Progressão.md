@@ -1,7 +1,7 @@
 
 ---
 
-# O que é a [[@Progressão]]
+# O que é a [[Progressão]]
 
 A **Progressão** é como um **Personagem** fica mais forte ao longo da **Campanha**. Ela acontece de três formas:
 
@@ -39,7 +39,7 @@ A **Experiência** (**XP**) é um total que só cresce. Cada **Personagem** anot
 
 ### De onde vem
 
-O **XP** depende do **Nível** de quem foi derrotado (veja [[@Escala]]):
+O **XP** depende do **Nível** de quem foi derrotado (veja [[Escala]]):
 
 | **Oponente**   | **XP**                                |
 | :------------- | :------------------------------------ |
