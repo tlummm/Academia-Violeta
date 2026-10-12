@@ -1,4 +1,4 @@
-São méritos extras concedidos aos **Jogadores** ao realizarem [[@Feitos]], como por exemplo derrotarem [[@Unidades]], ganhar um torneio e e entre outros.
+São méritos extras concedidos aos **Jogadores** ao realizarem [[Feitos]], como por exemplo derrotarem [[@Unidades]], ganhar um torneio e e entre outros.
 
 ---
 
@@ -12,7 +12,7 @@ São méritos extras concedidos aos **Jogadores** ao realizarem [[@Feitos]], com
 
 # Aleatoriedade da Recompensa
 
-Quando há recompensa de [[@Itens]] em [[@Feitos]] há uma aleatoriedade para saber que tipo de **Item** irá ser saqueado. É decidido em **1d6** se o **Item** será um entre [[@Uso Único]] (1-2), [[@Equipamentos]] (3-4) ou [[@Ferramentas]] (5-6).
+Quando há recompensa de [[@Itens]] em [[Feitos]] há uma aleatoriedade para saber que tipo de **Item** irá ser saqueado. É decidido em **1d6** se o **Item** será um entre [[@Uso Único]] (1-2), [[@Equipamentos]] (3-4) ou [[@Ferramentas]] (5-6).
 
 No caso de [[@Uso Único]] a recompensa é sempre multiplicada por cinco, ou dobrada caso seja um de **Nível** 8 e única se de **Nível** 9. Nessa mesma lógica, sempre que for do tipo **Munição** esse valor final é multiplicada por dez.
 

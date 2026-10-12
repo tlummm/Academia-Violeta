@@ -7,7 +7,7 @@ A **Progressão** é como um **Personagem** fica mais forte ao longo da **Campan
 
 1. **Nível**: a medida geral do **Personagem**, do **Nível 1** ao **Nível 99**. Sobe ao juntar **Experiência**.
 2. **Atributos e Habilidades**: cada **Nível** novo traz um ponto para os [[Atributos]] ou para as [[Habilidades e Talentos]].
-3. **Feitos e Recompensas**: ganhos que vêm de conquistas e do que o grupo encontra (veja [[@Feitos]] e [[@Recompensas]]).
+3. **Feitos e Recompensas**: ganhos que vêm de conquistas e do que o grupo encontra (veja [[Feitos]] e [[@Recompensas]]).
 
 ---
 
@@ -47,7 +47,7 @@ O **XP** depende do **Nível** de quem foi derrotado (veja [[Escala]]):
 | **Elite**      | 50 × **Nível** do **Oponente**        |
 | **Chefe**      | 100 × **Nível** do **Oponente**       |
 | **Soberano**   | 1000 × **Nível** do **Oponente**      |
-| [[@Feitos\|Feito]] | Definido no **Feito**            |
+| [[Feitos\|Feito]] | Definido no **Feito**            |
 
 * **Igual para todos**: cada **Personagem** que participou do [[Combate]] ganha o **XP** inteiro de cada **Oponente** derrotado. Nada é dividido: lutar em grupo é sempre mais vantajoso do que sozinho. Quem não estava presente não ganha (veja [[Sessão]]).
 * **A medida**: 10 **Normais** do mesmo **Nível** do **Personagem** levam ao **Nível** seguinte, seja no **Nível 1** ou no **Nível 50**. Um **Chefe** do mesmo **Nível** vale um **Nível** inteiro sozinho.

@@ -27,7 +27,7 @@ Antes do primeiro **Teste**, na ordem:
 A **Sessão** acaba quando o grupo decide parar, na ordem:
 
 1. **Anotar o estado**: cada **Jogador** confere na ficha a **Vida**, o **Foco**, os [[Efeitos]],  [[@Itens]] e entre outros. É com isso que ele começa a próxima.
-2. **Feitos**: o **Mestre** diz quais [[@Feitos]] o grupo cumpriu (veja [[Progressão]]).
+2. **Feitos**: o **Mestre** diz quais [[Feitos]] o grupo cumpriu (veja [[Progressão]]).
 3. **Crítica**: se a [[Regra de Ouro]] foi usada, o grupo anota o que foi mudado e por quê.
 
 ### O que se renova
@@ -58,7 +58,7 @@ O **Personagem** de quem faltou continua com o grupo, mas fica em segundo plano:
 
 * Em [[Interpretação]], não faz **Testes** nem toma decisões pelo grupo.
 * Em [[Combate]], o grupo decide os **Turnos** dele, que só pode fazer **Movimento** e **Ataque** (sem **Habilidades**). Se ele cair, as regras são as de sempre.
-* Ele não ganha [[@Feitos]] daquela **Sessão**.
+* Ele não ganha [[Feitos]] daquela **Sessão**.
 
 > Se o grupo preferir, o **Mestre** pode tirar o **Personagem** da cena com um motivo do mundo (ficou na **Academia**, se perdeu na trilha). Ele volta quando o **Jogador** voltar, no mesmo estado em que saiu.
 
