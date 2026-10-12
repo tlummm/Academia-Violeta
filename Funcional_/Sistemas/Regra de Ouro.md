@@ -15,7 +15,7 @@ Use a [[Regra de Ouro]] quando seguir a regra à risca deixaria a mesa pior:
 
 * **A regra trava o jogo.** Uma situação que nenhuma regra cobre, ou uma consulta que tomaria minutos demais no meio de uma cena boa.
 * **A regra contradiz a história.** O resultado seria absurdo dentro da cena, como um baú cheio de **Moedas** de **Ouro** virando outra moeda só porque a conta de [[@Economia]] mandou.
-* **A regra comete injustiça contra o grupo.** Um resultado que tiraria alguém do jogo pelo resto da [[@Sessão]] sem que ninguém tenha errado.
+* **A regra comete injustiça contra o grupo.** Um resultado que tiraria alguém do jogo pelo resto da [[Sessão]] sem que ninguém tenha errado.
 
 Não use a [[Regra de Ouro]]:
 

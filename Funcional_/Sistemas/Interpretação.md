@@ -3,7 +3,7 @@
 
 # O que é a [[Interpretação]]
 
-A **Interpretação** é o modo do **Jogo** em que se conversa, explora, investiga e decide. Toda [[@Sessão]] começa nela, e é nela que a maior parte da história acontece. Quando uma luta começa, o grupo passa para o [[Combate]]; quando ela acaba, volta para cá.
+A **Interpretação** é o modo do **Jogo** em que se conversa, explora, investiga e decide. Toda [[Sessão]] começa nela, e é nela que a maior parte da história acontece. Quando uma luta começa, o grupo passa para o [[Combate]]; quando ela acaba, volta para cá.
 
 * **Sem Turnos**: cada **Jogador** diz o que o seu **Personagem** faz, na ordem natural da conversa.
 * **Sem custo**: as [[Ações]] daqui não gastam **Foco**. Só usar uma **Habilidade** custa o mesmo que custaria em [[Combate]], além de testes.
