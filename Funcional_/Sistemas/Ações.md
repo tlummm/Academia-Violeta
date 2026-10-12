@@ -7,7 +7,7 @@ Uma **Ação** é qualquer coisa que um **Personagem** tenta fazer: pular um bur
 
 Como uma **Ação** funciona depende de onde ela acontece:
 
-* **Em [[@Interpretação]]**: as **Ações** são livres. Você descreve o que quer fazer e, se houver risco, o **Mestre** pede um **Teste** no **d20** baseado nos seus [[Atributos]]. Elas não custam nada.
+* **Em [[Interpretação]]**: as **Ações** são livres. Você descreve o que quer fazer e, se houver risco, o **Mestre** pede um **Teste** no **d20** baseado nos seus [[Atributos]]. Elas não custam nada.
 * **Em [[Combate]]**: as **Ações** são contadas. Cada **Turno** você tem três, e cada uma gasta **Foco**.
 
 ---
@@ -32,7 +32,7 @@ Em cada **Turno** você pode fazer **uma** de cada, na ordem que quiser, e pode 
 
 * **Gastar**: ao fazer uma **Ação**, pague o custo dela em **Foco**. Se não tiver **Foco** suficiente, não pode fazê-la (veja **Exausto**, abaixo).
 * **Recuperar fora do Combate**: o **Foco** volta ao máximo apenas com um **Descanso Apropriado**, e se recupera até a metade com **Descansos Breves**.
-* **Fora do Combate**: **Ações** de [[@Interpretação]] não gastam **Foco**. Só usar uma **Habilidade** custa o mesmo que custaria em **Combate**.
+* **Fora do Combate**: **Ações** de [[Interpretação]] não gastam **Foco**. Só usar uma **Habilidade** custa o mesmo que custaria em **Combate**.
 
 ### Exausto
 

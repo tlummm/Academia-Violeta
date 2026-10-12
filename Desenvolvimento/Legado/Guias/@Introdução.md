@@ -20,6 +20,6 @@ Essas ferramentas servem para facilitar a organização de ficha e anotações d
 
 # Como Jogar?
 
-O primeiro passo para se jogar é a [[@Criação de Personagem]]. Após isso, entre as diversas **Mecânicas** e **Regras** que existem no **Sistema**, a leitura mais recomendadas é de [[@Interpretação]] e [[Combate]]. Os outros pontos que há no **Sistema** também são importantes a se aprender, mas o **Jogador** não será prejudicado por optar em não os ler.
+O primeiro passo para se jogar é a [[@Criação de Personagem]]. Após isso, entre as diversas **Mecânicas** e **Regras** que existem no **Sistema**, a leitura mais recomendadas é de [[Interpretação]] e [[Combate]]. Os outros pontos que há no **Sistema** também são importantes a se aprender, mas o **Jogador** não será prejudicado por optar em não os ler.
 
 ---

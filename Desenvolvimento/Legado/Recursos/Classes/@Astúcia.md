@@ -4,7 +4,7 @@ Possuem **Talentos** e **Habilidades** que modificam **Regras**, feitos para tra
 
 * **Dano**: de todas as formas possíveis contra todos os tipos de oponentes.
 
-Por ser do **Aspecto** da **Agilidade** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[@Interpretação]], além de 1 ponto adicional em cada [[Atributos]] de **Alcance**, **Sorte** e **Velocidade**, mas também recebe em um **Atributo Secundário** de **Esquiva**.
+Por ser do **Aspecto** da **Agilidade** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional em cada [[Atributos]] de **Alcance**, **Sorte** e **Velocidade**, mas também recebe em um **Atributo Secundário** de **Esquiva**.
 
 ---
 
@@ -400,7 +400,7 @@ Uma perfuração direta no coração. Realiza um **Ataque**, porém causando 1 d
 
 Talento Físico, Utilidade.
 
-O desaparecimento ocorre com o movimento do capuz. Aumenta a **Velocidade** em 5 e reduz o **Alcance** contra você em 5. Se na volta do seu **Turno** você não sofreu nenhum **Ataque** ou **Habilidade** você se torna **Invisível** (Não pode ser **Alvo**, **NPCs** e **Monstros** não sabem sua localização, além de poder executar [[Ações]] tanto de [[Combate]] quanto de [[@Interpretação]]).
+O desaparecimento ocorre com o movimento do capuz. Aumenta a **Velocidade** em 5 e reduz o **Alcance** contra você em 5. Se na volta do seu **Turno** você não sofreu nenhum **Ataque** ou **Habilidade** você se torna **Invisível** (Não pode ser **Alvo**, **NPCs** e **Monstros** não sabem sua localização, além de poder executar [[Ações]] tanto de [[Combate]] quanto de [[Interpretação]]).
 
 ### Melhorar Mira
 

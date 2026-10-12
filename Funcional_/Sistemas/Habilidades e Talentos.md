@@ -81,7 +81,7 @@ Uma **Habilidade** pode ter mais de um **Tipo**.
 
 * **Acerto Crítico**: 20 no dado (antes de somar) acerta sempre e dobra **Dano**, **Eficiências** e **Efeitos** (veja [[Combate]]). O **Atributo Secundário** **Crítico** baixa esse número.
 * **Crítico Verdadeiro**: o 20 de verdade, sem nada que o baixe, ou vezes adicionais até acertar. Algumas **Habilidades** e **Talentos** só funcionam com ele.
-* **Em [[@Interpretação]]**: um **Acerto Crítico** vence o **Teste** com o melhor resultado possível.
+* **Em [[Interpretação]]**: um **Acerto Crítico** vence o **Teste** com o melhor resultado possível.
 
 ---
 

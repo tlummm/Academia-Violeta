@@ -1,7 +1,7 @@
 
 ---
 
-# O que é a [[@Interpretação]]
+# O que é a [[Interpretação]]
 
 A **Interpretação** é o modo do **Jogo** em que se conversa, explora, investiga e decide. Toda [[@Sessão]] começa nela, e é nela que a maior parte da história acontece. Quando uma luta começa, o grupo passa para o [[Combate]]; quando ela acaba, volta para cá.
 

@@ -22,7 +22,7 @@ Respeite sempre a grafia e o sentido dos termos abaixo. Ao escrever regras, habi
 
 O jogo acontece em dois **Planos**:
 
-- **[[@Interpretação]]** — modo mais livre, de narrativa e ação fora de combate.
+- **[[Interpretação]]** — modo mais livre, de narrativa e ação fora de combate.
 - **[[Combate]]** — modo com regras estritas: ordem de **Turnos** pelo **Atributo** de **Velocidade** (jogadores primeiro, depois oponentes, do mais rápido ao mais lento); três **Ações Controladas** por turno (Movimento, Ataque e Principal) em ordem livre; fases não controladas de **Início de turno** (aplicação de **Efeitos**) e **Fim de turno** (redução de cada **Efeito** em 1). O **Tabuleiro** usa casas de 1 metro quadrado. Um **Erro Crítico** (1 no **d20**) encerra o turno.
 
 ### Aspectos e Classes

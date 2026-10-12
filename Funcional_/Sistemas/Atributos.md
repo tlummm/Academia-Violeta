@@ -128,13 +128,13 @@ Além dos nove, existem **Atributos** mais raros que só vêm de fontes externas
 
 Os desafios do **Jogo** pedem personagens equilibrados, porém investir pesado num **Atributo** é altamente recompensador. A cada 10 pontos em um atributo é adquirido um bônus **uma vez** (20 pontos dão duas vezes, e assim por diante). Em 99, o máximo, é ganho um poder único.
 
-> Cada 10 pontos também somam 1 no modificador daquele **Atributo** em [[@Interpretação]].
+> Cada 10 pontos também somam 1 no modificador daquele **Atributo** em [[Interpretação]].
 
 | **Atributo**  | **A cada 10 pontos**                                                              | **Em 99**                                                              |
 | :------------ | :-------------------------------------------------------------------------------- | :--------------------------------------------------------------------- |
 | **Ataque**    | **Acertos Críticos** em **Ataques** causam 5 de **Dano** adicional                | Os acertos de seus **Ataques** são  **Críticos**                       |
 | **Defesa**    | **Falha Crítica** nos **Ataques** contra você aumenta em 1                        | **Críticos** recebidos por **Ataques** são reduzidos a **Dano** normal |
-| **Maestria**  | **Acerto Crítico** das suas **Ações** de [[@Interpretação]] aumenta em 1          | Seus acertos normais em **Ações Principais** são **Críticos**          |
+| **Maestria**  | **Acerto Crítico** das suas **Ações** de [[Interpretação]] aumenta em 1          | Seus acertos normais em **Ações Principais** são **Críticos**          |
 | **Espírito**  | **Falha Crítica** nas **Ações Principais** contra você aumenta em 1               | Recebe metade do **Dano** e [[Efeitos]] de **Ações Principais**       |
 | **Precisão_** | [[Ações]] de alvo único, ganham um alvo adicional                                | Suas [[Ações]] só erram em **Erro Crítico**                           |
 | **Esquiva_**  | Quando uma **Ação** erra você, pode andar 5 metros fora do turno (imediatamente). | [[Ações]] contra você só acertam com **Crítico**                      |

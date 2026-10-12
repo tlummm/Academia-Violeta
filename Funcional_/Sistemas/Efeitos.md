@@ -37,9 +37,9 @@ Todo **Efeito** tem um nível. Quem dissipa remove **Efeitos** do seu nível ou 
 
 | **Efeito**       | **Nível**  | **O que faz** (por **Acúmulo**)                                                            | **Sai**            |
 | :--------------- | :--------- | :----------------------------------------------------------------------------------------- | :----------------- |
-| **Noção**        | Fraco      | Consumido para transformar um **Erro Crítico** de [[@Interpretação]] em erro comum         | Consumido          |
-| **Atenção**      | Fraco      | +1 no **d20** dos **Testes** de [[@Interpretação]]                                         | Fim da **Sessão**  |
-| **Inspiração**   | Fraco      | −1 no número de **Acerto Crítico** em [[@Interpretação]]                                   | Consumido          |
+| **Noção**        | Fraco      | Consumido para transformar um **Erro Crítico** de [[Interpretação]] em erro comum         | Consumido          |
+| **Atenção**      | Fraco      | +1 no **d20** dos **Testes** de [[Interpretação]]                                         | Fim da **Sessão**  |
+| **Inspiração**   | Fraco      | −1 no número de **Acerto Crítico** em [[Interpretação]]                                   | Consumido          |
 | **Aumento**      | Normal     | +1 num **Atributo** escolhido por quem aplica                                              | Fim do **Combate** |
 | **Concentração** | Normal     | Recupera 1 de **Foco** no **Início do Turno**                                              | Fim do **Combate** |
 | **Regeneração**  | Normal     | Recupera 1 de **Vida** no **Início do Turno**                                              | Fim do **Combate** |

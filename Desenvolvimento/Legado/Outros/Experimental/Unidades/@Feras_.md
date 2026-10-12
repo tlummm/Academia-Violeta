@@ -1,4 +1,4 @@
-É o nome dado a criaturas irracionais. Diferente de **Monstros**, não possuem pensamento abstrato avançado ou pensamento a longo prazo, tornando jogadas de [[@Interpretação]] bem mais limitadas, principalmente a respeitar suas condições, entender seu ecossistemas e alimentação.
+É o nome dado a criaturas irracionais. Diferente de **Monstros**, não possuem pensamento abstrato avançado ou pensamento a longo prazo, tornando jogadas de [[Interpretação]] bem mais limitadas, principalmente a respeitar suas condições, entender seu ecossistemas e alimentação.
 
 ---
 # Características

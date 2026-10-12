@@ -3,7 +3,7 @@
 
 # O que é o [[Combate]]
 
-O [[Combate]] é o modo do **Jogo** para lutas. Fora dele, em [[@Interpretação]], as [[Ações]] são livres e o tempo corre como a história pedir. Dentro dele, o tempo é dividido em **Turnos**, cada **Personagem** age na sua vez e cada [[Ações|Ação]] gasta **Foco**.
+O [[Combate]] é o modo do **Jogo** para lutas. Fora dele, em [[Interpretação]], as [[Ações]] são livres e o tempo corre como a história pedir. Dentro dele, o tempo é dividido em **Turnos**, cada **Personagem** age na sua vez e cada [[Ações|Ação]] gasta **Foco**.
 
 O **Combate** acontece num **Tabuleiro** de casas, e cada casa vale 1 metro. Todo mundo que luta, seja **Jogador**, **NPC** ou **Monstro**, é uma **Unidade** (veja [[@Unidades]]).
 
@@ -69,7 +69,7 @@ Quando a **Vida** chega a 0, a **Unidade** fica **Caída**:
 # Fugir e terminar
 
 * **Fugir**: uma **Unidade** que termina o **Movimento** numa casa da borda do **Tabuleiro**, sem nenhum **Oponente** a 1 metro, sai do **Combate**. Os **Oponentes** podem perseguir: o **Mestre** decide se começa outro **Combate** mais à frente.
-* **Terminar**: o **Combate** acaba quando um dos lados não tem mais **Unidades** de pé no **Tabuleiro**, seja por **Vida** em 0 ou por fuga. Todos voltam para [[@Interpretação]].
+* **Terminar**: o **Combate** acaba quando um dos lados não tem mais **Unidades** de pé no **Tabuleiro**, seja por **Vida** em 0 ou por fuga. Todos voltam para [[Interpretação]].
 * **Depois**: o **Foco** e a **Vida** **não** voltam no fim do **Combate**. Só com [[Descanso]] (veja [[Ações]]).
 * **Derrota**: se todos os **Jogadores** estão **Caídos** quando o **Combate** acaba, ninguém morre de imediato: o **Mestre** decide o que os **Oponentes** fazem com eles (prender, roubar, abandonar).
 
