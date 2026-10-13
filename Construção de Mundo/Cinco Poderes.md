@@ -74,7 +74,7 @@ O **Sagrado** não destrói o que existe: aperfeiçoa. Ele não força a naturez
 
 # A capacidade humana
 
-O **Real** é o mais frágil diante dos outros, mas é o chão de todos eles. Tudo o que existe, existe naturalmente antes de qualquer outra coisa, então seres de qualquer **Poder** podem aprender as [[Artes Reais_]]. O caminho inverso não existe: quem é só **Real** não aprende as [[Artes]] dos outros **Poderes**.
+O **Real** é o mais frágil diante dos outros, mas é o chão de todos eles. Tudo o que existe, existe naturalmente antes de qualquer outra coisa, então seres de qualquer **Poder** podem aprender as [[Artes Reais]]. O caminho inverso não existe: quem é só **Real** não aprende as [[Artes]] dos outros **Poderes**.
 
 Mas a mente humana entende o que vê, e o que ela entende passa a fazer parte dela. Por isso só quem é **Real** consegue usar os objetos e recursos dos outros quatro **Poderes**: uma relíquia sagrada, um amuleto selvagem, uma máquina de outro mundo.
 

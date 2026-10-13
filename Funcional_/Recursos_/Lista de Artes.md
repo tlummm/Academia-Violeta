@@ -19,13 +19,13 @@ A diferença para o que vem da **Classe** é simples:
 Toda **Arte** pertence a um dos [[Cinco Poderes]], e todo **Personagem** também.
 
 1. **Só do seu Poder**: um **Personagem** só aprende [[Artes]] do seu **Poder**.
-2. **O Real é de todos**: **Personagens** **Sagrados**, **Sombrios**, **Selvagens** e **Mágicos** também podem aprender [[Artes Reais_]].
+2. **O Real é de todos**: **Personagens** **Sagrados**, **Sombrios**, **Selvagens** e **Mágicos** também podem aprender [[Artes Reais]].
 3. **O Real não sai do Real**: um **Personagem** **Real** nunca aprende [[Artes]] de outro **Poder**.
 4. **Mudar de Poder**: quando o **Poder** de um **Personagem** muda, as [[Artes]] do novo **Poder** passam a estar disponíveis para ele.
 
 As **Artes** de cada **Poder** estão listadas em:
 
-* [[Artes Reais_]]
+* [[Artes Reais]]
 * [[Artes Sagradas_]]
 * [[Artes Sombrias_]]
 * [[Artes Selvagens_]]
@@ -63,7 +63,7 @@ Toda **Arte** sobe em **Graus**, que acompanham os **Níveis** do **Personagem**
 
 # Classe e Arte
 
-A **Classe** não carrega as técnicas de uma **Arte**: ela diz quais você pode aprender, sempre dentro do seu **Poder** (e das [[Artes Reais_]]). Isso aparece na página de cada **Classe** em três partes:
+A **Classe** não carrega as técnicas de uma **Arte**: ela diz quais você pode aprender, sempre dentro do seu **Poder** (e das [[Artes Reais]]). Isso aparece na página de cada **Classe** em três partes:
 
 1. **Acesso**: a lista de [[Artes]] que a **Classe** pode aprender. Pode citar uma por uma ou uma **Família** inteira ("todas de **Armas**"). O que não está na lista, a **Classe** nunca aprende.
 2. **Afinidade**: algumas [[Artes]] da lista combinam com a **Classe**, podendo receber benefícios adicionais.

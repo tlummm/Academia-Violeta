@@ -1,3 +1,5 @@
+
+---
 # O que são as [[Classes]]
 
 A **Classe** é a decisão central da [[Ficha]]: diz quem o **Personagem** é em combate, quais [[Lista de Artes|Artes]] ele pode aprender e qual **Talento Principal** ele tem. Ela é escolhida na [[Criação de Personagem]] e não muda.
@@ -40,22 +42,22 @@ A **Função** é o papel que a **Classe** cumpre melhor num grupo:
 3. **Suporte**: utilidade e recuperação de recursos.
 4. **Outros**: ferramentas e capacidades além das convenções.
 
-Toda **Classe** consegue causar **Dano**, para que nenhum **Jogador** dependa dos outros para lutar. A **Função** diz em que ela é melhor, não o que ela pode fazer.
+A **Função** diz em que a **Classe** é melhor, não o que ela pode fazer.
 
 ---
 
 # Acesso
 
-As [[Artes Reais_]] que cada **Classe** pode aprender:
+As [[Artes Reais]] que cada **Classe** pode aprender:
 
-| **Classe**  | **Internas**                                                  | **Externas**                                              |
-| :---------- | :------------------------------------------------------------ | :-------------------------------------------------------- |
-| **Soldado** | Todas                                                         | —                                                         |
-| **Peão**    | Defesa, Haste, Armas Pesadas, Atletismo                       | Coleta, Música                                            |
-| **Doutor**  | —                                                             | Todas                                                     |
-| **Louco**   | Todas                                                         | Todas                                                     |
-| **Vigia**   | Arquearia, Artilharia, Atletismo, Acrobacia, Esgrima, Marcial | Sobrevivência, Adestramento, Montaria, Táticas, Culinária |
-| **Ladrão**  | Acrobacia, Atletismo                                          | Trapaça, Coleta, Música, Linguística                      |
+| **Classe**  | **Internas** | **Externas** |
+| :---------- | :------- | :------- |
+| **Soldado** | Todas | — |
+| **Peão**    | [[Armas Pesadas_]], [[Atletismo_]], [[Defesa_]], [[Haste_]] | [[Coleta_]], [[Música_]] |
+| **Doutor**  | — | Todas |
+| **Louco**   | Todas | Todas |
+| **Vigia**   | [[Acrobacia_]], [[Arquearia_]], [[Artilharia_]], [[Atletismo_]], [[Esgrima_]], [[Marcial_]] | [[Adestramento_]], [[Culinária_]], [[Montaria_]], [[Sobrevivência_]], [[Táticas_]] |
+| **Ladrão**  | [[Acrobacia_]], [[Atletismo_]] | [[Coleta_]], [[Linguística_]], [[Música_]], [[Trapaça_]] |
 
 ---
 
