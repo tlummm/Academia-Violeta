@@ -8,7 +8,7 @@ Uma **Arte** é um conjunto de [[Habilidades e Talentos]] que qualquer **Persona
 A diferença para o que vem da **Classe** é simples:
 
 * **Da Classe**: o **Talento Principal** e as **Habilidades** e **Talentos** únicos dela. Só quem é daquela **Classe** tem.
-* **De uma Arte**: [[Habilidades e Talentos]] compartilhados. Um [[Recruta_]] e um [[Ladrão_]] que aprendem [[Esgrima_]] aprendem as mesmas técnicas.
+* **De uma Arte**: [[Habilidades e Talentos]] compartilhados. Um [[Soldado_]] e um [[Ladrão_]] que aprendem [[Esgrima_]] aprendem as mesmas técnicas.
 
 > Duas [[@Classes_]] diferentes podem lutar usando a mesma **Arte**. O que muda entre elas são os **Atributos**, a **Classe** e a **Afinidade**.
 
