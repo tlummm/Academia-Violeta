@@ -11,12 +11,12 @@ A **Economia** é o sistema de valores e trocas entre **Unidades**: comprar, ven
 
 # Moedas
 
-| **Moeda**     | **Vale**             |
-| :------------ | :------------------- |
-| **Cobre**     | A unidade básica     |
-| **Prata**     | 10 **Cobre**         |
-| **Ouro**      | 10 **Prata**         |
-| **Oricalco**  | 1000 **Ouro**        |
+| **Moeda**    | **Vale**         |
+| :----------- | :--------------- |
+| **Cobre**    | A unidade básica |
+| **Prata**    | 10 **Cobre**     |
+| **Ouro**     | 10 **Prata**     |
+| **Oricalco** | 1000 **Ouro**    |
 
 * **Oricalco** é anormal: uma moeda de lenda, usada em negócios além do que existe de fato. Poucos comerciantes a aceitam.
 * **Conversão**: só em bancos ou comerciantes especializados, que cobram **1 Moeda a cada 10** convertidas.
