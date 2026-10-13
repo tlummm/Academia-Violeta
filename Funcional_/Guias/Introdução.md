@@ -38,7 +38,7 @@ A história se passa no [[Naufrágio]], um multiverso de mundos interligados, on
 
 **Para jogar**, nesta ordem:
 
-1. [[@Criação de Personagem]]: monte o seu **Personagem**.
+1. [[Criação de Personagem]]: monte o seu **Personagem**.
 2. [[Interpretação]]: como agir e fazer **Testes** fora da luta.
 3. [[Combate]] e [[Ações]]: como funciona uma luta.
 4. [[Atributos]]: o que cada número da ficha faz.

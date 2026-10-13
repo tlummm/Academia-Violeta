@@ -77,7 +77,7 @@ Os pontos dos **Níveis** novos são distribuídos no próximo **Descanso Apropr
 
 # O que cada Nível dá
 
-O **Nível 1** é o da criação (veja [[@Criação de Personagem]]). Daí em diante:
+O **Nível 1** é o da criação (veja [[Criação de Personagem]]). Daí em diante:
 
 | **Nível** | **Ganha**                                                 |
 | :-------- | :-------------------------------------------------------- |
