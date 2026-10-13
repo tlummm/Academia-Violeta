@@ -30,6 +30,7 @@ No momento, só existem as **Classes** do **Poder Real**:
 | [[Louco_]]   | **Inteligência** | Inocência   | **Espírito** | Versátil         |
 | [[Vigia_]]   | **Agilidade**    | Presença    | **Precisão** | Dano à distância |
 | [[Ladrão_]]  | **Agilidade**    | Ausência    | **Esquiva**  | Furtividade      |
+|              |                  |             |              |                  |
 
 ---
 
