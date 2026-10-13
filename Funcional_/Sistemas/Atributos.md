@@ -43,7 +43,7 @@ Dano causado, dano aguentado e quanto tempo você fica de pé. Sobre a **Força*
 
 ### Vida — a linha da Força
 
-* **Regra**: sua **Vida** máxima é a sua **Base** (20, se nada disser o contrário) + **Ataque** + **Defesa**.
+* **Regra**: sua **Vida** máxima é a sua **Base** + **Ataque** + **Defesa**.
 * **Na prática**: quando a **Vida** chega a zero, você cai. Para ter mais **Vida**, invista em **Ataque** ou **Defesa**.
 * **Em Interpretação**: fôlego, esforço prolongado, resistir a venenos e doenças.
 
@@ -67,7 +67,7 @@ Poder das suas **Habilidades**, resistência a **Dano Mágico** e **Foco** para 
 
 ### Foco — a linha da Inteligência
 
-* **Regra**: seu **Foco** máximo é a sua **Base** (20, se nada disser o contrário) + **Maestria** + **Espírito**.
+* **Regra**: seu **Foco** máximo é a sua **Base** + **Maestria** + **Espírito**.
 * **Na prática**: **Foco** é a barra que todas as [[Ações]] gastam, as **Ações Principais** mais que as outras. Sem **Foco** você fica limitado (ver [[Ações]]).
 * **Em Interpretação**: concentração, memória, estudo longo.
 
