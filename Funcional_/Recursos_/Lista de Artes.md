@@ -3,14 +3,14 @@
 
 # O que são [[Artes]]
 
-Uma **Arte** é um conjunto de [[Habilidades e Talentos]] que qualquer **Personagem** pode aprender, se a sua [[@Classes_|Classe]] permitir. [[Esgrima_]], [[Arquearia_]], [[Medicina_]] e [[Táticas_]] são exemplos. O que é uma **Arte** no mundo está em [[Artes]].
+Uma **Arte** é um conjunto de [[Habilidades e Talentos]] que qualquer **Personagem** pode aprender, se a sua [[Classes|Classe]] permitir. [[Esgrima_]], [[Arquearia_]], [[Medicina_]] e [[Táticas_]] são exemplos. O que é uma **Arte** no mundo está em [[Artes]].
 
 A diferença para o que vem da **Classe** é simples:
 
 * **Da Classe**: o **Talento Principal** e as **Habilidades** e **Talentos** únicos dela. Só quem é daquela **Classe** tem.
 * **De uma Arte**: [[Habilidades e Talentos]] compartilhados. Um [[Soldado_]] e um [[Ladrão_]] que aprendem [[Esgrima_]] aprendem as mesmas técnicas.
 
-> Duas [[@Classes_]] diferentes podem lutar usando a mesma **Arte**. O que muda entre elas são os **Atributos**, a **Classe** e a **Afinidade**.
+> Duas [[Classes]] diferentes podem lutar usando a mesma **Arte**. O que muda entre elas são os **Atributos**, a **Classe** e a **Afinidade**.
 
 ---
 

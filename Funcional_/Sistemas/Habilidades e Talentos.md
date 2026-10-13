@@ -11,7 +11,7 @@ São as técnicas, golpes, conjurações e truques de uma **Unidade**: o que ela
 De onde elas vêm:
 
 * **Das [[Lista de Artes|Artes]]**: a maioria. Quem aprende uma **Arte** ganha as **Habilidades** e **Talentos** de cada **Grau** que alcança, e qualquer **Classe** com acesso àquela **Arte** aprende as mesmas.
-* **Da [[@Classes_|Classe]]**: o **Talento Principal** e algumas **Habilidades** e **Talentos** únicos, que só aquela **Classe** tem.
+* **Da [[Classes|Classe]]**: o **Talento Principal** e algumas **Habilidades** e **Talentos** únicos, que só aquela **Classe** tem.
 * **De [[@Itens]], Monstros e Estruturas**: uma espada encantada, uma fera ou uma torre também podem ter as suas.
 
 ---
@@ -92,6 +92,6 @@ Um **Talento** tem a mesma ficha de uma **Habilidade**, mas nunca ocupa a **Aç�
 * **Passivo**: vale o tempo todo. Ex.: +1 de **Alcance** com arcos.
 * **Gatilho**: dispara sozinho quando a condição escrita acontece ("quando um aliado ao lado cair", "depois de um **Acerto Crítico**"). Pode ter **Custo** em **Foco**, pago na hora.
 
-O **Talento Principal** de cada **Classe** está na página dela (veja [[@Classes_]]).
+O **Talento Principal** de cada **Classe** está na página dela (veja [[Classes]]).
 
 ---

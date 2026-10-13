@@ -33,7 +33,7 @@ Cada **Aspecto** amarra uma **Classe**:
 - **Inteligência → Magia**
 - **Agilidade → Astúcia**
 
-As demais **Classes** ficam em [[@Classes_]]. A **Classe** é a decisão central da [[Ficha]].
+As demais **Classes** ficam em [[Classes]]. A **Classe** é a decisão central da [[Ficha]].
 
 ### Aspectos e Atributos
 

@@ -11,7 +11,7 @@ A história se passa no [[Naufrágio]], um multiverso de mundos interligados, on
 
 # O que esperar do Jogo
 
-* **Personagens montados por partes**: a [[@Classes_|Classe]] define o que um **Personagem** pode aprender, e as [[Lista de Artes|Artes]] trazem as técnicas. Dois **Personagens** da mesma **Classe** podem jogar de formas muito diferentes.
+* **Personagens montados por partes**: a [[Classes|Classe]] define o que um **Personagem** pode aprender, e as [[Lista de Artes|Artes]] trazem as técnicas. Dois **Personagens** da mesma **Classe** podem jogar de formas muito diferentes.
 * **Combate tático**: as lutas acontecem num **Tabuleiro**, com posição, alcance e ordem dos **Turnos** importando tanto quanto os números (veja [[Combate]]).
 * **Preparo e grupo**: o **Jogo** é exigente. [[Efeitos]] negativos só saem com tratamento, o **Foco** só volta com [[Descanso]] e um **Chefe** não se vence na força. Um grupo diverso e preparado vai mais longe do que um **Personagem** forte sozinho.
 * **Liberdade fora da luta**: em [[Interpretação]], qualquer ideia pode ser tentada. O **Mestre** só pede um **Teste** quando há risco.

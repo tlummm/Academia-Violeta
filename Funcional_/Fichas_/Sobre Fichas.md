@@ -17,7 +17,7 @@ Esta página explica cada campo, na ordem em que aparecem.
 | **Campo**                     | **O que anotar**                                                         |
 | :---------------------------- | :----------------------------------------------------------------------- |
 | **Nome** e **Apelido**        | Como é chamado                                                           |
-| **Poder** e **Classe**        | Um dos [[Cinco Poderes]] e a [[@Classes_\|Classe]] escolhida dentro dele |
+| **Poder** e **Classe**        | Um dos [[Cinco Poderes]] e a [[Classes\|Classe]] escolhida dentro dele |
 | **Qualidades** e **Defeitos** | Traços de personalidade, usados em [[Interpretação]]                     |
 | **Aparência** e **História**  | Texto livre                                                              |
 

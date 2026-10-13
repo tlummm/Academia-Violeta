@@ -13,7 +13,7 @@ Ajustar [[@Itens]] atuais;
 # Restante para escopo jogável (1.0.0)
 
 * [[@Itens]] de todas as **Raridades**;
-* [[@Classes_]] novas como curandeiro puro, além de duas a decidir (provavelmente **Mercador** e **Peão**, além dos retrabalhos para **Soldado**, **Acadêmico** e **Mercenário**);
+* [[Classes]] novas como curandeiro puro, além de duas a decidir (provavelmente **Mercador** e **Peão**, além dos retrabalhos para **Soldado**, **Acadêmico** e **Mercenário**);
 * **Oponentes Temporários** simples para testes; 
 * Balanceamento geral com simulações;
 * **Modos de Jogo** como **Arena**, **Horda** e **Progressivo**;

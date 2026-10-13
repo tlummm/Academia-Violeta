@@ -21,7 +21,7 @@ O que não tem número: **Nome**, **Apelido**, aparência e **História**. É li
 # 2. Poder e Classe
 
 1. **Poder**: escolha um dos [[Cinco Poderes]]. Ele decide quais [[Lista de Artes|Artes]] o **Personagem** pode aprender.
-2. **Classe**: escolha uma [[@Classes_|Classe]] do seu **Poder**. É a decisão central da ficha: diz quais **Artes** ficam disponíveis e dá o **Talento Principal**.
+2. **Classe**: escolha uma [[Classes|Classe]] do seu **Poder**. É a decisão central da ficha: diz quais **Artes** ficam disponíveis e dá o **Talento Principal**.
 
 ---
 
