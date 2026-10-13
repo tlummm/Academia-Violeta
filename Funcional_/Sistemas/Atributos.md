@@ -119,7 +119,7 @@ Além dos nove, existem **Atributos** mais raros que só vêm de fontes externas
 5. **Letalidade**: ignora 1 ponto de **Defesa** e **Espírito** do **Oponente**.
 6. **Liderança**: 1 ponto a mais em todos os **Atributos** das **Unidades** que você controla.
 7. **Manejo**: reduz em 1 o custo de **Foco** das suas [[Ações]].
-8. **Sorte**: 1 **Moeda** a mais em [[Feitos]].
+8. **Sorte**: 1 **Moeda** a mais em [[Feitos]], mas entre as **Moedas** menores.
 9. **Regeneração**: recupera 1 de **Vida** no começo dos seus **Turnos**.
 
 ---

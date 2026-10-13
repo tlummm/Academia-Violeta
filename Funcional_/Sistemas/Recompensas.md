@@ -5,7 +5,7 @@
 
 **Recompensas** são o que o grupo leva depois de derrotar **Oponentes** ou cumprir [[Feitos]]: [[@Itens]] e **Moedas**. A **Experiência** é contada à parte (veja [[Progressão]]).
 
-* **Moedas**: **Oponentes** **Racionais** carregam **Moedas**; criaturas, quase nunca. Quanto e de que tipo está em [[@Economia]].
+* **Moedas**: **Oponentes** **Racionais** carregam **Moedas**; criaturas, quase nunca. Quanto e de que tipo está em [[Economia]].
 * **Itens**: decididos por rolagem, conforme a categoria do **Oponente** na [[Escala]] (abaixo).
 
 ---

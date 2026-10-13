@@ -26,7 +26,7 @@ Um **Descanso** só conta se o grupo cumprir os [[Cuidados]] pedidos. Cada **Cui
 4. **Lazer**: algo que tire a cabeça do perigo. O **Jogador** descreve em uma frase o que o **Personagem** faz: tocar um instrumento, jogar cartas, rezar. Apenas conversar com alguém só funciona apenas com um teste, se não é **Breve**.
 5. **Sono**: um lugar confortável para dormir. Barracas, tendas e sacos de dormir podem servir como camas, mas dormir de forma improvisada em lugares inapropriadas resulta em **Breve**.
 
-> Lugares preparados, como uma estalagem ou os dormitórios da **Academia**, cumprem **Alimentação**, **Higiene** e **Lazer** de uma vez, pagando o preço do lugar (veja [[@Economia]]). **Medicina** sempre precisa de alguém ou de algo que trate.
+> Lugares preparados, como uma estalagem ou os dormitórios da **Academia**, cumprem **Alimentação**, **Higiene** e **Lazer** de uma vez, pagando o preço do lugar (veja [[Economia]]). **Medicina** sempre precisa de alguém ou de algo que trate.
 
 ---
 
