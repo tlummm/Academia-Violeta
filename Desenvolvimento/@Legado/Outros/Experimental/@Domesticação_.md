@@ -2,13 +2,13 @@ O processo de domesticação de [[@Feras_]] consiste em jogadas de **Interpreta�
 
 > Algumas [[@Feras_]] podem ter regras mais flexíveis sobre alimentação.
 
-A **Fera** precisa ser alimentada três vezes corretamente para diminuir um **Nível** de seu **Temperamento** contra o **Usuário** e seu grupo. Se caso ela tiver um cardápio vasto em sua [[@Ficha]], e entre os tipos de comida houver um preferencial, o que não for prioridade adiciona apenas meio ponto, tornando um total de 6 refeições não preferenciais (com preferencial valendo duas dessas).
+A **Fera** precisa ser alimentada três vezes corretamente para diminuir um **Nível** de seu **Temperamento** contra o **Usuário** e seu grupo. Se caso ela tiver um cardápio vasto em sua [[Ficha]], e entre os tipos de comida houver um preferencial, o que não for prioridade adiciona apenas meio ponto, tornando um total de 6 refeições não preferenciais (com preferencial valendo duas dessas).
 
 Para alimentar uma **Fera** é necessária uma **Ação** de [[Interpretação]] com **Precisão Improvável**, aumentada para **Difícil** caso seja de **Nível** superior ao **Usuário**. Alimentos favoritos diminuem a dificuldade respectivamente para **Difícil** e **Normal**.
 
 > A ordem de **Nível** de **Temperamento** na domesticação é:
 > **Hostil** ➜ **Territorial** ➜ **Pacífico** ➜ **Dócil**.
-> Quando uma **Fera**, que está em estado **Dócil**, tem o **Nível** de temperamento diminuído mais uma vez por alimentação ela é domesticada, se tornando membro do grupo, revelando sua [[@Ficha]] e podendo subir de **Níveis**.
+> Quando uma **Fera**, que está em estado **Dócil**, tem o **Nível** de temperamento diminuído mais uma vez por alimentação ela é domesticada, se tornando membro do grupo, revelando sua [[Ficha]] e podendo subir de **Níveis**.
 > Caso a **Fera** tenha **Temperamento** de **Fugidio** a ordem se torna:
 > **Fugidio** ➜ **Pacífico** ➜ **Dócil**.
 

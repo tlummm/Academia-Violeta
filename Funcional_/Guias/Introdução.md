@@ -28,7 +28,7 @@ A história se passa no [[Naufrágio]], um multiverso de mundos interligados, on
 # O que é preciso
 
 * **Dados**: **d20** (o principal, para **Testes** e ataques), **d4**, **d6**, **1d8**, **d10** e **d12**. Raramente é usado **d100**.
-* **Ficha** de cada **Personagem** (veja [[@Ficha]]).
+* **Ficha** de cada **Personagem** (veja [[Ficha]]).
 * **Tabuleiro** quadriculado, em que cada casa vale 1 metro, e marcadores para as **Unidades**.
 * **Obsidian** (recomendado): as regras e as fichas são escritas nele, com links entre si.
 

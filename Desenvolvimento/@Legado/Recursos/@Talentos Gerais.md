@@ -1,4 +1,4 @@
-São **Talentos** globais que se comportam da mesma forma em vários casos, porém que podem ser acessados por muitos **Recursos** diferentes como [[@Ficha]], [[@Unidades]], [[@Itens]] e entre outros, ainda mantendo sua funcionalidade geral. Eles são divididos entre **Bestial** (**Animal** ou **Folclórico**), **São** e **Inanimado**.
+São **Talentos** globais que se comportam da mesma forma em vários casos, porém que podem ser acessados por muitos **Recursos** diferentes como [[Ficha]], [[@Unidades]], [[@Itens]] e entre outros, ainda mantendo sua funcionalidade geral. Eles são divididos entre **Bestial** (**Animal** ou **Folclórico**), **São** e **Inanimado**.
 
 ---
 

@@ -3,7 +3,7 @@
 
 # O que é a [[Criação de Personagem]]
 
-Todo **Personagem** é anotado numa [[@Ficha]]. Copie a [[@Ficha Base]] (um modelo em branco) e preencha na ordem abaixo. Para ver uma ficha completa, pronta para jogar, use a [[@Ficha Exemplo]].
+Todo **Personagem** é anotado numa [[Ficha]]. Copie a [[Ficha Base]] (um modelo em branco) e preencha na ordem abaixo. Para ver uma ficha completa, pronta para jogar, use a [[Ficha Exemplo_]].
 
 Todo **Personagem** novo começa no **Nível 1**, com **0** de **XP total** (veja [[Progressão]]).
 

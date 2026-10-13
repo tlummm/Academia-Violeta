@@ -1,12 +1,12 @@
 
 ---
 
-# O que é a [[@Ficha]]
+# O que é a [[Ficha]]
 
 A **Ficha** é o registro de um **Personagem**: tudo o que ele é, sabe e carrega. Cada **Jogador** mantém a sua atualizada, e o **Mestre** pode pedir para conferir a qualquer momento.
 
-* Para começar uma, use [[@Magia]] ou copie a [[@Ficha Base]] e siga a [[Criação de Personagem]].
-* Para ver uma preenchida, use a [[@Ficha Exemplo]] como referência (opcional).
+* Para começar uma, use [[@Magia]] ou copie a [[Ficha Base]] e siga a [[Criação de Personagem]].
+* Para ver uma preenchida, use a [[Ficha Exemplo_]] como referência (opcional).
 
 Esta página explica cada campo, na ordem em que aparecem.
 
@@ -14,14 +14,12 @@ Esta página explica cada campo, na ordem em que aparecem.
 
 # Personagem
 
-| **Campo**                | **O que anotar**                                                                 |
-| :----------------------- | :------------------------------------------------------------------------------- |
-| **Nome** e **Apelido**   | Como é chamado                                                                   |
-| **Mundo de origem**      | De qual mundo do [[Naufrágio]] veio                                              |
-| **Chegada**              | **Náufrago**, **Convocado**, **Invocado** ou **Invasor** (veja [[Naufrágio]])    |
-| **Poder** e **Classe**   | Um dos [[Cinco Poderes]] e a [[@Classes_\|Classe]] escolhida dentro dele         |
-| **Qualidades** e **Defeitos** | Traços de personalidade, usados em [[Interpretação]]                        |
-| **Aparência** e **História** | Texto livre                                                                  |
+| **Campo**                     | **O que anotar**                                                         |
+| :---------------------------- | :----------------------------------------------------------------------- |
+| **Nome** e **Apelido**        | Como é chamado                                                           |
+| **Poder** e **Classe**        | Um dos [[Cinco Poderes]] e a [[@Classes_\|Classe]] escolhida dentro dele |
+| **Qualidades** e **Defeitos** | Traços de personalidade, usados em [[Interpretação]]                     |
+| **Aparência** e **História**  | Texto livre                                                              |
 
 ---
 
