@@ -157,7 +157,7 @@ Quando uma **Ação de Ataque** sua deixa um **Oponente** com 0 de **Vida**, o *
 
 Talento de Esgrima, Defensivo.
 
-Gatilho, 1 de **Foco**: quando sofre uma **Ação de Ataque** ou **Habilidade** de **Toque**, role um **d20** com **Precisão Difícil**. Se acertar, anula metade do **Dano** e dos [[Efeitos]] (arredondado para baixo).
+Desencadeado, custando 1 de **Foco**: quando sofre uma **Ação de Ataque** ou **Habilidade** de **Toque**, role um **d20** com **Precisão Difícil**. Se acertar, anula metade do **Dano** e dos [[Efeitos]] (arredondado para baixo).
 
 **Ranque 2**: com um **Escudo** equipado, anula tudo. **Ranque 3**: **Precisão Normal**.
 
@@ -169,11 +169,11 @@ Gatilho, 1 de **Foco**: quando sofre uma **Ação de Ataque** ou **Habilidade** 
 
 Habilidade de Esgrima, Controle, Toque.
 
-**Precisão Normal** e **Custa** 3 pontos de **Foco**.
+**Precisão Normal** e **Custa** 5 pontos de **Foco**.
 
 Causa **Ataque** de **Dano** no **Oponente** e aplica **1d4** **Redução** de **Velocidade**. Com **Acerto Crítico**, também aplica 1 **Enraizamento**.
 
-**Ranque 2**: **1d6** **Redução**. **Ranque 3**: **Custa** 2.
+**Ranque 2**: **1d6** **Redução**. **Ranque 3**: **Custa** 1 a menos para **Oponente** com movimentação debilitada.
 
 <small>Um caçador ensina: não se corre atrás da presa, corta-se o que a faz correr. Na esgrima de adaga é a mesma lição, aplicada a pessoas que preferem fugir a lutar.</small>
 
@@ -183,9 +183,9 @@ Habilidade de Esgrima, Ofensivo, Projétil.
 
 **Precisão Normal** e **Custa** 3 pontos de **Foco**.
 
-Arremessa a **Adaga** até 5 metros e causa **Ataque** de **Dano**, como **Longo Alcance** (veja [[Combate]]). A **Adaga** fica no chão, onde o alvo estava, até alguém pegá-la.
+Arremessa a **Adaga** até 5 metros e causa **Ataque** de **Dano**, como **Longo Alcance** (veja [[Combate]]). A **Adaga** fica no chão, onde o alvo estava, até alguém pegá-la. **Adaga** pode ser alguma equipada ou do próprio **Inventário**.
 
-**Ranque 2**: até 8 metros. **Ranque 3**: o **Dano** não cai pela metade.
+**Ranque 2**: até 10 metros. **Ranque 3**: o **Dano** não cai pela metade.
 
 <small>Todo portador de adaga carrega mais de uma, e todo portador experiente sabe quando abrir mão de uma delas. No ar, a lâmina chega antes de o alvo entender que a distância nunca foi segura.</small>
 
@@ -193,7 +193,7 @@ Arremessa a **Adaga** até 5 metros e causa **Ataque** de **Dano**, como **Longo
 
 Talento de Esgrima, Ofensivo.
 
-Se o **Oponente** sofreu **Dano** de um aliado seu desde o seu último **Turno**, as suas **Ações de Ataque** com **Adaga** causam mais **1d6** de **Dano** nele.
+Se o **Oponente** sofreu **Dano** de um aliado seu desde o seu último **Turno**, as suas **Ações de Ataque** com **Adaga** causam mais **1d4** de **Dano** nele.
 
 **Ranque 2**: **1d8**. **Ranque 3**: vale também para as **Habilidades** de **Adaga**.
 
@@ -211,7 +211,7 @@ Só pode ser usada fora do seu **Turno**, uma vez até o seu próximo **Turno**,
 
 Fora do [[Combate]], uma vez por [[Sessão]], com **Precisão Garantida**: anula o golpe que daria início a um **Combate**, e o grupo ganha +2 no próximo **Teste** de [[Interpretação]] daquela cena.
 
-**Ranque 2**: devolve também metade do seu **Ataque**. **Ranque 3**: **Custa** 3.
+**Ranque 2**: devolve também metade do seu **Ataque**. **Ranque 3**: **Custa** 2.
 
 <small>Os mestres de duelo dizem que a melhor defesa é aquela que já é um ataque. O bloqueio e a resposta são um só movimento, e o adversário sente o próprio golpe voltar antes de recolher o braço.</small>
 
@@ -223,7 +223,7 @@ Habilidade de Esgrima, Ofensivo, Linha.
 
 Causa **Ataque** de **Dano** em todos numa **Linha** de 2 metros e ignora **1d4** de **Defesa** de cada um.
 
-**Ranque 2**: **1d6**. **Ranque 3**: **Linha** de 3 metros.
+**Ranque 2**: **1d8**. **Ranque 3**: **Linha** de 4 metros.
 
 <small>A ponta é mais rápida que o fio. A estocada põe o corpo inteiro atrás de uma linha reta, e em formações apertadas atravessa um adversário para alcançar o que estava escondido atrás dele.</small>
 
@@ -231,9 +231,9 @@ Causa **Ataque** de **Dano** em todos numa **Linha** de 2 metros e ignora **1d4*
 
 Talento de Esgrima, Defensivo.
 
-Com a outra mão vazia, você ganha **1d4** de **Esquiva** contra **Ações de Ataque** **Corpo a Corpo**, rolado a cada **Ataque**.
+Com a outra mão vazia, você ganha **1d6** de **Esquiva** contra **Ações de Ataque** **Corpo a Corpo**, rolado a cada **Ataque**.
 
-**Ranque 2**: **1d6**. **Ranque 3**: vale também contra **Habilidades** de **Toque**.
+**Ranque 2**: **1d12**. **Ranque 3**: vale também contra **Habilidades** de **Toque**.
 
 <small>De lado, um pé à frente, a mão livre atrás das costas: é a postura dos salões de duelo, onde se luta pela elegância tanto quanto pela vida. Quem a domina parece estar sempre meio passo fora do alcance.</small>
 
@@ -247,9 +247,9 @@ Habilidade de Esgrima, Ofensivo e Controle, Cone.
 
 Num **Cone** de 2 metros, que o **Alcance** não aumenta, causa metade do **Ataque** de **Dano** em cada **Oponente** atingido, o move 1 metro para a direita do **Cone** e aplica **1d4** **Redução** de **Velocidade**.
 
-**Ranque 2**: **Cone** de 3 metros. **Ranque 3**: **1d6** **Redução**.
+**Ranque 2**: **Cone** de 3 metros. **Ranque 3**: **1d6** **Redução** e 1 de **Enraizamento**.
 
-<small>O par do Crescente: um corte que desce e varre rente ao chão. Os esgrimistas de duas mãos o usam para derrubar o avanço inimigo, porque quem tem as pernas feridas não persegue ninguém.</small>
+<small>O par do Crescente: um corte que desce e varre rente ao chão. Os esgrimistas de cabo duplo o usam para derrubar o avanço inimigo, porque quem tem as pernas feridas não persegue ninguém.</small>
 
 ### Fender
 
@@ -257,21 +257,21 @@ Habilidade de Esgrima, Ofensivo, Toque.
 
 **Precisão Difícil** e **Custa** 4 pontos de **Foco**.
 
-Causa **Ataque** mais **1d8** de **Dano** no **Oponente**.
+Causa **Ataque** mais **1d4** [[Efeitos]] de **Redução** de **Defesa** no **Oponente**.
 
-**Ranque 2**: **1d10**. **Ranque 3**: **Precisão Normal**.
+**Ranque 2**: **1d6**. **Ranque 3**: **Precisão Normal**.
 
-<small>O golpe mais simples da espada grande, ensinado no primeiro dia e aperfeiçoado pela vida inteira. A lâmina sobe acima da cabeça e cai em linha reta, com o peso do aço e de quem o empunha.</small>
+<small>O golpe mais simples da espada, ensinado no primeiro dia e aperfeiçoado pela vida inteira. A lâmina sobe acima da cabeça e cai em linha reta, com o peso do aço e de quem o empunha.</small>
 
 ### Desvantagem Tática
 
 Talento de Esgrima, Ofensivo.
 
-Se há mais **Oponentes** do que aliados a até 3 metros de você, as suas **Ações de Ataque** com **Duas Mãos** causam mais **1d6** de **Dano**.
+Se há mais **Oponentes** do que aliados a até 3 metros de você, as suas **Ações de Ataque** com **Duas Mãos** aumentam o **Ataque** em 2.
 
-**Ranque 2**: **1d8**. **Ranque 3**: **1d10**.
+**Ranque 2**: aumentam em **1d4**. **Ranque 3**: o aumento é multiplicado pelo número de **Oponentes** mais próximos que **Aliados**.
 
-<small>Muitos veteranos de montante só descobriram o que valiam quando ficaram cercados. Com inimigos de todos os lados, a lâmina larga não tem como errar, e o medo vira fôlego.</small>
+<small>Muitos veteranos de montante só descobriram o que valiam quando ficaram cercados. Com inimigos de todos os lados, a lâmina não tem como errar, e o medo vira fôlego.</small>
 
 ---
 
@@ -301,7 +301,7 @@ Habilidade de Esgrima, Ofensivo, Toque.
 
 Causa **Ataque** de **Dano** duas vezes no **Oponente**, com uma rolagem para cada. A **Defesa** do **Alvo** reduz só o primeiro.
 
-**Ranque 2**: **Precisão Normal**. **Ranque 3**: três golpes.
+**Ranque 2**: **Precisão Normal**. **Ranque 3**: se o primeiro **Ataque** acertar o segundo não tem rolagem.
 
 <small>Duas estocadas tão próximas que parecem uma só. A adaga não tem alcance nem peso, então compensa com velocidade, e o adversário que bloqueia a primeira raramente vê a segunda.</small>
 
@@ -309,9 +309,9 @@ Causa **Ataque** de **Dano** duas vezes no **Oponente**, com uma rolagem para ca
 
 Talento de Esgrima, Utilidade.
 
-O seu primeiro erro de **d20** em cada [[Combate]] dá **1d4** de **Crítico** até o fim dele.
+O seu primeiro erro de **d20** em cada [[Combate]] dá **1d4** de **Crítico** até o próximo **Crítico**.
 
-**Ranque 2**: um **Erro Crítico** também conta, e dá **1d6**. **Ranque 3**: vale para o primeiro e o segundo erro.
+**Ranque 2**: um **Erro Crítico** também conta, em ambos dão **1d6**. **Ranque 3**: vale para o primeiro e o segundo erro, se acumulando.
 
 <small>Quem luta com adaga não se ofende com o erro: estuda. Cada golpe que passa no vazio mostra como o outro se move, e o próximo já sai corrigido para o lugar exato.</small>
 
@@ -319,9 +319,9 @@ O seu primeiro erro de **d20** em cada [[Combate]] dá **1d4** de **Crítico** a
 
 Talento de Esgrima, Utilidade.
 
-Passar um veneno (de [[Química_]] ou de um [[@Itens|Item]]) na **Adaga** não custa a **Ação Principal** nem **Foco**, uma vez por **Turno**.
+Passar um veneno ou substância (de [[Química_]] ou de um [[@Itens|Item]]) na **Adaga** não custa a **Ação Principal** nem **Foco**, uma vez por **Turno**.
 
-**Ranque 2**: o veneno vale para dois acertos em vez de um. **Ranque 3**: os [[Efeitos]] do veneno aumentam em **1d4**.
+**Ranque 2**: o veneno ou substância vale para dois acertos em vez de um. **Ranque 3**: o veneno ou substância vale para todos acertos até o fim do [[Combate]].
 
 <small>Os que aprenderam a lutar sujo carregam pequenos frascos presos ao cinto, prontos para a lâmina. O gesto de passar o veneno vira reflexo, tão rápido quanto puxar a adaga da bainha.</small>
 
@@ -343,9 +343,9 @@ Causa **Ataque** de **Dano** no **Oponente** e aplica 1 **Desarme**. Só pode se
 
 Talento de Esgrima, Ofensivo.
 
-Cada **Ação de Ataque** ou **Habilidade** com **Uma Mão** que acerta dá **1d4** **Aumento** de **Ataque**, até 3 vezes por [[Combate]].
+Cada **Ação de Ataque** ou **Habilidade** com **Uma Mão** que acerta dá **1** **Aumento** de **Ataque**, até 2 vezes por [[Combate]].
 
-**Ranque 2**: até 5 vezes. **Ranque 3**: **1d6**.
+**Ranque 2**: até 5 vezes. **Ranque 3**: **1d4**.
 
 <small>A espada de uma mão premia a constância. A cada acerto o esgrimista ganha ritmo e confiança, e os mais experientes chegam ao fim da luta mais perigosos do que começaram.</small>
 
@@ -353,9 +353,9 @@ Cada **Ação de Ataque** ou **Habilidade** com **Uma Mão** que acerta dá **1d
 
 Talento de Esgrima, Utilidade.
 
-Cada vez que você erra uma **Ação de Ataque** ou **Habilidade** com **Uma Mão**, ganha +1 de **Precisão** até acertar, até +3. Ao acertar, volta a 0.
+Cada vez que você erra uma **Ação de Ataque** ou **Habilidade** com **Uma Mão**, ganha +1 de **Precisão** até acertar, chegando até +3. Ao acertar, volta a 0.
 
-**Ranque 2**: até +4. **Ranque 3**: ao acertar, mantém metade.
+**Ranque 2**: até +4. **Ranque 3**: ao acertar, mantém metade, mas até o próximo acerto.
 
 <small>Nas fileiras de um exército, o erro de um custa a vida de outros. O soldado treinado não se abala com o golpe que falhou: ajusta o ângulo, respira e corrige até acertar.</small>
 
@@ -369,7 +369,7 @@ Habilidade de Esgrima, Ofensivo, Área.
 
 Causa metade do **Ataque** de **Dano** em todos os **Oponentes** ao seu lado, e você ganha **1d4** **Aumento** de **Letalidade**.
 
-**Ranque 2**: até 2 metros. **Ranque 3**: **1d6** **Aumento**.
+**Ranque 2**: até 2 metros ao seu redor. **Ranque 3**: **1d6** **Aumento**.
 
 <small>Cercado, o portador do montante gira o corpo inteiro com a lâmina estendida. O círculo de aço que se abre ao redor dele é uma das visões mais temidas em qualquer campo de batalha.</small>
 
@@ -377,9 +377,9 @@ Causa metade do **Ataque** de **Dano** em todos os **Oponentes** ao seu lado, e 
 
 Talento de Esgrima, Mobilidade e Ofensivo.
 
-Depois de uma **Ação de Movimento** de pelo menos 2 metros, a sua próxima **Ação de Ataque** com **Duas Mãos** no mesmo **Turno** causa mais **1d6** de **Dano**.
+Depois de uma **Ação de Movimento** de pelo menos 10 metros, a sua próxima **Ação de Ataque** com **Duas Mãos** no mesmo **Turno** causa mais **1d10** de **Dano**.
 
-**Ranque 2**: **1d8**. **Ranque 3**: vale também para a próxima **Habilidade**.
+**Ranque 2**: **1d20**. **Ranque 3**: vale também para a próxima **Habilidade**.
 
 <small>A espada grande é lenta para começar e difícil de parar. Quem corre com ela deixa o próprio movimento carregar o golpe, e o impacto chega com o peso do aço somado ao do corpo em marcha.</small>
 
@@ -389,7 +389,7 @@ Talento de Esgrima, Controle.
 
 Os seus **Acertos Críticos** com **Duas Mãos** aplicam 1 **Redução** de **Defesa** e empurram o **Oponente** **1d4** metros para longe de você.
 
-**Ranque 2**: **1d4** **Redução**. **Ranque 3**: **1d6** **Redução**.
+**Ranque 2**: **1d4** **Redução**. **Ranque 3**: **Acertos Normais** reduzem 1 de **Defesa**.
 
 <small>Às vezes o montante não corta a armadura: amassa. O golpe certeiro atravessa o metal com tanta força que o adversário é lançado para trás, com a guarda aberta e a couraça deformada.</small>
 
