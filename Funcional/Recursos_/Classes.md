@@ -10,7 +10,7 @@ Uma **Classe** dá três coisas:
 2. **Talento Principal**: recebido no **Nível 1**, só dela.
 3. **Habilidades** e **Talentos** únicos: só dela. Uns de graça nos **Níveis** escritos na página da **Classe**, outros com pontos (veja [[Progressão]]).
 
-> A **Classe** não carrega as técnicas de uma **Arte**. Um **Soldado** e um **Ladrão** que aprendem [[Esgrima]] aprendem os mesmos golpes; o que muda é o que cada um faz com eles.
+> A **Classe** não carrega as técnicas de uma **Arte**. Um [[Cavaleiro_]] e um [[Ladrão_]] que aprendem [[Esgrima]] aprendem os mesmos golpes; o que muda é o que cada um faz com eles.
 
 ---
 
@@ -24,8 +24,8 @@ No momento, só existem as **Classes** do **Poder Real**:
 
 | **Classe**   | **Matriz**       | **Aspecto** | **Atributo** | **Função**       |
 | :----------- | :--------------- | :---------- | :----------- | :--------------- |
-| [[Soldado_]] | **Força**        | Agência     | **Ataque**   | Dano             |
-| [[Peão_]]    | **Força**        | Essência    | **Defesa**   | Tanque           |
+| [[Cavaleiro_]] | **Força**        | Agência     | **Ataque**   | Dano             |
+| [[Guarda_]]  | **Força**        | Essência    | **Defesa**   | Tanque           |
 | [[Doutor_]]  | **Inteligência** | Ciência     | **Maestria** | Suporte          |
 | [[Louco_]]   | **Inteligência** | Inocência   | **Espírito** | Versátil         |
 | [[Vigia_]]   | **Agilidade**    | Presença    | **Precisão** | Dano à distância |
@@ -51,14 +51,14 @@ A **Função** diz em que a **Classe** é melhor, não o que ela pode fazer.
 
 As [[Artes Reais]] que cada **Classe** pode aprender:
 
-| **Classe**  | **Internas** | **Externas** |
-| :---------- | :------- | :------- |
-| **Soldado** | Todas | — |
-| **Peão**    | [[Armas Pesadas_]], [[Atletismo_]], [[Defesa_]], [[Haste_]] | [[Coleta_]], [[Música_]] |
-| **Doutor**  | — | Todas |
-| **Louco**   | Todas | Todas |
-| **Vigia**   | [[Acrobacia_]], [[Arquearia_]], [[Artilharia_]], [[Atletismo_]], [[Esgrima]], [[Marcial_]] | [[Adestramento_]], [[Culinária_]], [[Montaria_]], [[Sobrevivência_]], [[Táticas_]] |
-| **Ladrão**  | [[Acrobacia_]], [[Atletismo_]] | [[Coleta_]], [[Linguística_]], [[Música_]], [[Trapaça_]] |
+| **Classe**    | **Internas**                                                               | **Externas**                                                                                      |
+| :------------ | :------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| **Cavaleiro** | Todas                                                                      | [[Montaria_]], [[Táticas_]]                                                                       |
+| **Guarda**    | [[Artilharia_]], [[Defesa_]], [[Esgrima]], [[Haste_]], [[Marcial_]]        | [[Culinária_]], [[Linguística_]], [[Montaria_]], [[Sobrevivência_]], [[Táticas_]]                 |
+| **Doutor**    | [[Artilharia_]]                                                            | Todas                                                                                             |
+| **Louco**     | Todas                                                                      | Todas                                                                                             |
+| **Vigia**     | [[Arquearia_]], [[Artilharia_]], [[Atletismo_]], [[Esgrima]], [[Marcial_]] | [[Adestramento_]], [[Coleta_]], [[Culinária_]], [[Engenharia_]], [[Sobrevivência_]], [[Táticas_]] |
+| **Ladrão**    | [[Acrobacia_]], [[Atletismo_]], [[Esgrima]]                                | [[Coleta_]], [[Linguística_]], [[Música_]], [[Química_]], [[Táticas_]], [[Trapaça_]]              |
 
 ---
 
