@@ -55,17 +55,17 @@ Habilidade de Esgrima, Ofensivo, Toque.
 
 Causa **Ataque** de **Dano** no **Oponente**. Se a última **Ação de Ataque** ou **Principal** do **Alvo** foi contra outra **Unidade**, causa mais **1d6** de **Dano** e o **Foco** é devolvido.
 
-**Ranque 2**: **1d8**. **Ranque 3**: **1d10**.
+**Ranque 2**: **1d12** ao invés de **1d6**. **Ranque 3**: também recupera 1 de **Foco**.
 
-<small>Nos becos dos mundos de onde vêm os náufragos, ninguém espera a sua vez. A adaga entra enquanto o outro olha para o lado errado, e quem ainda fala de honra costuma falar deitado.</small>
+<small>Nos becos ninguém espera a sua vez. A adaga entra enquanto o outro olha para o lado errado, e quem ainda fala de honra costuma falar deitado.</small>
 
 ### Passagem
 
 Talento de Esgrima, Mobilidade e Ofensivo.
 
-Na sua **Ação de Movimento**, ao passar ao lado de um **Oponente**, você causa **1d4** de **Dano Puro** nele, sem somar **Ataque** e sem gastar [[Ações]]. Cada **Oponente** só sofre uma **Passagem** por **Turno**.
+Na sua **Ação de Movimento**, ao passar ao lado de um **Oponente**, você causa **1d4** de **Dano Físico** nele, sem somar **Ataque** e sem gastar [[Ações]]. Cada **Oponente** só sofre uma **Passagem** por **Turno**.
 
-**Ranque 2**: **1d6**. **Ranque 3**: também aplica os [[Efeitos]] que a sua **Adaga** aplicaria num **Ataque**.
+**Ranque 2**: **1d8**. **Ranque 3**: também aplica os [[Efeitos]] que a sua **Adaga** aplicaria num **Ataque**.
 
 <small>Quem anda com uma adaga solta na mão nunca passa por alguém de graça. É o hábito dos que cruzam multidões e campos de batalha sem parar: um risco no braço, outro na coxa, e o caminho segue.</small>
 
@@ -75,7 +75,7 @@ Talento de Esgrima, Ofensivo e Controle.
 
 Os seus **Acertos Críticos** com **Adaga** também aplicam **1d4** **Sangramento**.
 
-**Ranque 2**: **1d6**. **Ranque 3**: **1d8**.
+**Ranque 2**: **1d8**. **Ranque 3**: **1d12**.
 
 <small>Toda armadura tem costuras, e todo corpo tem os mesmos lugares onde o sangue corre perto da pele. A adaga é pequena demais para quebrar ossos, então aprendeu a procurar exatamente esses lugares.</small>
 
@@ -85,11 +85,11 @@ Os seus **Acertos Críticos** com **Adaga** também aplicam **1d4** **Sangrament
 
 Habilidade de Esgrima, Controle, Toque.
 
-**Precisão Normal** e **Custa** 3 pontos de **Foco**.
+**Precisão Normal** e **Custa** 4 pontos de **Foco**.
 
 Causa metade do **Ataque** de **Dano** no **Oponente**. A última **Habilidade** que o **Alvo** usou não pode ser usada de novo até o fim do [[Combate]]. Só uma **Habilidade** por vez fica presa por **Degolar**: usar de novo solta a anterior.
 
-**Ranque 2**: **Ataque** inteiro. **Ranque 3**: **Custa** 2.
+**Ranque 2**: até duas **Habilidades**. **Ranque 3**: até três, e **Degolar** custa 1 a menos para cada **Habilidade** presa.
 
 <small>Golpe de guarda-costas e de duelistas que já viram um conjurador terminar uma frase. A lâmina vai direto à garganta, e mesmo quando não mata, a voz e a confiança demoram a voltar.</small>
 
@@ -99,9 +99,9 @@ Talento de Esgrima, Ofensivo.
 
 Com a outra mão ocupada por um **Escudo** ou outra **Lâmina**, as suas **Ações de Ataque** causam mais **1d4** de **Dano**.
 
-**Ranque 2**: **1d6**. **Ranque 3**: **1d8**.
+**Ranque 2**: o **Adicional** é causado por cada **Arma** ou **Escudo**. **Ranque 3**: também reduz o **Foco** do alvo em 1 (duas vezes).
 
-<small>A escola mais antiga da espada de uma mão nunca deixa a outra mão vazia: um escudo, uma segunda lâmina, uma capa enrolada no braço. Com o corpo equilibrado dos dois lados, cada golpe sai com o peso inteiro.</small>
+<small>A escola mais antiga da espada nunca deixa a outra mão vazia: um escudo, uma segunda lâmina, uma capa enrolada no braço. Com o corpo equilibrado dos dois lados, cada golpe sai com o peso inteiro.</small>
 
 ### Guarda Alta
 
@@ -125,15 +125,15 @@ Num **Cone** de 2 metros, que o **Alcance** não aumenta, causa metade do **Ataq
 
 **Ranque 2**: **Cone** de 3 metros. **Ranque 3**: **1d6** **Aumento**.
 
-<small>Os esgrimistas de espadas grandes dão nome de lua aos seus cortes. O Crescente nasce baixo e sobe num arco largo, empurrando tudo à frente e usando o próprio impulso para lançar o corpo adiante.</small>
+<small>Os esgrimistas de punho duplo dão nome de lua aos seus cortes. O Crescente nasce baixo e sobe num arco largo, empurrando tudo à frente e usando o próprio impulso para lançar o corpo adiante.</small>
 
 ### Peso da Lâmina
 
 Talento de Esgrima, Ofensivo.
 
-As suas **Ações de Ataque** com **Duas Mãos** causam mais **1d6** de **Dano**, mas custam 2 de **Foco** em vez de 1.
+As suas **Ações de Ataque** com **Duas Mãos** causam mais **1d6** de **Dano**, mas custam 1 de **Foco** adicional.
 
-**Ranque 2**: **1d8**. **Ranque 3**: **1d10**.
+**Ranque 2**: **1d8**. **Ranque 3**: **1d12**.
 
 <small>Uma espada de duas mãos não é afiada para cortar: é pesada para cair. Quem a carrega aprende a deixar a gravidade fazer metade do trabalho, ao custo de braços que cansam muito antes dos de qualquer outro.</small>
 
@@ -143,7 +143,7 @@ Talento de Esgrima, Ofensivo.
 
 Quando uma **Ação de Ataque** sua deixa um **Oponente** com 0 de **Vida**, o **Dano** que sobrou vai para outro **Oponente** ao seu lado, sem rolar de novo.
 
-**Ranque 2**: o **Dano** que sobrou também ignora a **Defesa** do segundo. **Ranque 3**: segue para um terceiro, se sobrar de novo.
+**Ranque 2**: o **Dano** que sobrou também ignora a **Defesa** do segundo. **Ranque 3**: é causado em todos os **Oponentes** ao redor dele.
 
 <small>Nos campos de batalha, o montante é a arma de quem luta contra muitos. O golpe que atravessa o primeiro inimigo raramente para nele, e os veteranos aprendem a mirar já pensando no segundo.</small>
 
