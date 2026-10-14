@@ -1,4 +1,4 @@
-# O que é a [[Esgrima_]]
+# O que é a [[Esgrima]]
 
 A **Esgrima** é a [[Artes Reais|Arte Real]] das lâminas. É a técnica de quem luta de perto e confia no fio e na ponta da arma.
 
@@ -421,7 +421,7 @@ Causa **Ataque** de **Dano** **1d4** vezes no **Oponente**, com uma rolagem para
 
 **Ranque 2**: **Precisão Difícil**. **Ranque 3**: **1d6** vezes.
 
-<small>Nas escolas de adaga do Naufrágio, os alunos treinam diante de um poste de madeira até o braço não sentir mais o próprio peso. Dizem que os melhores enterram a lâmina tantas vezes num único instante que o adversário só sente o primeiro corte, e cai antes de sentir o último.</small>
+<small>Nas escolas de adaga, os alunos treinam diante de um poste de madeira até o braço não sentir mais o próprio peso. Dizem que os melhores enterram a lâmina tantas vezes num único instante que o adversário só sente o primeiro corte, e cai antes de sentir o último.</small>
 
 ### Golpe na Artéria
 
@@ -429,9 +429,9 @@ Habilidade de Esgrima, Ofensivo e Controle, Toque.
 
 **Precisão Improvável** e **Custa** 6 pontos de **Foco**.
 
-Causa **Ataque** de **Dano** no **Oponente** e aplica **1d8** **Sangramento**.
+Causa **Ataque** de **Dano** no **Oponente** e aplica **1d10** **Sangramento**.
 
-**Ranque 2**: **Precisão Difícil**. **Ranque 3**: **1d12** **Sangramento**.
+**Ranque 2**: **Precisão Difícil**. **Ranque 3**: **1d20** **Sangramento**.
 
 <small>Médicos e assassinos estudam os mesmos mapas do corpo. Um só corte, no lugar certo, faz o trabalho de dez, e quem o recebe tem pouco tempo para encontrar alguém que saiba fechar a ferida.</small>
 
@@ -441,7 +441,7 @@ Talento de Esgrima, Ofensivo e Mobilidade.
 
 Uma vez por [[Combate]], quando você fica com menos da metade da **Vida**, ganha **1d4** de **Crítico** e **1d4** de **Esquiva** até o fim dele.
 
-**Ranque 2**: **1d6** de **Esquiva**. **Ranque 3**: **1d6** de **Crítico**.
+**Ranque 2**: **1d6** de ambos. **Ranque 3**: aumenta em 1 todos os [[Atributos]] do jogo.
 
 <small>Muitos que lutam com adaga só conhecem o próprio limite quando chegam perto dele. Com a morte por perto, o coração acelera, o mundo fica lento, e o corpo encontra uma precisão que não tinha um momento antes.</small>
 
@@ -453,9 +453,9 @@ Habilidade de Esgrima, Controle, Toque.
 
 **Precisão Normal** e **Custa** 5 pontos de **Foco**.
 
-Causa **Ataque** de **Dano** no **Oponente** e aplica **1d4** **Redução** de **Defesa**. Só pode ser usada uma vez por **Oponente** em cada [[Combate]].
+Causa **Ataque** de **Dano** no **Oponente** e aplica **1d4** **Redução** de **Defesa** e **Espírito**. Só pode ser usada uma vez por **Oponente** em cada [[Combate]].
 
-**Ranque 2**: **1d6**. **Ranque 3**: **1d8**.
+**Ranque 2**: **1d6**. **Ranque 3**: aplica também **1d4** de redução na **Vida**.
 
 <small>Os primeiros esgrimistas a enfrentar criaturas de outros mundos aprenderam que cascos e escamas também têm juntas. A ponta da espada procura a emenda, e o que parecia invulnerável começa a ceder.</small>
 
@@ -491,9 +491,9 @@ Habilidade de Esgrima, Ofensivo e Mobilidade, Área.
 
 Salta até a sua **Velocidade** em metros, sem ser parado por **Unidades** no caminho, e causa metade do **Ataque** de **Dano** em todos os **Oponentes** a até **1d4** metros de onde caiu.
 
-**Ranque 2**: **Ataque** inteiro. **Ranque 3**: **1d6** metros.
+**Ranque 2**: **Ataque** inteiro. **Ranque 3**: **1d8** metros.
 
-<small>Os guerreiros de espada grande dos mundos montanhosos aprenderam a lutar pulando de rocha em rocha. O salto termina com a lâmina caindo antes dos pés, e o chão em volta treme com o impacto.</small>
+<small>Os guerreiros das montanhas aprenderam a lutar pulando de rocha em rocha. O salto termina com a lâmina caindo antes dos pés, e o chão em volta treme com o impacto.</small>
 
 ### Onda de Impacto
 
@@ -503,7 +503,7 @@ Habilidade de Esgrima, Ofensivo, Toque.
 
 Causa **Ataque** de **Dano** no **Oponente**, e todos os outros **Oponentes** a até 2 metros dele sofrem metade. Com **Acerto Crítico**, todos sofrem o **Dano** inteiro.
 
-**Ranque 2**: até 3 metros. **Ranque 3**: **Custa** 5.
+**Ranque 2**: até 5 metros. **Ranque 3**: **Custa** 2.
 
 <small>Quando o montante encontra o alvo com força total, o golpe não termina nele. O choque passa pelo corpo do atingido e chega aos que estavam ao lado, que sentem o tremor antes de entender de onde veio.</small>
 
@@ -511,9 +511,9 @@ Causa **Ataque** de **Dano** no **Oponente**, e todos os outros **Oponentes** a 
 
 Talento de Esgrima, Controle e Ofensivo.
 
-Gatilho, 1 de **Foco**: quando um **Oponente** entra ou passa numa casa ao seu lado, você faz uma **Ação de Ataque** com **Duas Mãos** contra ele, fora do seu **Turno**. Uma vez por **Turno** de cada **Oponente**.
+Desencadeado, 1 de **Foco**: quando um **Oponente** entra ou passa numa casa ao seu lado, você faz uma **Ação de Ataque** com **Duas Mãos** contra ele, fora do seu **Turno**. Uma vez por **Turno** de cada **Oponente**.
 
-**Ranque 2**: se acertar, o **Oponente** para ali. **Ranque 3**: sem custo de **Foco**.
+**Ranque 2**: se acertar, o **Oponente** para ali. **Ranque 3**: sem custo de **Foco** e também reduz o **Foco** do **Alvo** em 1.
 
 <small>Na linha de frente, o portador do montante é uma muralha que corta. Quem tenta passar ao lado dele descobre que a espada grande guarda um espaço muito maior do que parece.</small>
 

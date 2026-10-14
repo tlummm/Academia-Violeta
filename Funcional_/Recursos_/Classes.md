@@ -10,7 +10,7 @@ Uma **Classe** dá três coisas:
 2. **Talento Principal**: recebido no **Nível 1**, só dela.
 3. **Habilidades** e **Talentos** únicos: só dela. Uns de graça nos **Níveis** escritos na página da **Classe**, outros com pontos (veja [[Progressão]]).
 
-> A **Classe** não carrega as técnicas de uma **Arte**. Um **Soldado** e um **Ladrão** que aprendem [[Esgrima_]] aprendem os mesmos golpes; o que muda é o que cada um faz com eles.
+> A **Classe** não carrega as técnicas de uma **Arte**. Um **Soldado** e um **Ladrão** que aprendem [[Esgrima]] aprendem os mesmos golpes; o que muda é o que cada um faz com eles.
 
 ---
 
@@ -57,7 +57,7 @@ As [[Artes Reais]] que cada **Classe** pode aprender:
 | **Peão**    | [[Armas Pesadas_]], [[Atletismo_]], [[Defesa_]], [[Haste_]] | [[Coleta_]], [[Música_]] |
 | **Doutor**  | — | Todas |
 | **Louco**   | Todas | Todas |
-| **Vigia**   | [[Acrobacia_]], [[Arquearia_]], [[Artilharia_]], [[Atletismo_]], [[Esgrima_]], [[Marcial_]] | [[Adestramento_]], [[Culinária_]], [[Montaria_]], [[Sobrevivência_]], [[Táticas_]] |
+| **Vigia**   | [[Acrobacia_]], [[Arquearia_]], [[Artilharia_]], [[Atletismo_]], [[Esgrima]], [[Marcial_]] | [[Adestramento_]], [[Culinária_]], [[Montaria_]], [[Sobrevivência_]], [[Táticas_]] |
 | **Ladrão**  | [[Acrobacia_]], [[Atletismo_]] | [[Coleta_]], [[Linguística_]], [[Música_]], [[Trapaça_]] |
 
 ---
