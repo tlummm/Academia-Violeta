@@ -191,7 +191,7 @@ Habilidade do Cavaleiro, Controle, Individual.
 
 Aplica 1 **Medo** num **Oponente** **Normal** de **Nível** igual ou menor que o seu, que possa ver você. Uma vez por [[Combate]].
 
-**Ranque 2**: contra **Elites** e **Chefes**, em vez de **Medo**, aplica **1d4** **Redução** de **Precisão**. **Ranque 3**: se der certo, todo outro **Oponente** **Normal** a até 5 metros com menos da metade da **Vida** também recebe 1 **Medo**.
+**Ranque 2**: contra **Elites** e **Chefes**, em vez de **Medo**, aplica **1d6** **Redução** de **Precisão**. **Ranque 3**: se der certo, todo outro **Oponente** **Normal** a até **1d20** metros com menos da metade da **Vida** também recebe 1 **Medo**.
 
 <small>Nem toda luta precisa ser lutada. Um cavaleiro coberto de sangue alheio, de lâmina erguida e olhar parado, diz tudo o que precisa sem uma palavra, e os que têm juízo entendem a mensagem a tempo.</small>
 
@@ -201,9 +201,9 @@ Habilidade do Cavaleiro, Controle, Individual.
 
 **Precisão Normal** e **Custa** 5 pontos de **Foco**.
 
-Só pode ser usada no seu desafiado (veja **Desafio**). Até um dos dois cair, nenhum dos dois pode ser alvo de [[Ações]] de outras **Unidades**, nem fazer [[Ações]] contra elas.
+Começa um duelo até um dos dois cair. Nenhum dos dois pode ser alvo de [[Ações]] de outras **Unidades**, nem fazer [[Ações]] contra elas.
 
-**Ranque 2**: quem vencer o **Duelo** ganha **1d6** **Regeneração**. **Ranque 3**: **Custa** 3.
+**Ranque 2**: quem vencer o **Duelo** ganha **1d6** **Regeneração**. **Ranque 3**: sem **Custo**.
 
 <small>Algumas lutas não admitem plateia. Quando o cavaleiro chama um adversário para o duelo, o resto do campo some: os aliados recuam um passo, os inimigos hesitam, e por alguns instantes só existem duas lâminas e um chão entre elas.</small>
 
@@ -213,21 +213,21 @@ Habilidade do Cavaleiro, Ofensivo e Controle, Toque.
 
 **Precisão Normal** e **Custa** 4 pontos de **Foco**.
 
-Causa **Ataque** de **Dano** no **Oponente** e remove todo **Aumento** e toda **Barreira** dele.
+Causa um **Ataque** no **Oponente** e remove um **Aumento** inteiro dele.
 
-**Ranque 2**: você ganha os **Aumentos** que ele perdeu. **Ranque 3**: remove também **Equilíbrio**, **Resistência** e **Proteção**.
+**Ranque 2**: você ganha metade do **Aumento** que ele perdeu. **Ranque 3**: o ganho é integral.
 
 <small>Toda defesa tem um ponto em que deixa de ser parede e vira hábito. O cavaleiro procura esse ponto, bate nele com tudo, e o adversário descobre de repente que a confiança que tinha era só costume.</small>
 
-### Avançar Juntos
+### Avançar Conjunto
 
 Habilidade do Cavaleiro, Mobilidade, Aura.
 
 **Precisão Garantida** e **Custa** 4 pontos de **Foco**.
 
-Você e até 2 aliados a até 3 metros fazem uma **Ação de Movimento**, na ordem que quiserem. Os aliados não gastam **Foco** nem a **Ação de Movimento** deles.
+Você e até 2 aliados dentro de 3 metros fazem uma **Ação de Movimento**, na ordem que quiserem. Os aliados não gastam **Foco** nem a **Ação de Movimento** deles.
 
-**Ranque 2**: até 4 aliados. **Ranque 3**: cada um que terminar ao lado de um **Oponente** faz uma **Ação de Ataque** com metade do **Ataque**, sem custo.
+**Ranque 2**: até **1d6** aliados. **Ranque 3**: cada um que terminar ao lado de um **Oponente** faz uma **Ação de Ataque** com metade do **Ataque**, sem **Custos**.
 
 <small>Uma linha que avança de uma vez é muito mais assustadora que dez soldados correndo cada um para um lado. O cavaleiro dá o primeiro passo, e os outros já sabem que o segundo é deles.</small>
 
@@ -239,29 +239,29 @@ Habilidade do Cavaleiro, Recuperação, Individual.
 
 Perde **1d6** de **Vida** e recupera o mesmo tanto de **Foco**. Não pode deixar a sua **Vida** abaixo de 1.
 
-**Ranque 2**: **1d10**. **Ranque 3**: uma vez por [[Combate]], pode fazer o contrário: perde **Foco** e ganha o mesmo tanto de **Barreira**.
+**Ranque 2**: **1d12**. **Ranque 3**: uma vez por [[Combate]], pode fazer o contrário.
 
 <small>Quando o corpo já não tem fôlego, ainda tem sangue. Alguns cavaleiros aprendem a cavar força onde não deveria haver, cobrando do próprio corpo um preço que só vão sentir quando a luta acabar.</small>
 
 > **Talentos**
 
-### Ferido e Perigoso
+### Retaliação
 
 Talento do Cavaleiro, Ofensivo.
 
-Com metade da **Vida** ou menos, você tem +1 de **Crítico**. Com um quarto ou menos, +2.
+Com metade da **Vida** ou menos, você tem +1 de **Crítico**. Com um terço ou menos, +2.
 
-**Ranque 2**: cada **Acerto Crítico** seu enquanto está com metade da **Vida** ou menos devolve **1d4** de **Foco**. **Ranque 3**: com um quarto da **Vida** ou menos, as suas **Ações de Ataque** não custam **Foco**.
+**Ranque 2**: cada **Acerto Crítico** seu enquanto está com metade da **Vida** ou menos devolve **1d6** de **Foco**. **Ranque 3**: com um terço da **Vida** ou menos, as suas **Ações** de **Ataque** e **Movimento** não custam **Foco**.
 
 <small>Um cavaleiro ferido é o pior tipo de adversário: já não tem nada a guardar. A dor afina a atenção, o cansaço some, e cada golpe passa a ser dado como se fosse o último.</small>
 
-### Pele Marcada
+### Cicatriz Marcada
 
 Talento do Cavaleiro, Defensivo.
 
-Em cada [[Combate]], a primeira **Ação de Ataque** contra você de um **Oponente** com o nome de uma das suas **Cicatrizes** erra, sem rolar.
+Em cada [[Combate]], a primeira **Ação de Ataque** contra você de um **Oponente** relacionado a uma das suas **Cicatrizes** erra, sem rolar.
 
-**Ranque 2**: as duas primeiras. **Ranque 3**: quando ela erra, você faz uma **Ação de Ataque** contra ele, sem custo.
+**Ranque 2**: as duas primeiras. **Ranque 3**: Três primeiras. Quando ela erra na primeira vez, você faz uma **Ação de Ataque** contra ele, sem custo.
 
 <small>O corpo lembra antes da cabeça. Diante de um inimigo que já o feriu uma vez, o cavaleiro se move sem pensar, e o golpe que um dia abriu a sua pele agora passa a um dedo dela.</small>
 
@@ -269,9 +269,9 @@ Em cada [[Combate]], a primeira **Ação de Ataque** contra você de um **Oponen
 
 Talento do Cavaleiro, Recuperação.
 
-Cada vez que o seu desafiado (veja **Desafio**) faz uma **Ação de Ataque** ou **Habilidade** contra você, você ganha 1 **Equilíbrio**.
+Cada vez que um **Oponente** faz uma **Ação de Ataque** ou **Habilidade** contra você, você ganha 1 de **Equilíbrio**.
 
-**Ranque 2**: **1d4** **Equilíbrio**. **Ranque 3**: também ganha 1 **Barreira**.
+**Ranque 2**: **1d6** **Equilíbrio**. **Ranque 3**: também ganha 1 de **Barreira**.
 
 <small>Um adversário que aceita o desafio merece respeito, e o cavaleiro devolve o respeito com atenção total. Cada golpe dele é recebido como parte de uma conversa, e quem está concentrado na conversa não se cansa.</small>
 
@@ -279,7 +279,7 @@ Cada vez que o seu desafiado (veja **Desafio**) faz uma **Ação de Ataque** ou 
 
 Talento do Cavaleiro, Defensivo.
 
-Desencadeado, uma vez por [[Combate]]: depois de sofrer um **Acerto Crítico**, você ganha 1 **Proteção** contra quem o causou.
+Desencadeado, uma vez por [[Combate]]: depois de sofrer um **Acerto Crítico**, você ganha 1 **Proteção** contra quem o causou, mas só até o próximo **Ataque** ou **Habilidade** contra você.
 
 **Ranque 2**: duas vezes por **Combate**. **Ranque 3**: a sua próxima **Ação de Ataque** contra ele é **Acerto Crítico** se acertar.
 
@@ -289,9 +289,9 @@ Desencadeado, uma vez por [[Combate]]: depois de sofrer um **Acerto Crítico**, 
 
 Talento do Cavaleiro, Recuperação.
 
-Desencadeado, uma vez por [[Combate]]: quando o seu **Foco** chegaria a 0, ele fica em **1d4**.
+Desencadeado, uma vez por [[Combate]]: quando o seu **Foco** chegaria a 0, ele fica em **1d6**.
 
-**Ranque 2**: **1d8**. **Ranque 3**: também ganha 1 **Regeneração**.
+**Ranque 2**: **1d12**. **Ranque 3**: duas vezes por [[Combate]].
 
 <small>O corpo diz que acabou; o cavaleiro discorda. Não é força nem técnica, só a recusa teimosa de parar antes que a luta pare primeiro.</small>
 
