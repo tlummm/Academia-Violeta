@@ -10,7 +10,7 @@ Uma **Classe** dá três coisas:
 2. **Talento Principal**: recebido no **Nível 1**, só dela.
 3. **Habilidades** e **Talentos** únicos: só dela. Uns de graça nos **Níveis** escritos na página da **Classe**, outros com pontos (veja [[Progressão]]).
 
-> A **Classe** não carrega as técnicas de uma **Arte**. Um [[Cavaleiro_]] e um [[Ladrão_]] que aprendem [[Esgrima]] aprendem os mesmos golpes; o que muda é o que cada um faz com eles.
+> A **Classe** não carrega as técnicas de uma **Arte**. Um [[Cavaleiro]] e um [[Ladrão_]] que aprendem [[Esgrima]] aprendem os mesmos golpes; o que muda é o que cada um faz com eles.
 
 ---
 
@@ -24,7 +24,7 @@ No momento, só existem as **Classes** do **Poder Real**:
 
 | **Classe**   | **Matriz**       | **Aspecto** | **Atributo** | **Função**       |
 | :----------- | :--------------- | :---------- | :----------- | :--------------- |
-| [[Cavaleiro_]] | **Força**        | Agência     | **Ataque**   | Dano             |
+| [[Cavaleiro]] | **Força**        | Agência     | **Ataque**   | Dano             |
 | [[Guarda_]]  | **Força**        | Essência    | **Defesa**   | Tanque           |
 | [[Doutor_]]  | **Inteligência** | Ciência     | **Maestria** | Suporte          |
 | [[Louco_]]   | **Inteligência** | Inocência   | **Espírito** | Versátil         |

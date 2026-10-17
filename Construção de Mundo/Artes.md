@@ -5,7 +5,7 @@
 
 Uma **Arte** é um jeito de fazer alguma coisa que pode ser ensinado. Uma escola de esgrima, uma tradição de arqueiros, a medicina de um povo, a forma de lutar de um mosteiro, uma oração que cura, um ritual que amaldiçoa. Ela não pertence a quem a pratica: existia antes dele e continua depois, passada de mestre para aluno.
 
-Por isso dois guerreiros muito diferentes podem dividir a mesma **Arte**. Um [[Cavaleiro_]] e um [[Ladrão_]] que aprenderam na mesma escola de esgrima reconhecem os golpes um do outro no primeiro cruzar de lâminas. O que muda é o que cada um faz com ela.
+Por isso dois guerreiros muito diferentes podem dividir a mesma **Arte**. Um [[Cavaleiro]] e um [[Ladrão_]] que aprenderam na mesma escola de esgrima reconhecem os golpes um do outro no primeiro cruzar de lâminas. O que muda é o que cada um faz com ela.
 
 ---
 
@@ -29,6 +29,6 @@ O **Poder** de um ser pode mudar. Um homem comum pode ser tomado pelas trevas, o
 
 # A Academia
 
-A **Academia Violeta** é o lugar onde mais [[Artes]] se encontram. Alunos de mundos diferentes trazem as tradições de onde vieram, e professores de outros mundos ensinam o que nenhum mundo sozinho teria. É lá que um [[Cavaleiro_]] de um mundo pode aprender a esgrima de outro.
+A **Academia Violeta** é o lugar onde mais [[Artes]] se encontram. Alunos de mundos diferentes trazem as tradições de onde vieram, e professores de outros mundos ensinam o que nenhum mundo sozinho teria. É lá que um [[Cavaleiro]] de um mundo pode aprender a esgrima de outro.
 
 ---
