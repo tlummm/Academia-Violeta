@@ -307,7 +307,7 @@ Habilidade do Cavaleiro, Utilidade, Toque.
 
 Examina um **Equipamento** ou **Ferramenta** e aumenta um **Atributo** dele em 1, para sempre. Só uma vez por **Item** de nome único (todos os [[@Itens]] com o mesmo nome também recebem o aumento, para você).
 
-**Ranque 2**: também troca na hora o **Atributo** escolhido para o **Bônus de Veterano** daquele **Item**, sem esperar o **Descanso Apropriado** (veja [[Progressão]]). **Ranque 3**: pode ser usada à distância num **Item** equipado por um **Oponente** à vista: o **Mestre** revela o **Grau**, a **Raridade** e os **Talentos** dele.
+**Ranque 2**: aumenta em 2. **Ranque 3**: pode ser usada à distância num **Item** equipado por um **Oponente** à vista: o **Mestre** revela o **Grau**, a **Raridade** e os **Talentos** dele, além de reduzir um **Atributo** em 3.
 
 <small>Para um cavaleiro, a arma é parte do corpo, e o corpo humano tem limites. Por isso os veteranos estudam o aço como estudam a si mesmos: o equilíbrio de cada espada, a junta de cada armadura, o ajuste que transforma uma peça comum na extensão perfeita do braço. Os melhores conseguem ler o equipamento do inimigo com um olhar.</small>
 
@@ -319,7 +319,7 @@ Habilidade do Cavaleiro, Ofensivo e Controle, Toque.
 
 Causa **Ataque** de **Dano** no **Oponente**. Até o fim do [[Combate]], ele não recupera **Vida** de nenhuma fonte.
 
-**Ranque 2**: também consome toda a **Barreira** dele. **Ranque 3**: a **Vida** máxima dele cai **1d6** até o fim do **Combate**.
+**Ranque 2**: também consome toda a **Barreira** e **Regeneração** dele. **Ranque 3**: a **Vida** máxima dele cai **1d6** até o fim do **Combate**.
 
 <small>Algumas feridas são feitas para não fechar. O corte certo, no ângulo certo, deixa o adversário lutando com o tempo contado, e nenhum unguento ou bênção consegue segurar o que escapa por ali.</small>
 
@@ -329,9 +329,9 @@ Habilidade do Cavaleiro, Ofensivo, Linha.
 
 **Precisão Normal** e **Custa** 5 pontos de **Foco**.
 
-Arremessa a arma que está empunhando numa **Linha** até a sua **Velocidade** em metros e causa metade do **Ataque** de **Dano** em até 3 **Oponentes** nela. A arma volta à sua mão no fim.
+Arremessa a arma que está empunhando numa **Linha** até a sua **Velocidade** em metros e causa metade de um **Ataque** em até 3 **Oponentes** nela. A arma volta à sua mão no fim.
 
-**Ranque 2**: até 5 **Oponentes**. **Ranque 3**: o último atingido é puxado 2 metros na sua direção.
+**Ranque 2**: até **1d10** **Oponentes**. **Ranque 3**: o último atingido, se for mais de 3 **Alvos**, recebe a **Habilidade** como **Crítico**.
 
 <small>Muitos não conseguem explicar como a arma sempre volta. Os cavaleiros que dominam o arremesso dizem que é só treino, peso bem distribuído e um giro de pulso no fim; os que assistem preferem acreditar em algo mais estranho.</small>
 
@@ -341,9 +341,9 @@ Habilidade do Cavaleiro, Defensivo, Individual.
 
 **Precisão Garantida** e **Custa** 4 pontos de **Foco**.
 
-Escolha um aliado. Até o fim do [[Combate]], enquanto ele estiver a até 3 metros de você, metade do **Dano** de cada **Ação de Ataque** contra ele vai para você. Só existe um **Juramento** seu por vez.
+Escolha um aliado. Até o fim do [[Combate]], enquanto ele estiver a até 5 metros de você, metade do **Dano** de cada **Ação de Ataque** contra ele vai para você. Só existe um **Juramento** seu por vez.
 
-**Ranque 2**: até 6 metros. **Ranque 3**: cada vez que você sofre **Dano** pelo **Juramento**, ganha 1 **Aumento** de **Ataque**.
+**Ranque 2**: até 10 metros. **Ranque 3**: cada vez que você sofre **Dano** pelo **Juramento**, ganha 1 **Aumento** de **Ataque**.
 
 <small>Alguns cavaleiros escolhem uma pessoa e prometem, em voz alta, que nada vai acontecer com ela. A promessa não muda o aço do inimigo, mas muda para onde ele vai, e quem jura aceita o preço sem reclamar.</small>
 
@@ -353,9 +353,9 @@ Habilidade do Cavaleiro, Ofensivo e Mobilidade, Linha.
 
 **Precisão Normal** e **Custa** 5 pontos de **Foco**.
 
-Anda até o dobro da sua **Velocidade** em linha reta e faz uma **Ação de Ataque** no **Oponente** no fim. Se andou 6 metros ou mais, ele é empurrado 2 metros e recebe 1 **Enraizamento**.
+Anda até o dobro da sua **Velocidade** em linha reta e faz uma **Ação de Ataque** no **Oponente** no fim. Se andou 10 metros ou mais, ele é empurrado **1d10** metros e recebe 1 **Enraizamento**.
 
-**Ranque 2**: atravessa **Oponentes** **Normais** no caminho, empurrando-os para o lado. **Ranque 3**: se a **Ação de Ataque** derrubar o alvo, você continua a **Carga** com os metros que sobraram e ataca outro **Oponente**.
+**Ranque 2**: atravessa **Oponentes** **Normais** no caminho, empurrando-os para o lado, também os atacando. **Ranque 3**: se uma **Ação de Ataque** derrubar o alvo por essa **Habilidade**, você pode usar **Carga** mias uma vez nesse **Turno**.
 
 <small>A carga é a imagem que todos têm de um cavaleiro, e por um bom motivo: nada no campo de batalha assusta tanto quanto uma massa de aço vindo em linha reta, sem intenção nenhuma de parar.</small>
 
@@ -375,9 +375,9 @@ Nenhuma **Redução** deixa um **Atributo** seu abaixo da metade do valor normal
 
 Talento do Cavaleiro, Utilidade.
 
-No início de cada [[Combate]], escolha uma das suas **Cicatrizes**: a **Lição** dela vale contra qualquer **Oponente** até o fim do **Combate**.
+No início de cada [[Combate]] todos os **Oponentes** são considerados como novas **Cicatrizes** até o fim daquele [[Combate]] (ultrapassando o limite possível).
 
-**Ranque 2**: duas **Cicatrizes**. **Ranque 3**: três.
+**Ranque 2**: duas **Cicatrizes** por **Oponente**. **Ranque 3**: três.
 
 <small>Depois de muitas lutas, os inimigos começam a se parecer. O veterano olha para um rosto novo e reconhece nele o jeito de andar de um, a guarda de outro, o mesmo erro que um terceiro cometeu anos antes.</small>
 
@@ -395,9 +395,9 @@ Desencadeado: quando sofre, de uma só vez, **Dano** maior que o seu **Ataque**,
 
 Talento do Cavaleiro, Defensivo e Utilidade.
 
-Enquanto você estiver de pé com metade da **Vida** ou mais, aliados a até 3 metros não recebem **Medo**.
+Enquanto você estiver de pé com metade da **Vida** ou mais, aliados a até 10 metros não recebem **Medo**.
 
-**Ranque 2**: eles também ganham +1 de **Precisão**. **Ranque 3**: até 6 metros.
+**Ranque 2**: eles também ganham **1d4** de **Precisão**. **Ranque 3**: até 20 metros.
 
 <small>Ninguém foge enquanto o cavaleiro ainda está de pé na frente. Não é discurso nem ordem: é só a visão de alguém que não recua, e isso basta para segurar a coragem dos que estão atrás.</small>
 
@@ -407,7 +407,7 @@ Talento do Cavaleiro, Ofensivo.
 
 Cada **Sangramento** em você dá +1 de **Dano** às suas **Ações de Ataque**.
 
-**Ranque 2**: **Desgaste** também conta. **Ranque 3**: no **Início do Turno**, pode passar 1 **Sangramento** seu para um **Oponente** ao lado.
+**Ranque 2**: **Desgaste** também conta. **Ranque 3**: dão **Força** ao invés de **Ataque**.
 
 <small>O sangue que escorre pelo braço deixa o punho escorregadio e o humor pior. Os cavaleiros que aprenderam a lutar sangrando transformam cada ferida aberta em pressa de terminar a luta.</small>
 
@@ -423,7 +423,7 @@ Habilidade do Cavaleiro, Recuperação, Individual.
 
 Aplica uma **Dissipação Forte** em você mesmo (veja [[Efeitos]]). Pode ser usada mesmo com **Atordoamento**, **Sono** ou **Medo**. Uma vez por [[Combate]], pode ser usada fora do seu **Turno**.
 
-**Ranque 2**: também em um aliado ao seu lado. **Ranque 3**: depois de usar, você ganha 1 **Resistência**.
+**Ranque 2**: também em um aliado ao seu lado. **Ranque 3**: o primeiro uso aplica em todos os **Aliados**.
 
 <small>Há quem diga que é força de vontade, há quem diga que é teimosia. Os cavaleiros que chegam ao ápice do treino simplesmente se levantam de coisas que deveriam mantê-los no chão, e quem está ao lado deles costuma se levantar junto.</small>
 
@@ -459,7 +459,7 @@ Habilidade do Cavaleiro, Mobilidade e Ofensivo, Individual.
 
 Pega um aliado ao seu lado que aceite e o arremessa até a sua **Velocidade** em metros. Ele cai em pé e faz uma **Ação de Ataque** contra um **Oponente** ao lado de onde caiu, sem custo.
 
-**Ranque 2**: esse **Oponente** também sofre o seu **Ataque** de **Dano**, pelo impacto. **Ranque 3**: o aliado também ganha uma **Ação de Movimento** sem custo.
+**Ranque 2**: esse **Oponente** também sofre o seu **Ataque** de **Dano**, pelo impacto. **Ranque 3**: o aliado também ganha um **Turno** extra.
 
 <small>Nenhum manual ensina isso, e todo veterano já fez pelo menos uma vez. Quando o inimigo está longe demais e o aliado é leve o suficiente, a distância mais curta entre os dois é um braço forte e um pouco de coragem de quem é arremessado.</small>
 
@@ -469,9 +469,9 @@ Habilidade do Cavaleiro, Ofensivo, Aura.
 
 **Precisão Garantida** e **Custa** todo o seu **Foco** (pelo menos 5).
 
-Uma vez por [[Combate]]. Todos os aliados que podem ver você fazem, agora, uma **Ação de Ataque** sem custo, fora do **Turno** deles.
+Uma vez por [[Combate]]. Todos os aliados fazem uma **Ação** de **Movimento** infinita e uma **Ação de Ataque**, sem custos, fora do **Turno** deles.
 
-**Ranque 2**: também uma **Ação de Movimento** antes do **Ataque**. **Ranque 3**: **Custa** metade do seu **Foco** (pelo menos 5).
+**Ranque 2**: nenhum **Oponente** pode responder ou jogar fora do **Turno** contra essa **Habilidade**. **Ranque 3**: **Custa** metade do seu **Foco** (pelo menos 5).
 
 <small>Quando a luta está por um fio, o cavaleiro gasta tudo o que resta num único grito e numa única corrida. Os aliados que o veem avançar não pensam, apenas seguem, e por um instante a batalha inteira se move junto.</small>
 
@@ -503,7 +503,7 @@ Talento do Cavaleiro, Defensivo.
 
 **Acertos Críticos** contra você viram acertos comuns.
 
-**Ranque 2**: quem tentou sofre **1d6** de **Dano Físico**. **Ranque 3**: uma vez por [[Combate]], um acerto comum seu vira **Acerto Crítico**.
+**Ranque 2**: **Oponentes** que te atacarem também recebem **1d10** de **Dano Físico**. **Ranque 3**: uma vez por [[Combate]], um acerto comum seu vira **Acerto Crítico**.
 
 <small>Cada um no seu devido lugar. O golpe perfeito do adversário encontra uma guarda que já esperava por ele, e o que deveria terminar a luta vira só mais um arranhão.</small>
 
@@ -513,7 +513,7 @@ Talento do Cavaleiro, Ofensivo.
 
 A primeira vez que a sua **Vida** chega a 0 em cada [[Combate]], você não fica **Caído**: continua agindo até o fim do seu próximo **Turno**. Depois disso, cai.
 
-**Ranque 2**: nesse tempo, as suas [[Ações]] não custam **Foco**. **Ranque 3**: se derrubar um **Oponente** nesse tempo, volta com **1d10** de **Vida** e não cai.
+**Ranque 2**: nesse tempo, as suas [[Ações]] não custam **Foco**. **Ranque 3**: se derrubar um **Oponente** nesse tempo, volta com **1d10** de **Vida** e não cai, esse **Talento** fica disponível novamente como se nunca tivesse sido usado.
 
 <small>Contam que alguns cavaleiros continuaram lutando depois de um golpe que deveria tê-los matado, e só caíram quando o último inimigo caiu antes. Ninguém sabe dizer se é verdade, mas todo cavaleiro torce para ser um deles.</small>
 
@@ -521,9 +521,9 @@ A primeira vez que a sua **Vida** chega a 0 em cada [[Combate]], você não fica
 
 Talento do Cavaleiro, Controle.
 
-**Oponentes** **Normais** com o nome de uma das suas **Cicatrizes** e **Nível** menor que o seu começam o [[Combate]] com 1 **Medo**.
+**Oponentes** **Normais** com 10 **Níveis** inferiores ao seu ou menor começam o [[Combate]] com 1 **Medo**.
 
-**Ranque 2**: **Elites** com esse nome começam com **1d4** **Redução** de **Precisão**. **Ranque 3**: vale também para os aliados deles, de qualquer nome.
+**Ranque 2**: **Elites** com essas características começam com **1d10** **Redução** de **Precisão**. **Ranque 3**: começa com um **Turno** extra contra **Chefes** e **Soberanos**.
 
 <small>Depois de certa quantidade de batalhas, o nome do cavaleiro chega antes dele. Os inimigos que já perderam para ele, ou ouviram de quem perdeu, entram na luta olhando para a saída.</small>
 
