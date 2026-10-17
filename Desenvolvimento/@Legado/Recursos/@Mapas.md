@@ -1,4 +1,4 @@
-Os **Mapas** de **Salon'Gar** são os trechos de terrenos onde as [[@Unidades]] habitam e interagem, sendo dividem alguns grupos como:
+Os **Mapas** de **Salon'Gar** são os trechos de terrenos onde as [[Unidades]] habitam e interagem, sendo dividem alguns grupos como:
 
 1. [[@Céus_]];
 2. [[@Grandes Mares_]];

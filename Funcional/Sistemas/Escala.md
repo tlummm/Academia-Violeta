@@ -10,7 +10,7 @@ O **Nível** diz o quanto um **Oponente** é forte em geral. A [[Escala]] separa
 3. **Chefe**: o desafio central de um trecho da **Campanha**.
 4. **Soberano**: uma ameaça que muda o mundo ao seu redor.
 
-A categoria fica escrita na ficha do **Oponente**, ao lado do **Nível** (veja [[@Unidades]]).
+A categoria fica escrita na ficha do **Oponente**, ao lado do **Nível** (veja [[Unidades]]).
 
 ---
 

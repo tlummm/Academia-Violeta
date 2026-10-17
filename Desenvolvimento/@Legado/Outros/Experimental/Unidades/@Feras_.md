@@ -58,7 +58,7 @@ Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criat
 
 ### Temperamento
 
-[[@Feras_]] possuem comportamentos, principalmente contra outras [[@Unidades]]. Esses comportamentos podem variar conforme o **Temperamento** da criatura, o que define o seu estado inicial, principalmente em relação a **Humanos**. Os estados são:
+[[@Feras_]] possuem comportamentos, principalmente contra outras [[Unidades]]. Esses comportamentos podem variar conforme o **Temperamento** da criatura, o que define o seu estado inicial, principalmente em relação a **Humanos**. Os estados são:
 
 * **Fugidio**: foge ao avistar ou se aproximar;
 * **Dócil**: tenta se aproximar e criar uma relação;

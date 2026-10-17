@@ -1,6 +1,6 @@
 # O que são [[Talentos Gerais]]
 
-**Talentos Gerais** são [[Habilidades e Talentos|Talentos]] que não pertencem a nenhuma [[Lista de Artes|Arte]] nem a nenhuma [[Classes|Classe]]. Funcionam do mesmo jeito em qualquer lugar onde aparecem: na [[Ficha]] de um **Personagem**, numa [[@Unidades|Unidade]], num [[@Itens|Item]] ou numa **Estrutura**.
+**Talentos Gerais** são [[Habilidades e Talentos|Talentos]] que não pertencem a nenhuma [[Lista de Artes|Arte]] nem a nenhuma [[Classes|Classe]]. Funcionam do mesmo jeito em qualquer lugar onde aparecem: na [[Ficha]] de um **Personagem**, numa [[Unidades|Unidade]], num [[@Itens|Item]] ou numa **Estrutura**.
 
 * São **Passivos** ou **Gatilhos**, como todo **Talento** (veja [[Habilidades e Talentos]]). Nunca ocupam a **Ação Principal**, a não ser que o texto diga.
 * Cada um só pode ser tido uma vez, a não ser que seja **Acumulável**.

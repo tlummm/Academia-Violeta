@@ -50,7 +50,7 @@ A história se passa no [[Naufrágio]], um multiverso de mundos interligados, on
 * [[Progressão]], [[Feitos]] e [[Recompensas]]: como o **Personagem** cresce e o que ganha.
 * [[Sessão]] e [[Economia]]: o que acontece entre um encontro e outro.
 
-**Para mestrar**, além de tudo acima: [[Regra de Ouro]], [[Escala]] e [[@Unidades]].
+**Para mestrar**, além de tudo acima: [[Regra de Ouro]], [[Escala]] e [[Unidades]].
 
 > Um **Jogador** não precisa ler tudo para começar. O **Mestre** explica o resto quando aparecer.
 

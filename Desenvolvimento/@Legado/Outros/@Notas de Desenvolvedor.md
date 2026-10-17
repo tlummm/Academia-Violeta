@@ -25,7 +25,7 @@ Ajustar [[@Itens]] atuais;
 * [[@Itens]] de todos os **Tipos**;
 * **Modos de Jogo**/**Instâncias** como **Masmorras**, **Raides** e **Reinícios**;
 * Primeira **Campanha** jogável;
-* [[@Unidades]] de toda a [[Escala]];
+* [[Unidades]] de toda a [[Escala]];
 
 ---
 

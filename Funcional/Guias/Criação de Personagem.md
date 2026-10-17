@@ -30,7 +30,7 @@ O que não tem número: **Nome**, **Apelido**, aparência e **História**. É li
 Cada uma das seis pontas começa com **2**: **Ataque**, **Defesa**, **Maestria**, **Espírito**, **Precisão** e **Esquiva**.
 
 * Distribua **10 pontos** entre elas.
-* Nenhuma ponta passa de **9** na criação (no máximo 7 pontos na mesma).
+* Nenhuma ponta passa de **10** na criação (no máximo 8 pontos na mesma).
 
 Depois calcule as três linhas (veja [[Atributos]]):
 

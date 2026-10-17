@@ -5,7 +5,7 @@
 
 O [[Combate]] é o modo do **Jogo** para lutas. Fora dele, em [[Interpretação]], as [[Ações]] são livres e o tempo corre como a história pedir. Dentro dele, o tempo é dividido em **Turnos**, cada **Personagem** age na sua vez e cada [[Ações|Ação]] gasta **Foco**.
 
-O **Combate** acontece num **Tabuleiro** de casas, e cada casa vale 1 metro. Todo mundo que luta, seja **Jogador**, **NPC** ou **Monstro**, é uma **Unidade** (veja [[@Unidades]]).
+O **Combate** acontece num **Tabuleiro** de casas, e cada casa vale 1 metro. Todo mundo que luta, seja **Jogador**, **NPC** ou **Monstro**, é uma **Unidade** (veja [[Unidades]]).
 
 ---
 
