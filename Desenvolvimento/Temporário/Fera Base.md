@@ -1,4 +1,4 @@
-# O que é a [[Fera Base_]]
+# O que é a [[Fera Base]]
 
 A **Fera Base** é o modelo de ficha das **Criaturas** (veja [[Unidades]]) e um pequeno bestiário de teste. As criaturas abaixo são **experimentais**: servem para testar o [[Combate]], o **Nível** e a [[Escala]] e serão refeitas quando os [[@Itens]] entrarem.
 
@@ -9,7 +9,7 @@ A **Fera Base** é o modelo de ficha das **Criaturas** (veja [[Unidades]]) e um 
 
 # Modelo
 
-> **Nome**
+## Nome
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
@@ -44,7 +44,7 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 
 # Grau 0
 
-> **Rato-de-Esgoto**
+## Rato-de-Esgoto
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
@@ -63,7 +63,7 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 
 <small>Um rato sozinho foge da luz. Seis ratos juntos esquecem que têm medo. Testa se o grupo lida com muitos alvos fracos ao mesmo tempo.</small>
 
-> **Vespa-Carrasco**
+## Vespa-Carrasco
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio** | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :------- | :--------------- |
@@ -82,7 +82,7 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 
 <small>Amarela, alongada, com um ferrão do tamanho de uma unha. Uma picada é só dor; dez picadas são uma tarde inteira perdendo sangue. Testa os [[Efeitos]] que não saem sozinhos e a falta que faz a [[Medicina_]].</small>
 
-> **Bandido**
+## Bandido
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
@@ -99,9 +99,9 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 > **Habilidades e Talentos**
 > * **Iniciativa**: [[Talentos Gerais]].
 
-<small>Fome, dívida ou só preguiça de trabalhar. O bandido começa a luta com raiva e termina pedindo perdão. É o **Racional** de teste: sem **Itens** por enquanto, então luta como um **Oponente** de mãos vazias.</small>
+<small>Fome, dívida ou só preguiça de trabalhar. O bandido começa a luta com raiva e termina pedindo perdão. É o <b>Racional</b> de teste: sem <b>Itens</b> por enquanto, então luta como um <b>Oponente</b> de mãos vazias.</small>
 
-> **Lobo**
+## Lobo
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
@@ -118,9 +118,9 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 > **Habilidades e Talentos**
 > * **Matilha**: [[Talentos Gerais]].
 
-<small>Caçam em grupos de quatro a oito e cercam a presa antes do primeiro bote. Testa posicionamento: um **Lobo** sozinho é fraco, três juntos ao lado do mesmo alvo não.</small>
+<small>Caçam em grupos de quatro a oito e cercam a presa antes do primeiro bote. Testa posicionamento: um <b>Lobo</b> sozinho é fraco, três juntos ao lado do mesmo alvo não.</small>
 
-> **Javali**
+## Javali
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
@@ -138,13 +138,13 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 > * **Investida**: [[Talentos Gerais]].
 > * **Fúria**: [[Talentos Gerais]].
 
-<small>Couro grosso, presas viradas para cima e nenhuma vontade de recuar. Ferido, fica pior. Testa um **Elite** simples: muita **Vida**, muita **Defesa** e um ataque em linha que pune quem fica alinhado.</small>
+<small>Couro grosso, presas viradas para cima e nenhuma vontade de recuar. Ferido, fica pior. Testa um <b>Elite</b> simples: muita <b>Vida</b>, muita <b>Defesa</b> e um ataque em linha que pune quem fica alinhado.</small>
 
 ---
 
 # Grau 1
 
-> **Lobo Alfa**
+## Lobo Alfa
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
@@ -163,9 +163,9 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 > * **Uivo**: [[Talentos Gerais]].
 > * **Chamado** (**Fase 2**): ao entrar na **Segunda Fase**, surgem **1d4** **Lobos** em casas da borda do **Tabuleiro** à escolha do **Mestre**. Eles agem logo depois do **Alfa**.
 
-<small>Maior que os outros, com o pelo do focinho já branco. Não é o mais forte da matilha por acaso: é o que voltou de todas as caçadas. Testa o **Chefe** (**Dois Turnos**, **Segunda Fase**) e um **Chefe** que fica mais perigoso com aliados.</small>
+<small>Maior que os outros, com o pelo do focinho já branco. Não é o mais forte da matilha por acaso: é o que voltou de todas as caçadas. Testa o <b>Chefe</b> (<b>Dois Turnos</b>, <b>Segunda Fase</b>) e um <b>Chefe</b> que fica mais perigoso com aliados.</small>
 
-> **Urso-Pardo**
+## Urso-Pardo
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
@@ -191,9 +191,9 @@ Habilidade de Fera, Ofensivo e Controle, Toque.
 
 Causa **Ataque** de **Dano** e agarra o **Alvo**: enquanto estiver ao lado do **Urso**, ele não faz **Ação de Movimento** e sofre metade do **Ataque** de **Dano** no **Início do Turno** do **Urso**. Sair do **Abraço** custa a **Ação Principal** e 2 de **Foco**. O **Abraço** acaba se o **Urso** se mover, cair ou usar o **Abraço** em outro **Alvo**.
 
-<small>O urso não morde primeiro. Ele abraça, aperta e espera. Testa uma pegada que tira uma **Unidade** do jogo até alguém agir para soltá-la.</small>
+<small>O urso não morde primeiro. Ele abraça, aperta e espera. Testa uma pegada que tira uma <b>Unidade</b> do jogo até alguém agir para soltá-la.</small>
 
-> **Golem de Pedra**
+## Golem de Pedra
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
@@ -219,17 +219,17 @@ Habilidade de Fera, Ofensivo, Área 3×3.
 
 No **Turno** em que usa, o **Golem** só ergue os braços: o **Mestre** marca no **Tabuleiro** uma **Área** 3×3 ao lado dele. No próximo **Turno** do **Golem**, antes de qualquer outra coisa, quem ainda estiver na **Área** sofre o triplo do **Ataque** de **Dano** e é empurrado 2 metros para longe.
 
-<small>Pedra empilhada que alguém mandou ficar de pé e vigiar. Lenta e sem pressa, avisa antes de bater, e quem não sai do lugar não sai mais. Testa um **Oponente** de **Poder** diferente (o **Dano** **Mágico** dobra contra **Real**, veja [[Tipos de Dano]]) e um ataque que o grupo vê chegar.</small>
+<small>Pedra empilhada que alguém mandou ficar de pé e vigiar. Lenta e sem pressa, avisa antes de bater, e quem não sai do lugar não sai mais. Testa um <b>Oponente</b> de <b>Poder</b> diferente (o <b>Dano</b> <b>Mágico</b> dobra contra <b>Real</b>, veja [[Tipos de Dano]]) e um ataque que o grupo vê chegar.</small>
 
 ---
 
 # Grau 2
 
-> **Troll**
+## Troll
 
 | **Nível** | **Escala** | **Poder** | **Tipo** | **Tamanho** | **Meio**  | **Temperamento** |
 | :-------: | :--------- | :-------- | :------- | :---------- | :-------- | :--------------- |
-|    25     | Elite      | Selvagem  | Criatura | Enorme      | Terrestre | Hostil |
+|    25     | Elite      | Selvagem  | Criatura | Enorme      | Terrestre | Hostil           |
 
 | **Ataque** | **Defesa** | **Maestria** | **Espírito** | **Precisão** | **Esquiva** |
 | :--------: | :--------: | :----------: | :----------: | :----------: | :---------: |
@@ -261,4 +261,4 @@ Habilidade de Fera, Ofensivo, Projétil, Alcance 10.
 
 Causa **Ataque** de **Dano** e aplica 2 **Reduções** de **Velocidade** no **Alvo**.
 
-<small>Alto como duas portas, com a pele cheia de cicatrizes que fecham enquanto se olha para elas. Testa um **Oponente** que se cura sozinho (o grupo precisa causar mais **Dano** por **Rodada** do que ele recupera) e o primeiro **Poder** que leva vantagem sobre o **Real** pela natureza (**Selvagem** triplica contra **Real**).</small>
+<small>Alto como duas portas, com a pele cheia de cicatrizes que fecham enquanto se olha para elas. Testa um <b>Oponente</b> que se cura sozinho (o grupo precisa causar mais <b>Dano</b> por <b>Rodada</b> do que ele recupera) e o primeiro <b>Poder</b> que leva vantagem sobre o <b>Real</b> pela natureza (<b>Selvagem</b> triplica contra <b>Real</b>).</small>
