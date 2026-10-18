@@ -37,8 +37,8 @@ Dano causado, dano aguentado e quanto tempo você fica de pé. Sobre a **Força*
 
 ### Defesa — Essência
 
-* **Regra**: cada ponto reduz em 1 o **Dano Físico** que você sofre (exceto em [[Efeitos]]).
-* **Na prática**: responde ao **Ataque**. Um golpe de 5 contra **Defesa** 2 causa 3.
+* **Regra**: cada 2 pontos mitigam 1 do **Dano Físico** que você sofre (exceto em [[Efeitos]]). Todo acerto causa pelo menos 1 (veja [[Tipos de Dano]]).
+* **Na prática**: responde ao **Ataque**. Um golpe de 5 contra **Defesa** 4 causa 3.
 * **Em Interpretação**: aguentar dor, manter posição, não ceder ao cansaço.
 
 ### Vida — a linha da Força
@@ -61,7 +61,7 @@ Poder das suas **Habilidades**, resistência a **Dano Mágico** e **Foco** para 
 
 ### Espírito — Inocência
 
-* **Regra**: cada ponto reduz em 1 o **Dano Mágico** que você sofre (exceto em [[Efeitos]]).
+* **Regra**: cada 2 pontos mitigam 1 do **Dano Mágico** que você sofre (exceto em [[Efeitos]]). Todo acerto causa pelo menos 1 (veja [[Tipos de Dano]]).
 * **Na prática**: responde à **Maestria** do mesmo jeito que a **Defesa** responde ao **Ataque**.
 * **Em Interpretação**: força de vontade, resistir a medo, ilusão e persuasão, intuição.
 
@@ -102,7 +102,7 @@ Se você acerta, se você é acertado e quem chega primeiro. Sobre a **Agilidade
 **Fulano** tem **Ataque** 5 e **Precisão** 3. Ele ataca uma **Fera** com **Defesa** 2 e **Esquiva** 1, usando uma **Ação de Ataque** de **Precisão Normal** (8 ou mais no **d20**).
 
 1. **Acertou?** Fulano rola 6 no **d20**. Soma a **Precisão** dele e tira a **Esquiva** da **Fera**: 6 + 3 − 1 = **8**. Passou, acertou.
-2. **Quanto doeu?** **Ataque** 5 menos **Defesa** 2: a **Fera** perde **3** de **Vida**.
+2. **Quanto doeu?** **Ataque** 5 menos metade da **Defesa** 2 (1): a **Fera** perde **4** de **Vida**.
 
 Se a **Fera** tivesse **Esquiva** 3, o mesmo 6 viraria 6 e Fulano erraria. 
 

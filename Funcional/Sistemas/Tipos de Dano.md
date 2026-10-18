@@ -3,21 +3,21 @@
 
 # O que são os [[Tipos de Dano]]
 
-Todo **Dano** tem um tipo. O tipo diz **o que reduz** aquele **Dano** e **quem é mais fraco** contra ele. Existem três grandes grupos:
+Todo **Dano** tem um tipo. O tipo diz **o que mitiga** aquele **Dano** e **quem é mais fraco** contra ele. Existem três grandes grupos:
 
-| **Dano**    | **Vem de**                                          | **É reduzido por**                |
+| **Dano**    | **Vem de**                                          | **É mitigado por**                |
 | :---------- | :-------------------------------------------------- | :-------------------------------- |
 | **Físico**  | **Ataque**: golpes, armas, quedas, garras           | **Defesa**                        |
 | **Mágico**  | **Maestria**: **Habilidades** e [[@Itens]] dos **Poderes** anormais | **Espírito**          |
 | **Puro**    | Fontes raras, e todo **Dano** de [[Efeitos]]       | Nada                              |
 
-> **Defesa** e **Espírito** estão em [[Atributos]]. Um golpe de 5 contra **Defesa** 2 causa 3; uma **Habilidade** de 5 contra **Espírito** 2 também causa 3.
+> **Defesa** e **Espírito** estão em [[Atributos]]. Cada 2 pontos mitigam 1 de **Dano**: um golpe de 5 contra **Defesa** 4 causa 3; uma **Habilidade** de 5 contra **Espírito** 4 também causa 3.
 
 ---
 
-# Sem dano mínimo
+# Dano mínimo
 
-Se a **Defesa** ou o **Espírito** do alvo for maior ou igual ao **Dano**, ele não sofre nada. Um bando de inimigos fracos não derruba um guardião bem protegido só por ser numeroso: para feri-lo, é preciso **Dano** de verdade, um **Acerto Crítico**, **Dano Puro** ou levar a melhor pelo **Poder**.
+Todo acerto causa pelo menos **1** de **Dano**, por maior que seja a **Defesa** ou o **Espírito** do alvo. Um guardião bem protegido aguenta muito, mas não para sempre: um bando de inimigos fracos o desgasta aos poucos. O **Poder** multiplica esse 1 normalmente (vira 2 ou 3), e só a **Imunidade** faz um acerto causar 0.
 
 ---
 
@@ -55,7 +55,7 @@ Ignora **Defesa** e **Espírito**: o alvo sofre exatamente o que está escrito. 
 
 # Poder contra Poder
 
-Toda **Unidade** pertence a um dos [[Cinco Poderes]], e todo **Dano** também (o **Físico** de quem é **Real** também é **Real**). Quando o **Poder** do **Dano** leva a melhor sobre o **Poder** do alvo, o **Dano** aumenta:
+Toda **Unidade** pertence a um dos [[Cinco Poderes]], e todo **Dano** também (o **Físico** de quem é **Real** também é **Real**). Quando o **Poder** do **Dano** leva a melhor sobre o **Poder** do alvo, o **Dano** que passou pela **Mitigação** aumenta:
 
 * **Ter vantagem**: o **Dano** dobra (×2).
 * **Subjugar**: o **Dano** triplica (×3).
@@ -68,13 +68,15 @@ Toda **Unidade** pertence a um dos [[Cinco Poderes]], e todo **Dano** também (o
 | **Mágico**        | Nenhum              | Real e Selvagem   |
 | **Real**          | Nenhum              | Sagrado           |
 
+A vantagem só vale para um lado. O **Selvagem** triplica contra o **Real**, mas o **Real** bate normal no **Selvagem**: quem não está na tabela causa **Dano** normal.
+
 > Por que cada **Poder** leva a melhor sobre outro está em [[Cinco Poderes]]. Aqui fica só a conta.
 
 ---
 
 # Fraqueza e Resistência
 
-Algumas **Unidades** têm **Fraqueza** ou **Resistência** a um tipo (**Corte**, **Fogo**, **Sombrio**...), escrita na sua ficha:
+Algumas **Unidades** têm **Fraqueza** ou **Resistência** a um tipo (**Corte**, **Fogo**, **Sombrio**...), escrita na sua ficha. Elas valem sobre o **Dano** que passou pela **Mitigação**:
 
 * **Fraqueza**: o **Dano** daquele tipo dobra (×2).
 * **Resistência**: o **Dano** daquele tipo cai pela metade (×0,5).
@@ -86,9 +88,10 @@ Algumas **Unidades** têm **Fraqueza** ou **Resistência** a um tipo (**Corte**,
 
 # A conta, na ordem
 
-1. **Dano Base**: o **Ataque** (**Físico**) ou a **Eficiência** da **Habilidade** ou do **Item** (**Mágico**).
-2. **Multiplicadores**: **Acerto Crítico** (que dobra também **Eficiências** e [[Efeitos]], veja [[Combate]]), **Poder contra Poder**, **Fraqueza** e **Resistência**. Multiplique todos e arredonde para baixo.
-3. **Redução**: tire a **Defesa** (**Físico**) ou o **Espírito** (**Mágico**). **Puro** pula esta etapa. Se ficar abaixo de 0, o **Dano** é 0.
+1. **Dano Base**: o **Ataque** (**Físico**) ou a **Eficiência** da **Habilidade** ou do **Item** (**Mágico**). Um **Acerto Crítico** dobra este número (e também **Eficiências** e [[Efeitos]], veja [[Combate]]).
+2. **Mitigação**: tire a metade da **Defesa** (**Físico**) ou do **Espírito** (**Mágico**), arredondada para baixo, e o que **Habilidades** e **Talentos** do alvo mitigarem. **Puro** pula esta etapa.
+3. **Mínimo**: se ficar abaixo de 1, o **Dano** é **1**.
+4. **Multiplicadores**: **Poder contra Poder**, **Fraqueza** e **Resistência**. Multiplique todos e arredonde para baixo, sem cair abaixo de 1 (só a **Imunidade** zera).
 
 ---
 
@@ -97,9 +100,12 @@ Algumas **Unidades** têm **Fraqueza** ou **Resistência** a um tipo (**Corte**,
 **Fulano** (**Real**, **Ataque** 6) acerta com uma maça num **Espectro** (**Sagrado**, **Defesa** 3, **Fraqueza** a **Contusão**).
 
 1. **Dano Base**: 6, **Físico** de **Contusão**.
-2. **Multiplicadores**: **Real** tem vantagem sobre **Sagrado** (×2) e o **Espectro** é fraco a **Contusão** (×2). 6 × 2 × 2 = 24.
-3. **Redução**: 24 − 5 de **Defesa** = **14**.
+2. **Mitigação**: metade da **Defesa** 3 é 1. 6 − 1 = 5.
+3. **Mínimo**: 5 passa de 1.
+4. **Multiplicadores**: **Real** tem vantagem sobre **Sagrado** (×2) e o **Espectro** é fraco a **Contusão** (×2). 5 × 2 × 2 = **20**.
 
-Com uma espada (**Corte**), seria 6 × 2 = 12, menos 3: **6**. Escolher a arma certa dobrou o **Dano**.
+Com uma espada (**Corte**), seria 5 × 2 = **10**. Escolher a arma certa dobrou o **Dano**.
+
+Se o **Espectro** tivesse **Defesa** 20, a **Mitigação** tiraria 10 e sobraria 0. O **Mínimo** sobe para 1, e os multiplicadores fazem 1 × 2 × 2 = **4**.
 
 ---

@@ -44,8 +44,9 @@ Toda [[Ações|Ação]] contra um **Oponente** pede um **d20**:
 
 # Dano e Alcance
 
-* **Dano Físico**: vem do **Ataque** e é reduzido pela **Defesa** do alvo.
-* **Dano Mágico**: vem da **Maestria** e é reduzido pelo **Espírito** do alvo.
+* **Dano Físico**: vem do **Ataque** e é mitigado pela metade da **Defesa** do alvo.
+* **Dano Mágico**: vem da **Maestria** e é mitigado pela metade do **Espírito** do alvo.
+* **Dano mínimo**: todo acerto causa pelo menos 1. A conta completa, com **Poder**, **Fraqueza** e **Resistência**, está em [[Tipos de Dano]].
 * **Corpo a Corpo**: desarmado ou com arma de mão, o **Alcance** é 1 metro (casas vizinhas, inclusive na diagonal).
 * **Longo Alcance**: arcos, bestas e armas de arremesso alcançam o que a arma disser, mas causam **metade** do **Dano**, **Eficiências** e dos [[Efeitos]] (arredondado para baixo).
 * **Alcance** (o **Atributo Secundário**) soma 1 metro por ponto, exceto em **Corpo a Corpo** e **Movimento**.
@@ -81,7 +82,7 @@ Quando a **Vida** chega a 0, a **Unidade** fica **Caída**:
 
 * **Ordem**: **Ciclana** (7), **Fulano** (5, ganha o empate por ser **Jogador**) e a **Fera** (5).
 * **Ciclana** anda e usa uma **Habilidade** de [[Táticas_]].
-* **Fulano** está com 1 **Sangramento** desde a luta anterior: no **Início do Turno** perde 1 de **Vida**. Depois anda até a **Fera** e ataca: rola 7, + 3 − 1 = **9**, acerta (**Normal** 8). **Dano** 6 − 2 = **4**. A **Fera** fica com 8.
+* **Fulano** está com 1 **Sangramento** desde a luta anterior: no **Início do Turno** perde 1 de **Vida**. Depois anda até a **Fera** e ataca: rola 7, + 3 − 1 = **9**, acerta (**Normal** 8). **Dano** 6 − 1 (metade da **Defesa** 2) = **5**. A **Fera** fica com 7.
 * No **Fim do Turno**, o **Sangramento** de **Fulano** continua. Ele vai perder 1 de **Vida** a cada **Turno** até alguém tratá-lo.
 * **Fera** ataca **Fulano** e rola 1: **Erro Crítico**, o **Turno** dela acaba ali.
 
