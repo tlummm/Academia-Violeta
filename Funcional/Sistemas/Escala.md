@@ -31,6 +31,12 @@ Cada categoria tem um **Valor**, que mede quanto ela pesa num [[Combate]]. Um **
 
 O **Valor** vale contra **Personagens** do mesmo **Grau**. Para cada **Grau** que o **Oponente** estiver acima do grupo, o seu **Valor** dobra. Para cada **Grau** abaixo, cai pela metade.
 
+### Poder
+
+Se o **Poder** do **Oponente** leva a melhor sobre o **Poder** do grupo (veja [[Tipos de Dano]]), o seu **Valor** dobra. Um **Golem** **Mágico** contra um grupo **Real** vale o dobro de um **Golem** contra um grupo **Sagrado**. Num grupo com **Poderes** misturados, conta o **Poder** da maioria.
+
+> A dobra do **Grau** e a do **Poder** se multiplicam: um **Oponente** um **Grau** acima e com vantagem de **Poder** vale o quádruplo.
+
 ---
 
 # Montar um Combate
