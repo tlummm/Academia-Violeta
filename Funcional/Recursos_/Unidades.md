@@ -106,7 +106,7 @@ Um **Personagem** de **Nível** N tem, nas seis pontas, mais ou menos **22 + N**
 
 | **Escala**   | **Pontos nas pontas**                | **Vida**                           | **Foco**                               | **Habilidades e Talentos** |
 | :----------- | :----------------------------------- | :--------------------------------- | :------------------------------------- | :------------------------- |
-| **Normal**   | Metade do **Total**                  | 5 + **Ataque** + **Defesa**        | 5 + **Maestria** + **Espírito**        | 1 por **Grau** (mínimo 1)  |
+| **Normal**   | Metade do **Total**                  | **Ataque** + **Defesa**            | 5 + **Maestria** + **Espírito**        | 1 por **Grau** (mínimo 1)  |
 | **Elite**    | O **Total**                          | (10 + **Ataque** + **Defesa**) × 2 | 10 + **Maestria** + **Espírito**       | 2 por **Grau** (mínimo 2)  |
 | **Chefe**    | O **Total** × 1,5                    | (10 + **Ataque** + **Defesa**) × 5 | (10 + **Maestria** + **Espírito**) × 2 | 3 por **Grau** (mínimo 3)  |
 | **Soberano** | Definido depois do **Limite Humano** | —                                  | —                                      | —                          |
@@ -142,7 +142,7 @@ Um **Lobo**, **Normal** de **Nível 5**, **Criatura** **Real**, **Médio**, **Te
 
 1. **Pontos**: **Total** 22 + 5 = 27. **Normal**, metade: **13**.
 2. **Molde Ágil**: 13 pontos em décimos dá **Precisão** 4, **Ataque** 3, **Esquiva** 3, **Defesa** 1, **Maestria** 1, **Espírito** 1.
-3. **Linhas**: **Vida** 5 + 3 + 1 = **9**; **Foco** 5 + 1 + 1 = **7**; **Velocidade** 5 + 4 + 3 = **12**.
+3. **Linhas**: **Vida** 3 + 1 = **4**; **Foco** 5 + 1 + 1 = **7**; **Velocidade** 5 + 4 + 3 = **12**.
 4. **Talentos** (**Grau 0**, 1): **Matilha** ([[Talentos Gerais]]).
 
 > **Lobo**
@@ -157,7 +157,7 @@ Um **Lobo**, **Normal** de **Nível 5**, **Criatura** **Real**, **Médio**, **Te
 
 | **Vida** | **Foco** | **Velocidade** | **Fraqueza** | **Resistência** |
 | :------: | :------: | :------------: | :----------- | :-------------- |
-|    9     |    7     |       12       | —            | —               |
+|    4     |    7     |       12       | —            | —               |
 
 > **Habilidades e Talentos**
 > * **Matilha**: [[Talentos Gerais]].

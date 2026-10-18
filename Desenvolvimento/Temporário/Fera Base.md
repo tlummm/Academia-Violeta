@@ -56,7 +56,7 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 
 | **Vida** | **Foco** | **Velocidade** | **Fraqueza** | **Resistência** | **XP** |
 | :------: | :------: | :------------: | :----------- | :-------------- | :----: |
-|    9     |    7     |       11       | —            | —               |   20   |
+|    4     |    7     |       11       | —            | —               |   20   |
 
 > **Habilidades e Talentos**
 > * **Enxame** (**1d6**): [[Talentos Gerais]].
@@ -75,7 +75,7 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 
 | **Vida** | **Foco** | **Velocidade** | **Fraqueza** | **Resistência** | **XP** |
 | :------: | :------: | :------------: | :----------- | :-------------- | :----: |
-|    9     |    7     |       11       | —            | —               |   30   |
+|    4     |    7     |       11       | —            | —               |   30   |
 
 > **Habilidades e Talentos**
 > * **Veneno Próprio**: as suas **Ações de Ataque** que causam **Dano** aplicam 1 **Sangramento**.
@@ -94,7 +94,7 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 
 | **Vida** | **Foco** | **Velocidade** | **Fraqueza** | **Resistência** | **XP** |
 | :------: | :------: | :------------: | :----------- | :-------------- | :----: |
-|    13    |    8     |       7        | —            | —               |   40   |
+|    8     |    8     |       7        | —            | —               |   40   |
 
 > **Habilidades e Talentos**
 > * **Iniciativa**: [[Talentos Gerais]].
@@ -113,7 +113,7 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 
 | **Vida** | **Foco** | **Velocidade** | **Fraqueza** | **Resistência** | **XP** |
 | :------: | :------: | :------------: | :----------- | :-------------- | :----: |
-|    9     |    7     |       12       | —            | —               |   50   |
+|    4     |    7     |       12       | —            | —               |   50   |
 
 > **Habilidades e Talentos**
 > * **Matilha**: [[Talentos Gerais]].
