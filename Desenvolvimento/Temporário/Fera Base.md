@@ -156,14 +156,14 @@ O **Meio** diz por onde a **Criatura** anda. Ele vem de graça e não conta nas 
 
 | **Vida** | **Foco** | **Velocidade** | **Fraqueza** | **Resistência** | **XP** |
 | :------: | :------: | :------------: | :----------- | :-------------- | :----: |
-|   125    |    36    |       30       | —            | —               |  1000  |
+| 50 por **Personagem** | 18 por **Personagem** |       30       | —            | —               |  1000  |
 
 > **Habilidades e Talentos**
 > * **Matilha**: [[Talentos Gerais]].
 > * **Uivo**: [[Talentos Gerais]].
 > * **Chamado** (**Fase 2**): ao entrar na **Segunda Fase**, surgem **1d4** **Lobos** em casas da borda do **Tabuleiro** à escolha do **Mestre**. Eles agem logo depois do **Alfa**.
 
-<small>Maior que os outros, com o pelo do focinho já branco. Não é o mais forte da matilha por acaso: é o que voltou de todas as caçadas. Testa o <b>Chefe</b> (<b>Dois Turnos</b>, <b>Segunda Fase</b>) e um <b>Chefe</b> que fica mais perigoso com aliados.</small>
+<small>Maior que os outros, com o pelo do focinho já branco. Não é o mais forte da matilha por acaso: é o que voltou de todas as caçadas. Testa o <b>Chefe</b> (um <b>Turno</b> por <b>Personagem</b>, <b>Segunda Fase</b>) e um <b>Chefe</b> que fica mais perigoso com aliados.</small>
 
 ## Urso-Pardo
 

@@ -108,7 +108,7 @@ Um **Personagem** de **Nível** N tem, nas seis pontas, mais ou menos **22 + N**
 | :----------- | :----------------------------------- | :--------------------------------- | :------------------------------------- | :------------------------- |
 | **Normal**   | Metade do **Total**                  | **Ataque** + **Defesa**            | 5 + **Maestria** + **Espírito**        | 1 por **Grau** (mínimo 1)  |
 | **Elite**    | O **Total**                          | (10 + **Ataque** + **Defesa**) × 2 | 10 + **Maestria** + **Espírito**       | 2 por **Grau** (mínimo 2)  |
-| **Chefe**    | O **Total** × 1,5                    | (10 + **Ataque** + **Defesa**) × 5 | (10 + **Maestria** + **Espírito**) × 2 | 3 por **Grau** (mínimo 3)  |
+| **Chefe**    | O **Total** × 1,5                    | (10 + **Ataque** + **Defesa**) × 2 por **Personagem** | (10 + **Maestria** + **Espírito**) por **Personagem** | 3 por **Grau** (mínimo 3)  |
 | **Soberano** | Definido depois do **Limite Humano** | —                                  | —                                      | —                          |
 
 * **Velocidade**: 5 + **Precisão** + **Esquiva**, em todas as **Escalas**.
@@ -131,7 +131,8 @@ O **Mestre** distribui os pontos como quiser. Para ir rápido, use um molde (cad
 * **Normal**: morre ao chegar a 0 de **Vida** (veja [[Combate]]) e segue a **Moral**.
 * **Elite**: uma **Resistência** a um tipo de **Dano** ou a um [[Efeitos|Efeito]], à escolha do **Mestre**.
 * **Chefe** e **Soberano**:
-  * **Dois Turnos**: entra na fila duas vezes por **Rodada**, na sua **Velocidade** e na metade dela.
+  * **Um Turno por Personagem**: o primeiro na sua **Velocidade**, como qualquer **Unidade**. Cada um dos outros vem logo depois do **Turno** de um **Personagem**, na ordem da fila, até acabarem. Se sobrar algum (por **Personagens** caídos), ele vem no fim da **Rodada**.
+  * **Feito para o grupo**: a **Vida** e o **Foco** do **Chefe** dependem de quantos **Personagens** o enfrentam (veja a tabela). A ficha escreve o valor por **Personagem**.
   * **Segunda Fase**: quando a **Vida** chega à metade pela primeira vez, dissipa todos os **Efeitos** de **Atordoamento**, **Medo** e **Controle** que carrega e ganha a **Habilidade** ou o **Talento** marcado como **Fase 2** na ficha.
 
 ---
