@@ -17,9 +17,19 @@ A **Eficiência de Foco** mede quanto uma **Habilidade** ou um **Talento** entre
 
 O **Ranque 3** fica em 150% de número. O que ele ganha além disso vem em jogada nova: outro alvo, um gatilho ou mais usos por **Combate**, e não só um número maior.
 
+#### Talentos
+
+Os **Talentos** não custam **Foco** e seguem meta própria, medida como valor por **Rodada** ÷ 7,5:
+
+| **Ranque** | **Eficiência** |
+| :-: | :-: |
+| 1 | 25% |
+| 2 | 50% |
+| 3 | 75% |
+
 ### Área
 
-Uma **Habilidade** em **Área** causa **um terço** do **Dano** de uma **Habilidade** de alvo único com o mesmo **Foco** (Tlum, 2026-10-19).
+Uma **Habilidade** em **Área** causa **um terço** do **Dano** de uma **Habilidade** de alvo único com o mesmo **Foco**.
 
 | **Alvos atingidos** | **Total, comparado com o alvo único** | **Coluna de 5 alvos** |
 | :-: | :-: | :-: |
@@ -180,5 +190,3 @@ Sem custo. As **Ações de Ataque** contra você causam **1d4** a menos.
 * **Fora do Combate**: o que vale em [[Interpretação]] não entra na conta.
 * **Foco ganho e Foco gasto**: o **Foco** que uma **Habilidade** custa vale 7,5, porque adianta o **Exausto**. O **Foco** que ela dá ou devolve vale 3,75, porque só tira a metade de **Dano** que o **Exausto** perde. A [[Simulação 19_|Simulação 19]] mostrou que contar 7,5 nos dois superestima quem dá **Foco**.
 * **Os preços são ajustáveis**: se um valor parecer errado, muda-se a tabela e todas as **Habilidades** são recalculadas (script `Testes_/scripts/eficiencia_completa.py`, dicionário `PRECO`).
-
----

@@ -13,17 +13,6 @@ Recuperar skills do legado
 
 Skills de esgrima
 
-# Lista
-
-wow warrior //
-
-dnd warrior
-
-pathfinder warrior
-
-dungeon world warrior
-
-diablo barbarian
 
 # Guerreiro WoW
 
