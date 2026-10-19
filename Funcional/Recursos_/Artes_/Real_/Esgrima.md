@@ -37,11 +37,11 @@ Habilidade de Esgrima, Ofensivo e Mobilidade, Individual.
 
 **Precisão Normal** e **Custa** 2 pontos de **Foco**.
 
-Se o **Oponente** está a até 3 metros, você avança até ele em linha reta e causa metade do **Ataque** de **Dano**. Não pode ser usada com **Redução** de **Velocidade** ou **Enraizamento**.
+Se o **Oponente** está a até 3 metros, você avança até ele em linha reta, causa **Ataque** de **Dano** e ganha **1d4** **Aumento** de **Velocidade**. Não pode ser usada com **Redução** de **Velocidade** ou **Enraizamento**.
 
-Fora do [[Combate]], uma vez por [[Sessão]], com **Precisão Garantida**: começa o **Combate** à frente de qualquer **Unidade**.
+Fora do [[Combate]], uma vez por [[Sessão]], com **Precisão Garantida**: começa o **Combate** à frente de qualquer **Unidade**.
 
-**Ranque 2**: até 6 metros. **Ranque 3**: **Ataque** inteiro.
+**Ranque 2**: até 6 metros e **1d6** **Aumento**. **Ranque 3**: até 12 metros.
 
 <small>Todo esgrimista aprende primeiro a medir a distância, depois a encurtá-la. O passo curto e a lâmina estendida no mesmo instante fazem o adversário achar que estava longe demais para ser alcançado, até o fio chegar antes do aviso.</small>
 
@@ -53,9 +53,9 @@ Habilidade de Esgrima, Ofensivo, Toque.
 
 **Precisão Normal** e **Custa** 2 pontos de **Foco**.
 
-Causa **Ataque** de **Dano** no **Oponente**. Se a última **Ação de Ataque** ou **Principal** do **Alvo** foi contra outra **Unidade**, causa mais **1d6** de **Dano** e o **Foco** é devolvido.
+Causa um **Ataque**, somado a **2** mais **1d6** de **Dano** no **Oponente**. Se a última **Ação de Ataque** ou **Principal** do **Alvo** foi contra outra **Unidade**, causa **2** mais **1d6** de **Dano** de novo e o **Foco** é devolvido.
 
-**Ranque 2**: **1d12** ao invés de **1d6**. **Ranque 3**: também recupera 1 de **Foco**.
+**Ranque 2**: **1d12** ao invés de **1d6**, nos dois. **Ranque 3**: quando o **Alvo** atacou outra **Unidade**, também aplica **1d4** **Sangramento**.
 
 <small>Nos becos ninguém espera a sua vez. A adaga entra enquanto o outro olha para o lado errado, e quem ainda fala de honra costuma falar deitado.</small>
 
@@ -85,11 +85,11 @@ Os seus **Acertos Críticos** com **Adaga** também aplicam **1d4** **Sangrament
 
 Habilidade de Esgrima, Controle, Toque.
 
-**Precisão Normal** e **Custa** 4 pontos de **Foco**.
+**Precisão Normal** e **Custa** 2 pontos de **Foco**.
 
-Causa metade do **Ataque** de **Dano** no **Oponente**. A última **Habilidade** que o **Alvo** usou não pode ser usada de novo até o fim do [[Combate]]. Só uma **Habilidade** por vez fica presa por **Degolar**: usar de novo solta a anterior.
+Causa metade do **Ataque** de **Dano** no **Oponente**. A última **Habilidade** que o **Alvo** usou não pode ser usada de novo até o fim do [[Combate]]. Só uma **Habilidade** por vez fica presa por **Degolar**: usar de novo solta a anterior.
 
-**Ranque 2**: até duas **Habilidades**. **Ranque 3**: até três, e **Degolar** custa 1 a menos para cada **Habilidade** presa.
+**Ranque 2**: **Ataque** inteiro. **Ranque 3**: até duas **Habilidades** presas.
 
 <small>Golpe de guarda-costas e de duelistas que já viram um conjurador terminar uma frase. A lâmina vai direto à garganta, e mesmo quando não mata, a voz e a confiança demoram a voltar.</small>
 
@@ -119,11 +119,11 @@ As **Ações de Ataque** **Corpo a Corpo** contra você causam **1d4** a menos d
 
 Habilidade de Esgrima, Ofensivo e Mobilidade, Cone.
 
-**Precisão Normal** e **Custa** 3 pontos de **Foco**.
+**Precisão Normal** e **Custa** 3 pontos de **Foco**.
 
-Num **Cone** de 2 metros, que o **Alcance** não aumenta, causa metade do **Ataque** de **Dano** em cada **Oponente** atingido e o move 2 metros para a direita do **Cone**. Você ganha **1d4** **Aumento** de **Velocidade**.
+Num **Cone** de 2 metros, que o **Alcance** não aumenta, causa **2** mais metade do **Ataque** de **Dano** em cada **Oponente** atingido e o move 3 metros para a direita do **Cone**. Você ganha **1d6** **Aumento** de **Velocidade**.
 
-**Ranque 2**: **Cone** de 3 metros. **Ranque 3**: **1d6** **Aumento**.
+**Ranque 2**: **Cone** de 3 metros, e causa mais **1d4** de **Dano** em cada. **Ranque 3**: **Ataque** inteiro em cada, sem o **1d4**.
 
 <small>Os esgrimistas de punho duplo dão nome de lua aos seus cortes. O Crescente nasce baixo e sobe num arco largo, empurrando tudo à frente e usando o próprio impulso para lançar o corpo adiante.</small>
 
