@@ -50,7 +50,7 @@ Com **Foco** em 0 você fica **Exausto** até recuperar pelo menos 1 ponto:
 
 1. **Movimento** (1): anda 5 metros até o inimigo. **Foco** 25.
 2. **Ataque** (1): golpeia com a espada. **Foco** 24.
-3. **Principal** (5): usa uma técnica poderosa de [[Esgrima]] que custa 5. **Foco** 19.
+3. **Principal** (5): usa uma técnica poderosa de [[Esgrima_]] que custa 5. **Foco** 19.
 
 Nesse ritmo, Fulano aguenta três **Turnos** completos antes de precisar economizar. No quarto, ele seguir atacando até ficar **Exausto**, ou fugir do [[Combate]] para começar a se recuperar.
 

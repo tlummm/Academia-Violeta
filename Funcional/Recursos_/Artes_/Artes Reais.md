@@ -18,7 +18,7 @@ O que importa é o próprio corpo de quem pratica: o golpe, a postura, o movimen
 | [[Artilharia_]]    | Pólvora, canhões e armas de fogo rudimentares                        |
 | [[Atletismo_]]     | Correr, saltar, escalar, nadar e aguentar o cansaço                  |
 | [[Defesa_]]        | Escudos e armaduras: bloquear, aguentar e proteger quem está ao lado |
-| [[Esgrima]]       | Lâminas: espadas, sabres e adagas                                    |
+| [[Esgrima_]]       | Lâminas: espadas, sabres e adagas                                    |
 | [[Haste_]]         | Lanças, alabardas e tudo que luta pelo alcance corpo a corpo         |
 | [[Marcial_]]       | Luta sem armas: golpes, chaves e agarrões                            |
 

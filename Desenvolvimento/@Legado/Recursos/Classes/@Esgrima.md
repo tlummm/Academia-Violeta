@@ -1,4 +1,4 @@
-# O que é a [[Esgrima]]
+# O que é a [[@Esgrima]]
 
 A **Esgrima** é a [[Artes Reais|Arte Real]] das lâminas. É a técnica de quem luta de perto e confia no fio e na ponta da arma.
 

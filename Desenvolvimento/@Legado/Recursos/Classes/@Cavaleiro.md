@@ -1,4 +1,4 @@
-# O que é o [[Cavaleiro]]
+# O que é o [[@Cavaleiro]]
 
 O **Cavaleiro** é a [[Classes|Classe]] **Real** do **Ataque**: quem vence pela força das armas, aprende com cada inimigo que enfrenta e fica mais perigoso quanto mais ferido está.
 

@@ -3,12 +3,12 @@
 
 # O que são [[Artes]]
 
-Uma **Arte** é um conjunto de [[Habilidades e Talentos]] que qualquer **Personagem** pode aprender, se a sua [[Classes|Classe]] permitir. [[Esgrima]], [[Arquearia_]], [[Medicina_]] e [[Táticas_]] são exemplos. O que é uma **Arte** no mundo está em [[Artes]].
+Uma **Arte** é um conjunto de [[Habilidades e Talentos]] que qualquer **Personagem** pode aprender, se a sua [[Classes|Classe]] permitir. [[Esgrima_]], [[Arquearia_]], [[Medicina_]] e [[Táticas_]] são exemplos. O que é uma **Arte** no mundo está em [[Artes]].
 
 A diferença para o que vem da **Classe** é simples:
 
 * **Da Classe**: o **Talento Principal** e as **Habilidades** e **Talentos** únicos dela. Só quem é daquela **Classe** tem.
-* **De uma Arte**: [[Habilidades e Talentos]] compartilhados. Um [[Cavaleiro]] e um [[Ladrão_]] que aprendem [[Esgrima]] aprendem as mesmas técnicas.
+* **De uma Arte**: [[Habilidades e Talentos]] compartilhados. Um [[Cavaleiro_]] e um [[Ladrão_]] que aprendem [[Esgrima_]] aprendem as mesmas técnicas.
 
 > Duas [[Classes]] diferentes podem lutar usando a mesma **Arte**. O que muda entre elas são os **Atributos**, a **Classe** e a **Afinidade**.
 
@@ -37,7 +37,7 @@ As **Artes** de cada **Poder** estão listadas em:
 
 As **Artes** se separam pelo lugar onde o poder age:
 
-* **Interna**: o poder age através de quem pratica. Golpes, posturas, movimentos. Ex.: [[Esgrima]], [[Arquearia_]], [[Atletismo_]].
+* **Interna**: o poder age através de quem pratica. Golpes, posturas, movimentos. Ex.: [[Esgrima_]], [[Arquearia_]], [[Atletismo_]].
 * **Externa**: o poder age fora de quem pratica. Projeções, invocações, efeitos à distância. Ex.: uma oração que cura um aliado, uma maldição lançada num inimigo.
 
 ---
