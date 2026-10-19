@@ -262,3 +262,5 @@ Habilidade de Fera, Ofensivo, Projétil, Alcance 10.
 Causa **Ataque** de **Dano** e aplica 2 **Reduções** de **Velocidade** no **Alvo**.
 
 <small>Alto como duas portas, com a pele cheia de cicatrizes que fecham enquanto se olha para elas. Testa um <b>Oponente</b> que se cura sozinho (o grupo precisa causar mais <b>Dano</b> por <b>Rodada</b> do que ele recupera) e o primeiro <b>Poder</b> que leva vantagem sobre o <b>Real</b> pela natureza (<b>Selvagem</b> triplica contra <b>Real</b>).</small>
+
+---
