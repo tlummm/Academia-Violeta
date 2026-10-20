@@ -51,12 +51,12 @@ A **Função** diz em que a **Classe** é melhor, não o que ela pode fazer.
 
 As [[Artes Reais]] que cada **Classe** pode aprender:
 
-| **Classe**    | **Internas**                                                               | **Externas**                                                                                      |
-| :------------ | :------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| **Cavaleiro** | Todas                                                                      | [[Montaria_]], [[Táticas_]]                                                                       |
+| **Classe**    | **Internas**                                                                | **Externas**                                                                                      |
+| :------------ | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| **Cavaleiro** | Todas                                                                       | [[Linguística_]], [[Montaria_]], [[Táticas_]]                                                     |
 | **Guarda**    | [[Artilharia_]], [[Defesa_]], [[Esgrima_]], [[Haste_]], [[Marcial_]]        | [[Culinária_]], [[Linguística_]], [[Montaria_]], [[Sobrevivência_]], [[Táticas_]]                 |
-| **Doutor**    | [[Artilharia_]]                                                            | Todas                                                                                             |
-| **Louco**     | Todas                                                                      | Todas                                                                                             |
+| **Doutor**    | [[Artilharia_]]                                                             | Todas                                                                                             |
+| **Louco**     | Todas                                                                       | Todas                                                                                             |
 | **Vigia**     | [[Arquearia_]], [[Artilharia_]], [[Atletismo_]], [[Esgrima_]], [[Marcial_]] | [[Adestramento_]], [[Coleta_]], [[Culinária_]], [[Engenharia_]], [[Sobrevivência_]], [[Táticas_]] |
 | **Ladrão**    | [[Acrobacia_]], [[Atletismo_]], [[Esgrima_]]                                | [[Coleta_]], [[Linguística_]], [[Música_]], [[Química_]], [[Táticas_]], [[Trapaça_]]              |
 

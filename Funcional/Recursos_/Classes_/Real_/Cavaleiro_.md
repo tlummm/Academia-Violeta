@@ -1,9 +1,6 @@
-
----
-
 # O que é o [[Cavaleiro_]]
 
-O **Cavaleiro** é a [[Classes|Classe]] **Real** do **Ataque**: quem vence pela força das armas, aprende com cada inimigo que enfrenta e fica mais perigoso quanto mais ferido está.
+O **Cavaleiro** é a [[Classes|Classe]] **Real** do **Ataque**: quem vence pela força das armas, aprende com cada inimigo que enfrenta e fica mais forte a cada experiência de batalha.
 
 | **Poder** | **Matriz** | **Aspecto** | **Atributo** | **Função** |
 | :-------- | :--------- | :---------- | :----------- | :--------- |
@@ -11,11 +8,26 @@ O **Cavaleiro** é a [[Classes|Classe]] **Real** do **Ataque**: quem vence pela 
 
 ---
 
+# Perfil
+
+O **Cavaleiro** escolhe um alvo, avança e gasta tudo de uma vez para derrubá-lo antes que a luta se arraste.
+
+- **Mobilidade**: excelente. Alcança e persegue o alvo pelo campo.
+- **Defesa**: alta. Aguenta golpes pela armadura.
+- **Dano imediato**: muito alto, porém ao seu custo.
+- **Controle**: moderado. Prende e derruba, sem ser especialista.
+- **Dano contínuo**: fraco. Quando seus recursos acabam, o seu desempenho cai drasticamente.
+- **Suporte**: quase nenhum. Pouco ajuda aliados e quase não recupera recursos.
+- **Utilidade**: mínima. Tem poucas ferramentas além do combate.
+- **Interpretação**: limitada à cortesia de nobre, ao nome de família e aos idiomas.
+
+---
+
 # Acesso
 
-| **Internas**             | **Externas**                |
-| :----------------------- | :-------------------------- |
-| Todas as [[Artes Reais]] | [[Montaria_]], [[Táticas_]] |
+| **Internas**             | **Externas**                                  |
+| :----------------------- | :-------------------------------------------- |
+| Todas as [[Artes Reais]] | [[Linguística_]], [[Montaria_]], [[Táticas_]] |
 
 O **Cavaleiro** pode aprender qualquer **Arte Interna** e algumas **Externas**.
 
