@@ -19,15 +19,15 @@ O **Cavaleiro** escolhe um alvo, avança e gasta tudo de uma vez para derrubá
 - **Dano contínuo**: fraco. Quando seus recursos acabam, o seu desempenho cai drasticamente.
 - **Suporte**: quase nenhum. Pouco ajuda aliados e quase não recupera recursos.
 - **Utilidade**: mínima. Tem poucas ferramentas além do combate.
-- **Interpretação**: limitada à cortesia de nobre, ao nome de família e aos idiomas.
+- **Interpretação**: variável. Fora da guerra, o **Cavaleiro** não faz muito, mas carrega a classe e a boa comunicação de um nobre e, ao mesmo tempo, sabe se impor e se portar como um militar.
 
 ---
 
 # Acesso
 
-| **Internas**             | **Externas**                                  |
-| :----------------------- | :-------------------------------------------- |
-| Todas as [[Artes Reais]] | [[Linguística_]], [[Montaria_]], [[Táticas_]] |
+| **Internas**             | **Externas**                                                 |
+| :----------------------- | :----------------------------------------------------------- |
+| Todas as [[Artes Reais]] | [[Linguística_]], [[Montaria_]], [[Religião_]], [[Táticas_]] |
 
 O **Cavaleiro** pode aprender qualquer **Arte Interna** e algumas **Externas**.
 

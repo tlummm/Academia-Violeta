@@ -5,11 +5,11 @@
 
 Todo **Dano** tem um tipo. O tipo diz **o que mitiga** aquele **Dano** e **quem é mais fraco** contra ele. Existem três grandes grupos:
 
-| **Dano**    | **Vem de**                                          | **É mitigado por**                |
-| :---------- | :-------------------------------------------------- | :-------------------------------- |
-| **Físico**  | **Ataque**: golpes, armas, quedas, garras           | **Defesa**                        |
-| **Mágico**  | **Maestria**: **Habilidades** e [[@Itens]] dos **Poderes** anormais | **Espírito**          |
-| **Puro**    | Fontes raras, e todo **Dano** de [[Efeitos]]       | Nada                              |
+| **Dano**    | **Vem de**                                                          | **É mitigado por** |
+| :---------- | :------------------------------------------------------------------ | :----------------- |
+| **Físico**  | **Ataque**: golpes, armas, quedas, garras                           | **Defesa**         |
+| **Anormal** | **Maestria**: **Habilidades** e [[@Itens]] dos **Poderes** anormais | **Espírito**       |
+| **Puro**    | Fontes raras, e todo **Dano** de [[Efeitos]]                        | Nada               |
 
 > **Defesa** e **Espírito** estão em [[Atributos]]. Cada 2 pontos mitigam 1 de **Dano**: um golpe de 5 contra **Defesa** 4 causa 3; uma **Habilidade** de 5 contra **Espírito** 4 também causa 3.
 
@@ -33,7 +33,7 @@ Cada arma diz o seu tipo (veja [[@Equipamentos]]). O tipo importa contra **Unida
 
 ---
 
-# Dano Mágico
+# Dano Anormal
 
 O **Dano** que vem dos quatro **Poderes** anormais (veja [[Cinco Poderes]]). O tipo é o próprio **Poder**:
 
@@ -88,8 +88,8 @@ Algumas **Unidades** têm **Fraqueza** ou **Resistência** a um tipo (**Corte**,
 
 # A conta, na ordem
 
-1. **Dano Base**: o **Ataque** (**Físico**) ou a **Eficiência** da **Habilidade** ou do **Item** (**Mágico**). Um **Acerto Crítico** dobra este número (e também **Eficiências** e [[Efeitos]], veja [[Combate]]).
-2. **Mitigação**: tire a metade da **Defesa** (**Físico**) ou do **Espírito** (**Mágico**), arredondada para baixo, e o que **Habilidades** e **Talentos** do alvo mitigarem. **Puro** pula esta etapa.
+1. **Dano Base**: o **Ataque** (**Físico**) ou a **Eficiência** da **Habilidade** ou do **Item** (**Anormal**). Um **Acerto Crítico** dobra este número (e também **Eficiências** e [[Efeitos]], veja [[Combate]]).
+2. **Mitigação**: tire a metade da **Defesa** (**Físico**) ou do **Espírito** (**Anormal**), arredondada para baixo, e o que **Habilidades** e **Talentos** do alvo mitigarem. **Puro** pula esta etapa.
 3. **Mínimo**: se ficar abaixo de 1, o **Dano** é **1**.
 4. **Multiplicadores**: **Poder contra Poder**, **Fraqueza** e **Resistência**. Multiplique todos e arredonde para baixo, sem cair abaixo de 1 (só a **Imunidade** zera).
 

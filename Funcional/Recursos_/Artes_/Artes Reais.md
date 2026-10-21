@@ -40,6 +40,7 @@ O que importa é o que é feito fora do corpo: o animal montado, o material cole
 | [[Montaria_]]      | O animal montado: conduzir, cuidar e lutar sobre ele                                     |
 | [[Música_]]        | Ritmo e canto que dão fôlego aos aliados                                                 |
 | [[Química_]]       | Produzir remédios, antídotos, venenos, pólvora e outros materiais manufaturados          |
+| [[Religião_]]      | conhecer fé, tradição, deuses e cultos, conduzir ritos e identificar o que é da crença   |
 | [[Sobrevivência_]] | Conhecer a natureza: rastrear, caçar, acampar e se orientar                              |
 | [[Táticas_]]       | Comandos, formações e estandartes que movem os aliados                                   |
 | [[Trapaça_]]       | Furtar, enganar, subornar e abrir fechaduras                                             |

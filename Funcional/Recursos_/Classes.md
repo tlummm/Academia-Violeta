@@ -53,7 +53,7 @@ As [[Artes Reais]] que cada **Classe** pode aprender:
 
 | **Classe**    | **Internas**                                                                | **Externas**                                                                                      |
 | :------------ | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| **Cavaleiro** | Todas                                                                       | [[Linguística_]], [[Montaria_]], [[Táticas_]]                                                     |
+| **Cavaleiro** | Todas                                                                       | [[Linguística_]], [[Montaria_]], [[Religião_]], [[Táticas_]]                                      |
 | **Guarda**    | [[Artilharia_]], [[Defesa_]], [[Esgrima_]], [[Haste_]], [[Marcial_]]        | [[Culinária_]], [[Linguística_]], [[Montaria_]], [[Sobrevivência_]], [[Táticas_]]                 |
 | **Doutor**    | [[Artilharia_]]                                                             | Todas                                                                                             |
 | **Louco**     | Todas                                                                       | Todas                                                                                             |
