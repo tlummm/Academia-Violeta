@@ -30,12 +30,12 @@ O **Cavaleiro** escolhe um alvo, avança e gasta tudo de uma vez para derrubá
 
 Além dos pontos de cada **Nível** (veja [[Progressão]]), o **Cavaleiro** recebe sem custo:
 
-| **Nível**                          | **Ganha**                                                                         |
-| :--------------------------------- | :-------------------------------------------------------------------------------- |
-| 1                                  | **Talento Principal**: **Cicatrizes**, além de uma **Arte** inicial à escolha     |
-| 10, 20, 30, 40, 50, 60, 70, 80, 90 | Um [[Talentos Gerais\|Talento Geral]] **São**                                     |
-| 25, 50, 75                         | Uma **Arte** nova à escolha                                                       |
-| 99                                 | Evolução do **Talento Principal**, **Cicatrização Completa**                      |
+| **Nível**                          | **Ganha**                                                    |
+| :--------------------------------- | :----------------------------------------------------------- |
+| 1                                  | **Talento Principal**: **Cicatrizes**                        |
+| 1, 25, 50, 75, 99                  | Uma **Arte** nova à escolha                                  |
+| 10, 20, 30, 40, 50, 60, 70, 80, 90 | Um [[Talentos Gerais\|Talento Geral]] **São**                |
+| 99                                 | Evolução do **Talento Principal**, **Cicatrização Completa** |
 
 * **Arte nova**: escolha uma **Arte** que você ainda não tem e aprenda de graça uma **Habilidade** ou um **Talento** do **Grau 0** dela, além de estar liberada para aprender suas [[Habilidades e Talentos]].
 * **Treino de Combate**: cada **Ponto de Aprendizado** gasto numa **Arte Interna** vale por dois. Você aprende duas **Habilidades** ou **Talentos** dela em vez de um, dentro do **Teto** do seu **Grau**.
