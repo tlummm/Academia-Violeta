@@ -3,7 +3,9 @@
 
 # A fazer
 
-rever complexidade do calculo de foco ()
+Texto.
+
+---
 
 # Guerreiro WoW
 
