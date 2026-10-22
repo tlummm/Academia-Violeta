@@ -38,6 +38,7 @@ Além dos pontos de cada **Nível** (veja [[Progressão]]), o **Cavaleiro** rece
 | 99                                 | Evolução do **Talento Principal**, **Cicatrização Completa**                      |
 
 * **Arte nova**: escolha uma **Arte** que você ainda não tem e aprenda de graça uma **Habilidade** ou um **Talento** do **Grau 0** dela, além de estar liberada para aprender suas [[Habilidades e Talentos]].
+* **Treino de Combate**: cada **Ponto de Aprendizado** gasto numa **Arte Interna** vale por dois. Você aprende duas **Habilidades** ou **Talentos** dela em vez de um, dentro do **Teto** do seu **Grau**.
 
 ---
 
