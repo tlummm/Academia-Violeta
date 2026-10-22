@@ -34,16 +34,17 @@ Cada **Cuidado** pode ser cumprido em três níveis:
 
 # [[Medicina_]] e [[Efeitos]]
 
-Os [[Efeitos]] negativos **não passam com o tempo**. Um **Sangramento**, uma **Redução** ou um **Silêncio** ficam no **Personagem** até alguém tratá-los. Por isso a **Medicina** é o **Cuidado** mais importante do grupo.
+Os [[Efeitos]] comuns passam sozinhos com o tempo, mas os **Permanentes** não: um olho perdido, um nervo cortado ou uma maldição selada ficam no **Personagem** até alguém tratá-los. Por isso a **Medicina** é o **Cuidado** mais importante do grupo.
 
 | **Nível**       | **Recupera Vida** | **Remove**                                      |
 | :-------------- | :---------------: | :---------------------------------------------- |
-| **Tratamento**  | Sim               | **Efeitos** de **Dissipação Fraca**             |
-| **Diagnóstico** | Sim               | **Efeitos** de **Dissipação Fraca**, **Normal** e **Forte** |
+| **Tratamento**  | Sim               | Nenhum **Efeito Permanente**                    |
+| **Diagnóstico** | Sim               | **Efeitos Permanentes** **Fracos** e **Normais** |
 
 * **Diagnóstico** é o que permite tratar o que não está na pele. Quem tem [[Medicina_]] no **Grau 1** ou mais descobre o que o paciente tem e trata a causa.
-* **Tratamento** vale também num **Descanso Breve**: remove **Efeitos** de **Dissipação Fraca** mesmo assim. **Diagnóstico** num **Breve** conta como **Tratamento**.
-* **Efeitos** de **Dissipação Verdadeira** (**Controle**, **Medo**, **Polimorfia**) não saem com **Medicina**. Só com **Itens** raros ou, no futuro, com [[Artes]] de cura dos outros [[Cinco Poderes]].
+* O **Efeito Permanente** pede **Dissipação** de um nível acima do seu (veja [[Efeitos]]). Por isso o **Tratamento** (**Dissipação Fraca**) não tira nenhum, e o **Diagnóstico** (**Dissipação Forte**) tira os **Fracos** e **Normais**.
+* **Tratamento** vale também num **Descanso Breve**. **Diagnóstico** num **Breve** conta como **Tratamento**.
+* **Efeitos Permanentes** **Fortes** e **Verdadeiros** não saem com **Medicina**. Só com **Itens** raros ou, no futuro, com [[Artes]] de cura dos outros [[Cinco Poderes]].
 
 > **Medicina** nunca é cumprida por quem está sendo tratado. Quem tem [[Medicina_]] e se fere precisa de outro aliado, ou de um **Item**.
 
@@ -51,7 +52,7 @@ Os [[Efeitos]] negativos **não passam com o tempo**. Um **Sangramento**, uma **
 
 # Exemplo
 
-O grupo de **Fulano** tem quatro **Personagens** e acampa numa ruína depois de uma luta. **Fulano** está com 1 **Sangramento** (**Dissipação Fraca**) e 1 **Silêncio** (**Dissipação Normal**).
+O grupo de **Fulano** tem quatro **Personagens** e acampa numa ruína depois de uma luta. **Fulano** saiu dela com 1 **Sangramento Permanente** (**Fraco**) e 1 **Silêncio Permanente** (**Normal**).
 
 * **Sono**: não há camas na ruína, mas **Beltrano** tem [[Sobrevivência_]] e monta um **Acampamento**. ✓ **Avançado**
 * **Alimentação**: **Ciclana** tem [[Culinária_]]: faz **Banquete** para dois (ela e **Fulano**); os outros dois comem uma **Refeição**. ✓
@@ -61,6 +62,6 @@ O grupo de **Fulano** tem quatro **Personagens** e acampa numa ruína depois de 
 
 **Beltrano**, **Ciclana** e **Deltrana** usaram o seu único **Cuidado Avançado** da noite. Todos fazem um **Descanso Apropriado**. **Fulano** perde o **Sangramento** e o **Silêncio**, e ele e **Ciclana** recebem bônus variados do **Cuidado Avançado**.
 
-Sem **Deltrana**, um **Item** de cura daria só **Tratamento**: o **Sangramento** sairia, mas **Fulano** seguiria sem usar **Habilidades** até achar quem fizesse o **Diagnóstico**.
+Sem **Deltrana**, um **Item** de cura daria só **Tratamento**: **Fulano** recuperaria **Vida**, mas seguiria sangrando e sem usar **Habilidades** até achar quem fizesse o **Diagnóstico**.
 
 ---

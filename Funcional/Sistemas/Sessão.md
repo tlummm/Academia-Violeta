@@ -38,7 +38,7 @@ Só o que diz **Sessão** na própria regra:
 * A **Atenção** acaba (veja [[Efeitos]]).
 * O **Lazer** básico, assim como outras atividades únicas, pode ser repetido (veja [[Cuidados]]).
 
-**Nada mais volta.** Terminar a **Sessão** não é **Descanso**: a **Vida** e o **Foco** continuam onde estavam, os [[Efeitos]] negativos continuam até serem dissipados e os **Consumidos** que sobraram (**Audácia**, **Barreira**...) continuam com quem os tem.
+**Nada mais volta.** Terminar a **Sessão** não é **Descanso**: a **Vida** e o **Foco** continuam onde estavam, os [[Efeitos]] **Permanentes** continuam até serem dissipados e os **Consumidos** que sobraram (**Audácia**, **Barreira**...) continuam com quem os tem.
 
 ---
 

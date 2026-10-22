@@ -25,7 +25,7 @@ Cada **Turno** tem três partes, sempre nesta ordem:
 
 1. **Início do Turno**: os [[Efeitos]] que estão em você agem. Um **Sangramento** tira **Vida**, uma **Regeneração** devolve. Os **Atributos Secundários** de **Concentração** e **Regeneração** também agem aqui.
 2. **Ações**: você faz até três [[Ações]] (**Movimento**, **Ataque** e **Principal**), uma de cada, na ordem que quiser, pagando o **Foco** de cada uma. Pode pular as que não quiser.
-3. **Fim do Turno**: nada some. Os [[Efeitos]] **não** diminuem com o tempo: um **Efeito** negativo só sai com tratamento (veja [[Cuidados]]), e um positivo só sai quando é consumido ou quando o **Combate** acaba.
+3. **Fim do Turno**: cada [[Efeitos|Efeito]] em você perde 1 **Acúmulo**. Os **Permanentes** e os **Consumidos** não perdem (veja [[Efeitos]]).
 
 > Passar o **Turno** inteiro também é uma escolha. Você não gasta **Foco**, mas os [[Efeitos]] do **Início do Turno** acontecem do mesmo jeito.
 
@@ -82,8 +82,8 @@ Quando a **Vida** chega a 0, a **Unidade** fica **Caída**:
 
 * **Ordem**: **Ciclana** (7), **Fulano** (5, ganha o empate por ser **Jogador**) e a **Fera** (5).
 * **Ciclana** anda e usa uma **Habilidade** de [[Táticas_]].
-* **Fulano** está com 1 **Sangramento** desde a luta anterior: no **Início do Turno** perde 1 de **Vida**. Depois anda até a **Fera** e ataca: rola 7, + 3 − 1 = **9**, acerta (**Normal** 8). **Dano** 6 − 1 (metade da **Defesa** 2) = **5**. A **Fera** fica com 7.
-* No **Fim do Turno**, o **Sangramento** de **Fulano** continua. Ele vai perder 1 de **Vida** a cada **Turno** até alguém tratá-lo.
+* **Fulano** sofreu 2 **Sangramento** no **Turno** anterior: no **Início do Turno** perde 2 de **Vida**. Depois anda até a **Fera** e ataca: rola 7, + 3 − 1 = **9**, acerta (**Normal** 8). **Dano** 6 − 1 (metade da **Defesa** 2) = **5**. A **Fera** fica com 7.
+* No **Fim do Turno**, o **Sangramento** de **Fulano** perde 1 **Acúmulo**. No próximo **Turno** ele perde só 1 de **Vida**, e o **Sangramento** sai.
 * **Fera** ataca **Fulano** e rola 1: **Erro Crítico**, o **Turno** dela acaba ali.
 
 ---

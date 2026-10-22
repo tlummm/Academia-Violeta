@@ -59,7 +59,7 @@ As três linhas são calculadas, nunca distribuídas:
 
 Todo [[Efeitos|Efeito]] ativo com a quantidade. Exemplo: **2 de Sangramento**.
 
-> Efeitos negativos ficam até serem tratados. Uma linha nesta seção é um problema a resolver antes do próximo **Combate**.
+> Fora do **Combate**, só sobram os **Efeitos Permanentes** e os **Consumidos**. Os negativos ficam até serem tratados. Uma linha nesta seção é um problema a resolver antes do próximo **Combate**.
 
 ---
 
