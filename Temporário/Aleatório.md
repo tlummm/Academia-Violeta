@@ -3,8 +3,6 @@
 
 # A fazer
 
-rever efeitos
-
 remoção do acesso
 
 rever complexidade do calculo de foco ()

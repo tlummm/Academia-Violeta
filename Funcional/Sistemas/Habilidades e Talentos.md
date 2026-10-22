@@ -10,7 +10,7 @@ São as técnicas, golpes, conjurações e truques de uma **Unidade**: o que ela
 
 De onde elas vêm:
 
-* **Das [[Lista de Artes|Artes]]**: a maioria. Quem aprende uma **Arte** ganha as **Habilidades** e **Talentos** de cada **Grau** que alcança, e qualquer **Classe** com acesso àquela **Arte** aprende as mesmas.
+* **Das [[Lista de Artes|Artes]]**: a maioria. Quem aprende uma **Arte** ganha as **Habilidades** e **Talentos** de cada **Grau** que alcança, e qualquer **Classe** que aprenda aquela **Arte** aprende as mesmas.
 * **Da [[Classes|Classe]]**: o **Talento Principal** e algumas **Habilidades** e **Talentos** únicos, que só aquela **Classe** tem.
 * **De [[@Itens]], Monstros e Estruturas**: uma espada encantada, uma fera ou uma torre também podem ter as suas.
 

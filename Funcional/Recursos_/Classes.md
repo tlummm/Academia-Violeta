@@ -1,14 +1,17 @@
 
 ---
+
 # O que são as [[Classes]]
 
-A **Classe** é a decisão central da [[Ficha]]: diz quem o **Personagem** é em combate, quais [[Lista de Artes|Artes]] ele pode aprender e qual **Talento Principal** ele tem. Ela é escolhida na [[Criação de Personagem]] e não muda.
+A **Classe** é a decisão central da [[Ficha]]: diz quem o **Personagem** é em combate, em que ele se destaca e qual **Talento Principal** ele tem. Ela é escolhida na [[Criação de Personagem]] e não muda.
 
 Uma **Classe** dá três coisas:
 
-1. **Acesso**: a lista de **Artes** que ela pode aprender. O que não está na lista, nunca.
-2. **Talento Principal**: recebido no **Nível 1**, só dela.
-3. **Habilidades** e **Talentos** únicos: só dela. Uns de graça nos **Níveis** escritos na página da **Classe**, outros com pontos (veja [[Progressão]]).
+1. **Talento Principal**: recebido no **Nível 1**, só dela.
+2. **Habilidades** e **Talentos** únicos: só dela. Uns de graça nos **Níveis** escritos na página da **Classe**, outros com pontos (veja [[Progressão]]).
+3. **Vantagens em Artes**: a **Classe** pode dar benefícios a quem aprende certas [[Lista de Artes|Artes]]. A página de cada **Classe** diz quais.
+
+> A **Classe** não limita as **Artes**: qualquer **Personagem** aprende qualquer **Arte** do seu **Poder** e as [[Artes Reais]] (veja [[Lista de Artes]]).
 
 > A **Classe** não carrega as técnicas de uma **Arte**. Um [[Cavaleiro_]] e um [[Ladrão_]] que aprendem [[Esgrima_]] aprendem os mesmos golpes; o que muda é o que cada um faz com eles.
 
@@ -44,21 +47,6 @@ A **Função** é o papel que a **Classe** cumpre melhor num grupo:
 4. **Outros**: ferramentas e capacidades além das convenções.
 
 A **Função** diz em que a **Classe** é melhor, não o que ela pode fazer.
-
----
-
-# Acesso
-
-As [[Artes Reais]] que cada **Classe** pode aprender:
-
-| **Classe**    | **Internas**                                                                | **Externas**                                                                                      |
-| :------------ | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| **Cavaleiro** | Todas                                                                       | [[Linguística_]], [[Montaria_]], [[Religião_]], [[Táticas_]]                                      |
-| **Guarda**    | [[Artilharia_]], [[Defesa_]], [[Esgrima_]], [[Haste_]], [[Marcial_]]        | [[Culinária_]], [[Linguística_]], [[Montaria_]], [[Sobrevivência_]], [[Táticas_]]                 |
-| **Doutor**    | [[Artilharia_]]                                                             | Todas                                                                                             |
-| **Louco**     | Todas                                                                       | Todas                                                                                             |
-| **Vigia**     | [[Arquearia_]], [[Artilharia_]], [[Atletismo_]], [[Esgrima_]], [[Marcial_]] | [[Adestramento_]], [[Coleta_]], [[Culinária_]], [[Engenharia_]], [[Sobrevivência_]], [[Táticas_]] |
-| **Ladrão**    | [[Acrobacia_]], [[Atletismo_]], [[Esgrima_]]                                | [[Coleta_]], [[Linguística_]], [[Música_]], [[Química_]], [[Táticas_]], [[Trapaça_]]              |
 
 ---
 

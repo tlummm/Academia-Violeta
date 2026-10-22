@@ -74,7 +74,7 @@ O **Inventário** de um **Personagem** tem **5 espaços**. Ali ficam as [[@Ferra
 
 # Exemplo
 
-**Fulano** é um **Náufrago** de um mundo de cidades muradas. Escolhe o **Poder Real** e uma **Classe** com acesso a [[Esgrima_]].
+**Fulano** é um **Náufrago** de um mundo de cidades muradas. Escolhe o **Poder Real**, uma **Classe** e a [[Esgrima_]] como primeira **Arte**.
 
 * **Atributos**: começa com 2 em cada ponta e distribui os 10 pontos: +3 **Ataque**, +2 **Defesa**, +2 **Precisão**, +1 **Esquiva**, +1 **Maestria**, +1 **Espírito**.
 

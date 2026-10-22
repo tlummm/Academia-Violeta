@@ -1,3 +1,6 @@
+
+---
+
 # O que é o [[Cavaleiro_]]
 
 O **Cavaleiro** é a [[Classes|Classe]] **Real** do **Ataque**: quem vence pela força das armas, aprende com cada inimigo que enfrenta e fica mais forte a cada experiência de batalha.
@@ -23,25 +26,15 @@ O **Cavaleiro** escolhe um alvo, avança e gasta tudo de uma vez para derrubá
 
 ---
 
-# Acesso
-
-| **Internas**             | **Externas**                                                 |
-| :----------------------- | :----------------------------------------------------------- |
-| Todas as [[Artes Reais]] | [[Linguística_]], [[Montaria_]], [[Religião_]], [[Táticas_]] |
-
-O **Cavaleiro** pode aprender qualquer **Arte Interna** e algumas **Externas**.
-
----
-
 # Ganhos de graça
 
 Além dos pontos de cada **Nível** (veja [[Progressão]]), o **Cavaleiro** recebe sem custo:
 
 | **Nível**                          | **Ganha**                                                                         |
 | :--------------------------------- | :-------------------------------------------------------------------------------- |
-| 1                                  | **Talento Principal**: **Cicatrizes**, além de uma **Arte** inicial do **Acesso** |
+| 1                                  | **Talento Principal**: **Cicatrizes**, além de uma **Arte** inicial à escolha     |
 | 10, 20, 30, 40, 50, 60, 70, 80, 90 | Um [[Talentos Gerais\|Talento Geral]] **São**                                     |
-| 25, 50, 75                         | Uma **Arte** nova do **Acesso**                                                   |
+| 25, 50, 75                         | Uma **Arte** nova à escolha                                                       |
 | 99                                 | Evolução do **Talento Principal**, **Cicatrização Completa**                      |
 
 * **Arte nova**: escolha uma **Arte** que você ainda não tem e aprenda de graça uma **Habilidade** ou um **Talento** do **Grau 0** dela, além de estar liberada para aprender suas [[Habilidades e Talentos]].
@@ -80,3 +73,6 @@ Só o **Cavaleiro** aprende estes, com **Pontos de Aprendizado** e **Aprimoramen
 
 ## Grau 0 (Novato)
 
+Texto.
+
+---

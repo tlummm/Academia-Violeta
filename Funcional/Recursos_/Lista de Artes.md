@@ -63,11 +63,10 @@ Toda **Arte** sobe em **Graus**, que acompanham os **Níveis** do **Personagem**
 
 # Classe e Arte
 
-A **Classe** não carrega as técnicas de uma **Arte**: ela diz quais você pode aprender, sempre dentro do seu **Poder** (e das [[Artes Reais]]). Isso aparece na página de cada **Classe** em três partes:
+A **Classe** não carrega as técnicas de uma **Arte** e não limita quais você aprende. Qualquer **Personagem** pode aprender qualquer **Arte** do seu **Poder** e as [[Artes Reais]].
 
-1. **Acesso**: a lista de [[Artes]] que a **Classe** pode aprender. Pode citar uma por uma ou uma **Família** inteira ("todas de **Armas**"). O que não está na lista, a **Classe** nunca aprende.
-2. **Afinidade**: algumas [[Artes]] da lista combinam com a **Classe**, podendo receber benefícios adicionais.
-3. **Limite**: um **Grau** máximo para uma **Arte** da lista. Ex.: um **Classe** pode aprender **Escudos**, mas só até o **Grau 3**.
+* **Vantagens**: a **Classe** pode dar benefícios a quem aprende certas **Artes**. Ex.: o [[Cavaleiro_]] pode ter um bônus para quem aprende [[Linguística_]].
+* **Mesmas técnicas**: um [[Cavaleiro_]] e um [[Ladrão_]] que aprendem [[Esgrima_]] aprendem os mesmos golpes; o que muda é o que cada **Classe** soma a eles.
 
 ---
 

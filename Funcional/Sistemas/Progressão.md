@@ -29,7 +29,7 @@ Os 99 **Níveis** se dividem em dez **Graus**, de 10 em 10. O **Grau** do **Pers
 | 90 a 99    | 9        | Lenda        |
 
 * **Teto das Habilidades**: um **Personagem** só aprende **Habilidades** e **Talentos** de **Grau** igual ou menor que o seu. Chegar ao **Nível 10** abre as de **Grau 1**, o **Nível 20** abre as de **Grau 2**, e assim por diante.
-* **Acesso**: só das [[Lista de Artes|Artes]] que a [[Classes|Classe]] permite, dentro do seu **Poder**.
+* **Poder**: só das [[Lista de Artes|Artes]] do seu **Poder** e das [[Artes Reais]]. A [[Classes|Classe]] não limita quais.
 
 ---
 
@@ -90,7 +90,7 @@ Vai para uma das seis pontas: **Ataque**, **Defesa**, **Maestria**, **Espírito*
 
 ### Ponto de Aprendizado
 
-Aprende uma **Habilidade** ou um **Talento** novo, dentro do **Teto** e do **Acesso** (acima). Toda **Habilidade** aprendida começa no **Ranque 1**.
+Aprende uma **Habilidade** ou um **Talento** novo, dentro do **Teto** e do **Poder** (acima). Toda **Habilidade** aprendida começa no **Ranque 1**.
 
 ### Ponto de Aprimoramento
 
