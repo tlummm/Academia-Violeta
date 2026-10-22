@@ -172,11 +172,15 @@ O **Efeito Permanente** não perde **Acúmulo**, dura o **Combate** inteiro e ai
 | **Teste Normal** vencido sem rolar | 1 **Foco** |
 | **Teste Difícil** vencido sem rolar | 1,37 **Foco** |
 | **Teste Improvável** vencido sem rolar | 2,14 **Foco** |
-| +1 no **d20** de um **Teste** | 0,05 **Foco** |
+| +1 no **d20** de um **Teste** (1 aumento no **Modificador**) | 0,05 **Foco** |
+| Uma capacidade nova | 0,2 **Foco** |
+| Cinco capacidades novas ou mais | 1 **Foco** |
 
 * **Abrir uma fechadura comum** (**Teste Normal** de [[Trapaça_]]): uma **Habilidade** de 1 **Foco** que abre sem rolar vale **100%**.
+* **Capacidade**: algo que o **Personagem** passa a saber fazer, e que sem o **Talento** não faria ou faria mal: servir à mesa como um nobre, reconhecer brasões, acompanhar um rito. Saber fazer quer dizer não rolar **Testes Normais** daquilo: consegue sempre. Por isso esses **Testes** não somam à parte; já estão no preço da capacidade. Cada uma vale 0,2 **Foco**; cinco ou mais valem **100%**, e acima disso não sobe mais.
 * **O resto nos Ranques**: mais **Testes**, **Testes** mais difíceis e outros usos entram nos **Ranques** da **Habilidade** ou do **Talento**.
 * **Talento** de **Interpretação**: conta quantos **Testes** do tipo aparecem numa **Sessão**. Tipo amplo (comunicação, força): cerca de 3. Tipo estreito (**Religião**, **Música**): cerca de 1.
+* **Exemplo**: um **Talento** que concede cinco capacidades de nobre e 1 aumento no **Modificador** para elas, num tipo amplo, vale 1 + 3 × 0,05 = **115%**.
 
 ---
 

@@ -74,6 +74,14 @@ Só o **Cavaleiro** aprende estes, com **Pontos de Aprendizado** e **Aprimoramen
 
 ## Grau 0 (Novato)
 
-Texto.
+### Nobreza
 
----
+Talento do Cavaleiro, Utilidade.
+
+Você se porta como um nobre: fala com respeito, usa as palavras e os títulos corretos, serve à mesa, corteja, dança e segue o protocolo de uma corte. Nessas [[Ações]], você não rola **Testes Normais**: consegue sempre.
+
+**Ranque 2**: nessas [[Ações]], você tem 2 aumentos no **Modificador** de [[Interpretação]].
+
+**Ranque 3**: com **Nobres** ou seres de **Alto Cargo**, o aumento é dobrado, para 4.
+
+<small>Um cavaleiro serve a uma casa e precisa saber se portar dentro dela. Junto com a espada, o pajem aprende a servir à mesa de quem o treina, a lembrar o título de cada convidado e a dançar nos salões sem envergonhar quem o armou.</small>

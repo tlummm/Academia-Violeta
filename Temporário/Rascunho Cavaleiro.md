@@ -2,13 +2,17 @@
 
 ### Talento
 
-**Etiqueta**: você tem bons modos como boa educação, falar com respeito, saber servir a mesa, palavras rebuscadas e o cortejo. Ganha 1 modificador em jogadas de interpretação em comunicação ou interação com seres racionais. Esse modificador é dobrado para nobres ou seres em ocupação de cargo alto.
+**Nobreza**: você se porta como um nobre, também sabendo: falar com respeito; usar palavras e títulos corretos; servir a mesa; cortejar e dançar; seguir o protocolo de uma corte. Nessas [[Ações]] você também tem 1 aumento no **Modificador** de [[Interpretação]].
 
-**Nobreza**: você tem conhecimentos básicos sobre algo que um nobre deveria saber como [[Linguística_]], [[Música_]], [[Economia]] e entre outros. Ganha 1 modificador em jogadas de interpretação nesse tipo de atividade, dobrado quando uma plateia, nobres ou figuras de alto cargo estão observando.
+Ranque 2: essas [[Ações]] contra outros **Nobres** ou seres em **Alto Cargo** o modificador é dobrado.
 
-**Religião Básica**: você conhece alguns fundamentos de [[Religião_]], como saber algumas rezas, orações ou lembrar trechos de escrituras. Ganha 1 modificador em jogadas de interpretação dessa atividade, dobrado quando com um auxílio de algum membro religioso.
+Ranque 3: até um aliado que está com você ganha os benefícios de **Nobreza** no **Ranque 2**.
 
-**Punho Firme**: quando você segura uma arma de duas mãos, ou uma de uma mão com a segunda mão vazia, você pode aumentar o **Dano** de seus **Ataques** em **1dX** porém custando **X** de foco adicional.
+**Boa Educação**: 
+
+**Religião Básica**: 
+
+**Punho Firme**: 
 
 **Cavalaria e Falcoaria**: 
 
