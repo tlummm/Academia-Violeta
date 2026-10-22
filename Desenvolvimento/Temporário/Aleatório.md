@@ -5,7 +5,9 @@
 
 rever efeitos
 
-complexidade do calculo de foco
+remoção do acesso
+
+rever complexidade do calculo de foco ()
 
 # Guerreiro WoW
 
