@@ -3,8 +3,6 @@
 
 # A fazer
 
-remoção do acesso
-
 rever complexidade do calculo de foco ()
 
 # Guerreiro WoW

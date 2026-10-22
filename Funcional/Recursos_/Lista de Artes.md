@@ -10,7 +10,7 @@ A diferença para o que vem da **Classe** é simples:
 * **Da Classe**: o **Talento Principal** e as **Habilidades** e **Talentos** únicos dela. Só quem é daquela **Classe** tem.
 * **De uma Arte**: [[Habilidades e Talentos]] compartilhados. Um [[Cavaleiro_]] e um [[Ladrão_]] que aprendem [[Esgrima_]] aprendem as mesmas técnicas.
 
-> Duas [[Classes]] diferentes podem lutar usando a mesma **Arte**. O que muda entre elas são os **Atributos**, a **Classe** e a **Afinidade**.
+> Duas [[Classes]] diferentes podem lutar usando a mesma **Arte**. O que muda entre elas são os **Atributos**, a **Classe** e as vantagens que ela dá em cada **Arte**.
 
 ---
 
