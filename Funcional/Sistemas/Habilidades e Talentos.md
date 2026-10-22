@@ -35,7 +35,7 @@ Toda **Habilidade** tem a mesma ficha. O que ela não diz, segue o padrão da ta
 ### Dano e Eficiência
 
 * **Dano Físico**: a **Habilidade** diz "**Ataque** + X". Usa o seu **Ataque**, como um golpe comum mais forte.
-* **Todo o resto**: **Dano Mágico**, **Cura**, metros empurrados e qualquer outro número da **Habilidade** são a sua **Eficiência**, e somam a sua **Maestria** (veja [[Atributos]]). Uma cura de "3 + **Maestria**" com **Maestria** 4 cura 7.
+* **Todo o resto**: **Dano Anormal**, **Cura**, metros empurrados e qualquer outro número da **Habilidade** são a sua **Eficiência**, e somam a sua **Maestria** (veja [[Atributos]]). Uma cura de "3 + **Maestria**" com **Maestria** 4 cura 7.
 * **Efeitos** nunca somam **Atributos**: "aplica 2 **Sangramento**" aplica 2, seja qual for a sua **Maestria**.
 
 ---

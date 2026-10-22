@@ -51,7 +51,7 @@ Dano causado, dano aguentado e quanto tempo você fica de pé. Sobre a **Força*
 
 # Inteligência
 
-Poder das suas **Habilidades**, resistência a **Dano Mágico** e **Foco** para gastar. Sobre a **Inteligência** no mundo, veja [[Matrizes]].
+Poder das suas **Habilidades**, resistência a **Dano Anormal** e **Foco** para gastar. Sobre a **Inteligência** no mundo, veja [[Matrizes]].
 
 ### Maestria — Ciência
 
@@ -61,7 +61,7 @@ Poder das suas **Habilidades**, resistência a **Dano Mágico** e **Foco** para 
 
 ### Espírito — Inocência
 
-* **Regra**: cada 2 pontos mitigam 1 do **Dano Mágico** que você sofre (exceto em [[Efeitos]]). Todo acerto causa pelo menos 1 (veja [[Tipos de Dano]]).
+* **Regra**: cada 2 pontos mitigam 1 do **Dano Anormal** que você sofre (exceto em [[Efeitos]]). Todo acerto causa pelo menos 1 (veja [[Tipos de Dano]]).
 * **Na prática**: responde à **Maestria** do mesmo jeito que a **Defesa** responde ao **Ataque**.
 * **Em Interpretação**: força de vontade, resistir a medo, ilusão e persuasão, intuição.
 

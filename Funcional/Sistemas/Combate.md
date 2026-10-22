@@ -45,7 +45,7 @@ Toda [[Ações|Ação]] contra um **Oponente** pede um **d20**:
 # Dano e Alcance
 
 * **Dano Físico**: vem do **Ataque** e é mitigado pela metade da **Defesa** do alvo.
-* **Dano Mágico**: vem da **Maestria** e é mitigado pela metade do **Espírito** do alvo.
+* **Dano Anormal**: vem da **Maestria** e é mitigado pela metade do **Espírito** do alvo.
 * **Dano mínimo**: todo acerto causa pelo menos 1. A conta completa, com **Poder**, **Fraqueza** e **Resistência**, está em [[Tipos de Dano]].
 * **Corpo a Corpo**: desarmado ou com arma de mão, o **Alcance** é 1 metro (casas vizinhas, inclusive na diagonal).
 * **Longo Alcance**: arcos, bestas e armas de arremesso alcançam o que a arma disser, mas causam **metade** do **Dano**, **Eficiências** e dos [[Efeitos]] (arredondado para baixo).

@@ -7,13 +7,6 @@ rever efeitos
 
 complexidade do calculo de foco
 
-Analisar guerreiro de outros jogos
-
-Recuperar skills do legado
-
-Skills de esgrima
-
-
 # Guerreiro WoW
 
 Cura ao matar
@@ -58,7 +51,7 @@ Atacar duas vezes por turno
 
 Conhecer ficha do oponente
 
-# Futuro
+# Futuro skills
 
 Reduzir muito o dano sofrido até o fim do combate
 
