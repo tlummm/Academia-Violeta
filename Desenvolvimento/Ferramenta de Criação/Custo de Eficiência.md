@@ -241,3 +241,5 @@ Sem custo. As **Ações de Ataque** contra você causam **1d4** a menos.
 * **Sem Tabuleiro**: os valores de movimento e de **Enraizamento** são médias. Numa sala apertada valem menos; num campo aberto, mais.
 * **Alvo genérico**: o que depende do tipo de alvo (ignorar **Defesa**, cortar cura, **Medo** só em **Normais**) é calculado como se a condição valesse, e a nota da **Habilidade** diz quando não vale.
 * **Ajustável**: se uma referência parecer errada, muda-se a tabela e as **Habilidades** são recalculadas.
+
+---
