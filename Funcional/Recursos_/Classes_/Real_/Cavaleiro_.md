@@ -76,6 +76,18 @@ Só o **Cavaleiro** aprende estes, com **Pontos de Aprendizado** e **Aprimoramen
 
 > **Talentos**
 
+### Cavalaria e Falcoaria
+
+Talento do Cavaleiro, Utilidade.
+
+Uma **Unidade** sob o seu controle que seja **Montaria** ou **Voadora** recebe 1 **Aumento Permanente** de **Ataque**, enquanto você estiver vivo.
+
+**Ranque 2**: o aumento passa a ser de **Força** ao invés de **Ataque** (1 de **Ataque** e 1 de **Defesa**).
+
+**Ranque 3**: ela também recebe mais 1 **Aumento Permanente** de **Defesa**, além do ganho de **Força**.
+
+<small>Todo pajem dorme no estábulo antes de dormir num quarto. Escova o cavalo, limpa os cascos e alimenta os falcões de quem o treina, e aprende cedo que um animal bem cuidado obedece no meio do barulho e da lama. Em batalha, o cavaleiro e a sua montaria lutam como um só corpo.</small>
+
 ### Nobreza
 
 Talento do Cavaleiro, Utilidade.

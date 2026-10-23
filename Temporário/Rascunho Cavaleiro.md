@@ -8,8 +8,6 @@
 
 **Punho Firme**: 
 
-**Cavalaria e Falcoaria**: 
-
 ### Habilidade
 
 # Intermediário 1
