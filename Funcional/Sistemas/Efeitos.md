@@ -45,20 +45,20 @@ Todo **Efeito** tem um nível. Quem dissipa remove **Efeitos** do seu nível ou 
 
 # Efeitos Positivos
 
-| **Efeito**       | **Nível**  | **O que faz** (por **Acúmulo**)                                                            | **Sai**            |
-| :--------------- | :--------- | :----------------------------------------------------------------------------------------- | :----------------- |
-| **Noção**        | Fraco      | Consumido para transformar um **Erro Crítico** de [[Interpretação]] em erro comum         | Consumido          |
-| **Atenção**      | Fraco      | +1 no **d20** dos **Testes** de [[Interpretação]]                                         | Fim da **Sessão**  |
-| **Inspiração**   | Fraco      | −1 no número de **Acerto Crítico** em [[Interpretação]]                                   | Consumido          |
-| **Aumento**      | Normal     | +1 num **Atributo** escolhido por quem aplica                                              | Tempo              |
-| **Concentração** | Normal     | Recupera 1 de **Foco** no **Início do Turno**                                              | Tempo              |
-| **Regeneração**  | Normal     | Recupera 1 de **Vida** no **Início do Turno**                                              | Tempo              |
-| **Equilíbrio**   | Forte      | Consumido para pagar 1 de **Foco** de uma [[Ações\|Ação]]                                  | Consumido          |
-| **Barreira**     | Forte      | Consumido para evitar 1 de **Dano** (exceto de **Efeitos**)                                | Consumido          |
-| **Resistência**  | Forte      | Consumido para anular a aplicação de um **Efeito** **Forte** ou mais fraco                 | Consumido          |
-| **Audácia**      | Verdadeiro | Consumido para rolar de novo um **d20** seu                                                | Consumido          |
-| **Proteção**     | Verdadeiro | Consumido para anular por completo um **Ataque** ou **Habilidade** de uma fonte específica | Consumido          |
-| **Imunidade**    | Verdadeiro | Não sofre **Dano** nem **Efeitos**                                                         | Tempo              |
+| **Efeito**       | **Nível**  | **O que faz** (por **Acúmulo**)                                                            | **Sai**           |
+| :--------------- | :--------- | :----------------------------------------------------------------------------------------- | :---------------- |
+| **Noção**        | Fraco      | Consumido para transformar um **Erro Crítico** de [[Interpretação]] em erro comum          | Consumido         |
+| **Atenção**      | Fraco      | +1 no **d20** dos **Testes** de [[Interpretação]]                                          | Fim da **Sessão** |
+| **Inspiração**   | Fraco      | −1 no número de **Acerto Crítico** em [[Interpretação]]                                    | Consumido         |
+| **Aumento**      | Normal     | +1 num **Atributo** escolhido por quem aplica                                              | Tempo             |
+| **Concentração** | Normal     | Recupera 1 de **Foco** no **Início do Turno**                                              | Tempo             |
+| **Regeneração**  | Normal     | Recupera 1 de **Vida** no **Início do Turno**                                              | Tempo             |
+| **Equilíbrio**   | Forte      | Consumido para pagar 1 de **Foco** de uma [[Ações\|Ação]]                                  | Consumido         |
+| **Barreira**     | Forte      | Consumido para evitar 1 de **Dano** (exceto de **Efeitos**)                                | Consumido         |
+| **Resistência**  | Forte      | Consumido para anular a aplicação de um **Efeito** **Forte** ou mais fraco                 | Consumido         |
+| **Audácia**      | Verdadeiro | Consumido para rolar de novo um **d20** seu                                                | Consumido         |
+| **Proteção**     | Verdadeiro | Consumido para anular por completo um **Ataque** ou **Habilidade** de uma fonte específica | Consumido         |
+| **Imunidade**    | Verdadeiro | Não sofre **Dano** nem **Efeitos**                                                         | Tempo             |
 
 > A **Audácia** da [[Regra de Ouro]] é este **Efeito**: dura até ser usada, de uma **Sessão** para outra.
 

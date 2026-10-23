@@ -76,6 +76,20 @@ Só o **Cavaleiro** aprende estes, com **Pontos de Aprendizado** e **Aprimoramen
 
 > **Talentos**
 
+### Boa Educação
+
+Talento do Cavaleiro, Utilidade.
+
+Você recebeu a educação básica de um nobre. Pode fazer as [[Ações]] básicas de todas as **Artes Externas** (veja [[Artes Reais]]) como se tivesse o **Grau 0** delas. Nas que você não aprendeu, os **Testes** são um nível mais difíceis: **Normal** vira **Difícil**, e assim por diante.
+
+Não concede as **Habilidades** nem os **Talentos** dessas **Artes**, só as **Ações** básicas.
+
+**Ranque 2**: os **Testes** deixam de ser mais difíceis.
+
+**Ranque 3**: nessas **Artes**, você não rola **Testes Normais**: consegue sempre.
+
+<small>Antes de saber lutar, o pajem passa pela mentoria de muitos mestres: o escrivão ensina as letras, o cavalariço ensina os cavalos, o cozinheiro ensina o fogo, o capelão ensina as rezas. Aprende um pouco de tudo e nada a fundo, o bastante para não ser um estranho em lugar nenhum.</small>
+
 ### Cavalaria e Falcoaria
 
 Talento do Cavaleiro, Utilidade.
@@ -100,5 +114,18 @@ Você se porta como um nobre: fala com respeito, usa as palavras e os títulos c
 
 <small>Um cavaleiro serve a uma casa e precisa saber se portar dentro dela. Junto com a espada, o pajem aprende a servir à mesa de quem o treina, a lembrar o título de cada convidado e a dançar nos salões sem envergonhar quem o armou.</small>
 
+### Religião Básica
+
+Talento do Cavaleiro, Utilidade.
+
+Você conhece o básico de [[Religião_]]: fé, tradições, deuses e cultos, ritos e o que pertence a cada crença. Faz as [[Ações]] dela como se tivesse o **Grau 0**, com 1 aumento no **Modificador** de [[Interpretação]].
+
+**Ranque 2**: nessas [[Ações]], você não rola **Testes Normais**: consegue sempre.
+
+**Ranque 3**: antes de uma tarefa você pode rezar por alguns minutos. Você e cada aliado que rezar junto ganham 1 de **Atenção** (veja [[Efeitos]]). Quem já teve **Atenção** por conta desse **Talento** não pode ganhar mais nessa [[Sessão]].
+
+<small>Ninguém pede ao pajem que entenda os mistérios da fé, só que saiba a oração da manhã, a da véspera da batalha e a dos mortos. Muitos cavaleiros não sabem dizer em que acreditam, mas nenhum deles entra em campo sem ter rezado antes.</small>
+
 > **Habilidades**
 
+---
