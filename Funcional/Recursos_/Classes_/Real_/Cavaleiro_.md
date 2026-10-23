@@ -114,6 +114,20 @@ Você se porta como um nobre: fala com respeito, usa as palavras e os títulos c
 
 <small>Um cavaleiro serve a uma casa e precisa saber se portar dentro dela. Junto com a espada, o pajem aprende a servir à mesa de quem o treina, a lembrar o título de cada convidado e a dançar nos salões sem envergonhar quem o armou.</small>
 
+### Punho Firme
+
+Talento do Cavaleiro, Ofensivo.
+
+Você recebe 1 **Aumento Permanente** de **Ataque**.
+
+Uma vez por **Turno**, ao fazer uma **Ação de Ataque**, você pode gastar 1 de **Foco** adicional para causar mais **1d10** de **Dano**.
+
+**Ranque 2**: o dado vira **d12**.
+
+**Ranque 3**: o **Aumento Permanente** passa a ser de 2 de **Ataque**.
+
+<small>O primeiro conselho que o pajem ouve quando segura uma arma de verdade é segurar com firmeza, nunca com a mão pela metade. A força do golpe vem dos pés, sobe pelo quadril e chega ao punho; quem fecha o punho até o fim pode pôr no golpe tudo o que ainda tem.</small>
+
 ### Religião Básica
 
 Talento do Cavaleiro, Utilidade.
